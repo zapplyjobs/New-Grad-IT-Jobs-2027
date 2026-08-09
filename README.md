@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![IT Jobs](https://img.shields.io/badge/IT_Jobs-133-brightgreen?style=flat&logo=briefcase)
-![Top: Help Desk & Support](https://img.shields.io/badge/Help_Desk_&_Support-71-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-79-blue?style=flat&logo=building)
+![IT Jobs](https://img.shields.io/badge/IT_Jobs-131-brightgreen?style=flat&logo=briefcase)
+![Top: Help Desk & Support](https://img.shields.io/badge/Help_Desk_&_Support-69-informational?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-78-blue?style=flat&logo=building)
 ![Last Update](https://img.shields.io/github/last-commit/zapplyjobs/New-Grad-IT-Jobs-2027?style=flat&logo=calendar)
 
 </div>
@@ -123,7 +123,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Saronic Technologies** | IT Technician | New Orleans, LA | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/saronic/b4efdbf3-095a-43dd-b08c-99120a7d1bb9) |
 | **Attio** | Technical Support Specialist  [Sat - ... | United States | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/attio/6ad58823-3a66-48f5-b8d6-1897c62b3bfb) |
 | **Cummins** | Instrumentation Technical Support Spe... | Columbus, IN, United S... | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2433874) |
-| **Danaher** | IT Support Technician | Boulder, Colorado, Uni... | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Boulder-Colorado-United-States/IT-Support-Technician_R1316560) |
 | **Daimler Truck** | Technical Support Specialist I | Portland, OR US | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Portland-OR-US/Technical-Support-Specialist-I_DT-18787-2) |
 | **Handshake** | IT Support Analyst | New York, NY | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/handshake/390ef261-755e-4bfd-9502-7677246b0462) |
 | **CLEAR** | IT Support Specialist I | New York, New York, Un... | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/clear/jobs/8104283) |
@@ -141,7 +140,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Braze** | Technical Support Specialist | Chicago | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/braze/jobs/8099717?gh_jid=8099717) |
 | **Braze** | Technical Support Specialist | Austin | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/braze/jobs/8099327?gh_jid=8099327) |
 | **Braze** | Technical Support Specialist | San Francisco | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/braze/jobs/8099312?gh_jid=8099312) |
-| **Danaher** | IT Support Technician | Sunnyvale, California,... | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Sunnyvale-California-United-States/IT-Support-Technician_R1315904) |
 | **Saronic Technologies** | Associate IT Technician | Austin, TX | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/saronic/9dd57cc2-7933-4f28-bfe5-06ac62713103) |
 | **VAST** | Subcontracts Specialist, IT Support, ... | Long Beach, California... | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/vast/jobs/4701358006?gh_jid=4701358006) |
 | **ElevenLabs** | IT Support | San Francisco | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/elevenlabs/750a8325-7ce1-45ea-b0b1-61dab78a456e) |
@@ -278,7 +276,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 133 current opportunities from 79 companies**
+**🎯 131 current opportunities from 78 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
