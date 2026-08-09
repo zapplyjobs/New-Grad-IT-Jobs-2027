@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![IT Jobs](https://img.shields.io/badge/IT_Jobs-162-brightgreen?style=flat&logo=briefcase)
-![Top: Help Desk & Support](https://img.shields.io/badge/Help_Desk_&_Support-83-informational?style=flat&logo=briefcase)
+![IT Jobs](https://img.shields.io/badge/IT_Jobs-168-brightgreen?style=flat&logo=briefcase)
+![Top: Help Desk & Support](https://img.shields.io/badge/Help_Desk_&_Support-87-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-82-blue?style=flat&logo=building)
 ![Last Update](https://img.shields.io/github/last-commit/zapplyjobs/New-Grad-IT-Jobs-2027?style=flat&logo=calendar)
 
@@ -66,6 +66,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
+| **Booz Allen Hamilton** | IT Systems Administrator | Arlington, VA | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Arlington-VA/IT-Systems-Administrator_R0246624) |
+| **Booz Allen Hamilton** | System Administrator | Columbia, MD | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Columbia-MD/System-Administrator_R0246268) |
 | **Accenture Federal Services** | Junior Systems Administrator | Washington, DC | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/accenturefederalservices/jobs/4702368006?gh_jid=4702368006) |
 | **GDIT** | Systems Administrator Associate | USA VA Springfield | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Springfield/Systems-Administrator-Associate_RQ225982-1) |
 | **Penn State University** | Systems Administrator (Linux/Cloud) | Reston, VA | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://psu.wd1.myworkdayjobs.com/Student/job/Reston-VA/Systems-Administrator--Linux-Cloud-_REQ_0000079324-1) |
@@ -74,8 +76,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **GDIT** | Restore System Administrator - TS/SCI... | USA MD Annapolis Junction | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Restore-System-Administrator---TS-SCI-w-Poly_RQ218072-1) |
 | **Sierra Nevada Corporation** | Systems Administrator - Deploy Only | Shalimar, FL | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Shalimar-FL/Systems-Administrator---Deploy-Only_R0030382) |
 | **T-Rex Solutions** | System Administrator 2 | Annapolis Junction, Ma... | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://www.trexsolutionsllc.com/current-opportunities-at-trex/?gh_jid=8687457002) |
-| **Motorola Solutions** | CAD/RMS System Administrator - Intern... | Washington DC Remote W... | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Washington-DC-Remote-Work/CAD-RMS-Technical-Co-op-Program_R64127) |
 | **Lynk** | Network System Administrator | Chevy Chase, MD | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/Lynk/e67f3b9f-021d-4c7b-b84b-20f4e8443e81) |
+| **Booz Allen Hamilton** | Systems Administrator | Honolulu, HI | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/Systems-Administrator_R0246006) |
 | **Waabi** | IT Systems Administrator | Pittsburgh, PA | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/waabi/571033e1-509b-4da2-9f38-76d76b34d234) |
 | **Accenture Federal Services** | Cloud Systems Administrator | Hill AFB, UT | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/accenturefederalservices/jobs/4695309006?gh_jid=4695309006) |
 | **NT Concepts** | Systems Administrator | Vienna, VA | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/ntconcepts/jobs/6129800004) |
@@ -116,7 +118,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **GDIT** | Service Desk Specialist (M-F 0700-1600) | USA VA Arlington | 27m | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Arlington/Service-Desk-Specialist--M-F-0700-1600-_RQ225550) |
+| **GDIT** | Service Desk Specialist (M-F 0700-1600) | USA VA Arlington | 33m | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Arlington/Service-Desk-Specialist--M-F-0700-1600-_RQ225550) |
+| **Booz Allen Hamilton** | Help Desk Specialist | Doral, FL | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Doral-FL/Help-Desk-Specialist_R0245337) |
+| **Booz Allen Hamilton** | Help Desk Specialist | Doral, FL | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Doral-FL/Help-Desk-Specialist_R0245340) |
 | **BorgWarner** | IT Technician Intern (Industrial Solu... | North Carolina | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Hendersonville---North-Carolina---USA/IT-Technician-Intern_R2026-3203) |
 | **Astreya** | Service Desk Specialist II | San Francisco, CA | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/San-Francisco-CA/Service-Desk-Specialist-II_R0016607) |
 | **Astreya** | Service Desk Specialist IV | San Francisco, CA | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/San-Francisco-CA/Service-Desk-Specialist-IV_R0016608) |
@@ -130,6 +134,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Saronic Technologies** | IT Technician | New Orleans, LA | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/saronic/b4efdbf3-095a-43dd-b08c-99120a7d1bb9) |
 | **Attio** | Technical Support Specialist  [Sat - ... | United States | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/attio/6ad58823-3a66-48f5-b8d6-1897c62b3bfb) |
 | **Cummins** | Instrumentation Technical Support Spe... | Columbus, IN, United S... | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2433874) |
+| **Booz Allen Hamilton** | Cybersecurity & IT Specialist | Arlington, VA | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Arlington-VA/Cybersecurity---IT-Specialist_R0245938) |
 | **Daimler Truck** | Technical Support Specialist I | Portland, OR US | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Portland-OR-US/Technical-Support-Specialist-I_DT-18787-2) |
 | **Danaher** | IT Support Technician | Boulder, Colorado, Uni... | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Boulder-Colorado-United-States/IT-Support-Technician_R1316560) |
 | **Handshake** | IT Support Analyst | New York, NY | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/handshake/390ef261-755e-4bfd-9502-7677246b0462) |
@@ -286,7 +291,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 162 current opportunities from 82 companies**
+**🎯 168 current opportunities from 82 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
