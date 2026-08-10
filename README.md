@@ -66,10 +66,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Captivation** | Systems Administrator 0-3 - Linux/KVM... | Annapolis Junction, MD | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/captivation/jobs/5385195008) |
-| **Leidos** | SCCM/Windows Systems Administrator | Bethesda, MD | 45m | [<img src="images/apply.png" width="80" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/SCCM-Windows-Systems-Administrator_R-00189164-1) |
-| **Booz Allen Hamilton** | Hardware Systems Administrator | Chantilly, VA | 53m | [<img src="images/apply.png" width="80" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Chantilly-VA/Hardware-Systems-Administrator_R0245201) |
-| **Booz Allen Hamilton** | Infrastructure Systems Administrator | Chantilly, VA | 53m | [<img src="images/apply.png" width="80" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Chantilly-VA/Infrastructure-Systems-Administrator_R0245203) |
+| **Captivation** | Systems Administrator 0-3 - Linux/KVM... | Annapolis Junction, MD | 25m | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/captivation/jobs/5385195008) |
+| **Leidos** | SCCM/Windows Systems Administrator | Bethesda, MD | 56m | [<img src="images/apply.png" width="80" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/SCCM-Windows-Systems-Administrator_R-00189164-1) |
+| **Booz Allen Hamilton** | Hardware Systems Administrator | Chantilly, VA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Chantilly-VA/Hardware-Systems-Administrator_R0245201) |
+| **Booz Allen Hamilton** | Infrastructure Systems Administrator | Chantilly, VA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Chantilly-VA/Infrastructure-Systems-Administrator_R0245203) |
 | **Captivation** | Systems Administrator 2 - Linux | Annapolis Junction, MD | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/captivation/jobs/5385026008) |
 | **Captivation** | Systems Administrator 1 - Linux | Annapolis Junction, MD | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/captivation/jobs/5385001008) |
 | **Leidos** | Windows Systems Administrator | Suitland, MD | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Suitland-MD/Windows-Systems-Administrator_R-00189142) |
@@ -118,12 +118,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Autodesk** | Technical Support Specialist - AutoCA... | Boston, MA, USA | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Boston-MA-USA/Technical-Support-Specialist---AutoCAD-Elec_26WD97678-2) |
-| **Autodesk** | Technical Support Specialist, BIM | Portland, OR, USA | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Portland-OR-USA/Technical-Support-Specialist--BIM_26WD99372-1) |
-| **Amentum** | IT Support Technician | Eloy, AZ | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-AZ-Eloy/IT-Support-Technician_R0167318-1) |
-| **Per Scholas** | Instructional Assistant (IT Support) | United States | 34m | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/perscholashires/jobs/4702822006) |
-| **Booz Allen Hamilton** | IT Help Desk Specialist | Honolulu, HI | 53m | [<img src="images/apply.png" width="80" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/IT-Help-Desk-Specialist_R0246479) |
-| **Booz Allen Hamilton** | Technical Service Desk Specialist | Virginia Beach, VA | 53m | [<img src="images/apply.png" width="80" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Virginia-Beach-VA/Technical-Service-Desk-Specialist_R0246363) |
+| **Autodesk** | Technical Support Specialist - AutoCA... | Boston, MA, USA | 16m | [<img src="images/apply.png" width="80" alt="Apply">](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Boston-MA-USA/Technical-Support-Specialist---AutoCAD-Elec_26WD97678-2) |
+| **Autodesk** | Technical Support Specialist, BIM | Portland, OR, USA | 16m | [<img src="images/apply.png" width="80" alt="Apply">](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Portland-OR-USA/Technical-Support-Specialist--BIM_26WD99372-1) |
+| **Amentum** | IT Support Technician | Eloy, AZ | 16m | [<img src="images/apply.png" width="80" alt="Apply">](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-AZ-Eloy/IT-Support-Technician_R0167318-1) |
+| **Per Scholas** | Instructional Assistant (IT Support) | United States | 45m | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/perscholashires/jobs/4702822006) |
+| **Booz Allen Hamilton** | IT Help Desk Specialist | Honolulu, HI | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/IT-Help-Desk-Specialist_R0246479) |
+| **Booz Allen Hamilton** | Technical Service Desk Specialist | Virginia Beach, VA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Virginia-Beach-VA/Technical-Service-Desk-Specialist_R0246363) |
 | **DoorDash** | IT Support Specialist II | New York, NY | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/doordashusa/jobs/8119375) |
 | **Radiant Industries** | IT Support Analyst | El Segundo, CA | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/radiant-industries/d9f91e21-dc7c-4307-bc61-38832996acf4) |
 | **Clarity Innovations** | IT Support Engineer | Herndon | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/clarityinnovates/jobs/5199763007) |
