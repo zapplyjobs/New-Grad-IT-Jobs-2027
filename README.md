@@ -114,7 +114,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **GDIT** | Application Help Desk Technician | USA FL MacDill AFB | 2m | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-FL-MacDill-AFB/Application-Help-Desk-Technician_RQ225695-1) |
+| **GDIT** | Application Help Desk Technician | USA FL MacDill AFB | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-FL-MacDill-AFB/Application-Help-Desk-Technician_RQ225695-1) |
 | **GDIT** | Service Desk Specialist (M-F 0700-1600) | USA VA Arlington | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Arlington/Service-Desk-Specialist--M-F-0700-1600-_RQ225550) |
 | **GDIT** | IT Support & Document Processing Spec... | USA LA Bossier City | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-LA-Bossier-City/IT-Support---Document-Processing-Specialist_RQ225976) |
 | **Magna** | 3rd Shift-IT Support Analyst | Carrollton, Georgia, US | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://magna.wd3.myworkdayjobs.com/Magna/job/Carrollton-Georgia-US/Analyst--IT-Support_R00251724) |
@@ -190,7 +190,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **GDIT** | Network Administrator (Hybrid) | USA AZ Home | 2m | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-AZ-Home-Office-AZHOME/Network-Administrator--Hybrid-_RQ225962-1) |
+| **GDIT** | Network Administrator (Hybrid) | USA AZ Home | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-AZ-Home-Office-AZHOME/Network-Administrator--Hybrid-_RQ225962-1) |
 | **Leidos** | Network Administrator | Hampton, VA | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Hampton-VA/Network-Administrator_R-00188923) |
 | **GDIT** | NCIS Network Administrator (NetOps/IT... | USA VA Quantico | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Quantico/NCIS-Network-Administrator--NetOps-ITSC----Active-TS-SCI-clearance_RQ224194-1) |
 | **GDIT** | Network Administrator Associate | USA GU Yigo | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-GU-Yigo/Network-Administrator-Associate_RQ225185) |
