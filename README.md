@@ -66,9 +66,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **FLIR Systems** | Payroll Systems Administrator | Chestnut Ridge, NY | 28m | [<img src="images/apply.png" width="80" alt="Apply">](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Chestnut-Ridge-NY/Global-Payroll-Systems-Administrator_REQ33673) |
-| **Teledyne** | Payroll Systems Administrator | Chestnut Ridge, NY | 28m | [<img src="images/apply.png" width="80" alt="Apply">](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Chestnut-Ridge-NY/Global-Payroll-Systems-Administrator_REQ33673) |
-| **RTX** | High Performance Computing System Adm... | Tucson, AZ | 28m | [<img src="images/apply.png" width="80" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M05--1151-E-Hermans-Rd--BLDG-M05-External-Site/High-Performance-Computing-System-Administrator--Analyst--Tucson--AZ-Onsite_01864167) |
+| **FLIR Systems** | Payroll Systems Administrator | Chestnut Ridge, NY | 34m | [<img src="images/apply.png" width="80" alt="Apply">](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Chestnut-Ridge-NY/Global-Payroll-Systems-Administrator_REQ33673) |
+| **Teledyne** | Payroll Systems Administrator | Chestnut Ridge, NY | 34m | [<img src="images/apply.png" width="80" alt="Apply">](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Chestnut-Ridge-NY/Global-Payroll-Systems-Administrator_REQ33673) |
+| **RTX** | High Performance Computing System Adm... | Tucson, AZ | 34m | [<img src="images/apply.png" width="80" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M05--1151-E-Hermans-Rd--BLDG-M05-External-Site/High-Performance-Computing-System-Administrator--Analyst--Tucson--AZ-Onsite_01864167) |
 | **Captivation** | Systems Administrator 0-3 - Linux/KVM... | Annapolis Junction, MD | 6h | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/captivation/jobs/5385195008) |
 | **Captivation** | Systems Administrator 2 - Linux | Annapolis Junction, MD | 7h | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/captivation/jobs/5385026008) |
 | **Captivation** | Systems Administrator 1 - Linux | Annapolis Junction, MD | 7h | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/captivation/jobs/5385001008) |
@@ -112,14 +112,14 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **GDIT** | Helpdesk | USA VA Manassas | 23m | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Manassas/Helpdesk_RQ225101) |
-| **GDIT** | Desktop Support Technician   Onsite D... | USA DC Washington | 23m | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-DC-Washington/Desktop-Support-Technician---Onsite-DC---Eligible-for-Public-Trust_RQ222393-1) |
-| **GDIT** | Application Help Desk Technician | USA FL MacDill AFB | 23m | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-FL-MacDill-AFB/Application-Help-Desk-Technician_RQ225695-1) |
-| **Autodesk** | Technical Support Specialist - AutoCA... | Boston, MA, USA | 43m | [<img src="images/apply.png" width="80" alt="Apply">](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Boston-MA-USA/Technical-Support-Specialist---AutoCAD-Elec_26WD97678-2) |
-| **Autodesk** | Technical Support Specialist, BIM | Portland, OR, USA | 43m | [<img src="images/apply.png" width="80" alt="Apply">](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Portland-OR-USA/Technical-Support-Specialist--BIM_26WD99372-1) |
-| **Amentum** | IT Support Technician | Tucson, AZ | 43m | [<img src="images/apply.png" width="80" alt="Apply">](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-AZ-Tucson/IT-Support-Technician_R0167953) |
-| **Amentum** | IT Support Technician | Eloy, AZ | 43m | [<img src="images/apply.png" width="80" alt="Apply">](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-AZ-Eloy/IT-Support-Technician_R0167318-1) |
-| **Avnet** | Desktop Support Specialist | Phoenix, Arizona, Unit... | 53m | [<img src="images/apply.png" width="80" alt="Apply">](https://avnet.wd1.myworkdayjobs.com/external/job/Phoenix-Arizona-United-States-Of-America/Desktop-Support-Specialist_JR-023884) |
+| **GDIT** | Helpdesk | USA VA Manassas | 28m | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Manassas/Helpdesk_RQ225101) |
+| **GDIT** | Desktop Support Technician   Onsite D... | USA DC Washington | 28m | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-DC-Washington/Desktop-Support-Technician---Onsite-DC---Eligible-for-Public-Trust_RQ222393-1) |
+| **GDIT** | Application Help Desk Technician | USA FL MacDill AFB | 28m | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-FL-MacDill-AFB/Application-Help-Desk-Technician_RQ225695-1) |
+| **Autodesk** | Technical Support Specialist - AutoCA... | Boston, MA, USA | 49m | [<img src="images/apply.png" width="80" alt="Apply">](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Boston-MA-USA/Technical-Support-Specialist---AutoCAD-Elec_26WD97678-2) |
+| **Autodesk** | Technical Support Specialist, BIM | Portland, OR, USA | 49m | [<img src="images/apply.png" width="80" alt="Apply">](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Portland-OR-USA/Technical-Support-Specialist--BIM_26WD99372-1) |
+| **Amentum** | IT Support Technician | Tucson, AZ | 49m | [<img src="images/apply.png" width="80" alt="Apply">](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-AZ-Tucson/IT-Support-Technician_R0167953) |
+| **Amentum** | IT Support Technician | Eloy, AZ | 49m | [<img src="images/apply.png" width="80" alt="Apply">](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-AZ-Eloy/IT-Support-Technician_R0167318-1) |
+| **Avnet** | Desktop Support Specialist | Phoenix, Arizona, Unit... | 59m | [<img src="images/apply.png" width="80" alt="Apply">](https://avnet.wd1.myworkdayjobs.com/external/job/Phoenix-Arizona-United-States-Of-America/Desktop-Support-Specialist_JR-023884) |
 | **CAE** | IT Specialist (Programmer/Operator) | Altus, OK, USA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://cae.wd3.myworkdayjobs.com/career/job/Altus-OK-USA/IT-Specialist--Programmer-Operator-_122976) |
 | **CAE** | IT Specialist (Programmer/Operator) | Altus, OK, USA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://cae.wd3.myworkdayjobs.com/career/job/Altus-OK-USA/IT-Specialist--Programmer-Operator-_122977) |
 | **Per Scholas** | Instructional Assistant (IT Support) | United States | 6h | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/perscholashires/jobs/4702822006) |
@@ -194,7 +194,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **GDIT** | Network Administrator (Hybrid) | USA AZ Home | 23m | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-AZ-Home-Office-AZHOME/Network-Administrator--Hybrid-_RQ225962-1) |
+| **GDIT** | Network Administrator (Hybrid) | USA AZ Home | 28m | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-AZ-Home-Office-AZHOME/Network-Administrator--Hybrid-_RQ225962-1) |
 | **Leidos** | Network Administrator | Hampton, VA | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Hampton-VA/Network-Administrator_R-00188923) |
 | **GDIT** | NCIS Network Administrator (NetOps/IT... | USA VA Quantico | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Quantico/NCIS-Network-Administrator--NetOps-ITSC----Active-TS-SCI-clearance_RQ224194-1) |
 | **GDIT** | Network Administrator Associate | USA GU Yigo | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-GU-Yigo/Network-Administrator-Associate_RQ225185) |
