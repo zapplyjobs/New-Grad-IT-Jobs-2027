@@ -119,7 +119,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Per Scholas** | Instructional Assistant (IT Support) | United States | 15h | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/perscholashires/jobs/4702822006) |
 | **DoorDash** | IT Support Specialist II | New York, NY | 16h | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/doordashusa/jobs/8119375) |
 | **Radiant Industries** | IT Support Analyst | El Segundo, CA | 16h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/radiant-industries/d9f91e21-dc7c-4307-bc61-38832996acf4) |
-| **Clarity Innovations** | IT Support Engineer | Herndon | 16h | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/clarityinnovates/jobs/5199763007) |
+| **Clarity Innovations** | IT Support Engineer | Herndon | 17h | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/clarityinnovates/jobs/5199763007) |
 | **CAE** | IT Specialist (Programmer/Operator) | Altus, OK, USA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://cae.wd3.myworkdayjobs.com/career/job/Altus-OK-USA/IT-Specialist--Programmer-Operator-_122976) |
 | **CAE** | IT Specialist (Programmer/Operator) | Altus, OK, USA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://cae.wd3.myworkdayjobs.com/career/job/Altus-OK-USA/IT-Specialist--Programmer-Operator-_122977) |
 | **Amentum** | IT Support Technician | Tucson, AZ | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-AZ-Tucson/IT-Support-Technician_R0167953) |
