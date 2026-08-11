@@ -66,10 +66,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Smiths Group** | Teamcenter Systems Administrator | Morton Grove, IL | 4m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SmithsGroup2/744000127305989) |
-| **NBCUniversal** | DreamWorks Technology - Systems Admin... | Glendale, CALIFORNIA | 4m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000138165770) |
-| **Eurofins** | Laboratory Instrument System Administ... | Lancaster, PA | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000137657566) |
-| **AbbVie** | Business Analyst/System Administrator... | North Chicago, IL | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014063367) |
+| **Smiths Group** | Teamcenter Systems Administrator | Morton Grove, IL | 10m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SmithsGroup2/744000127305989) |
+| **NBCUniversal** | DreamWorks Technology - Systems Admin... | Glendale, CALIFORNIA | 11m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000138165770) |
+| **Eurofins** | Laboratory Instrument System Administ... | Lancaster, PA | 11m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000137657566) |
+| **AbbVie** | Business Analyst/System Administrator... | North Chicago, IL | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014063367) |
 | **Captivation** | Systems Administrator 0-3 - Linux/KVM... | Annapolis Junction, MD | 23h | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/captivation/jobs/5385195008) |
 | **FLIR Systems** | Payroll Systems Administrator | Chestnut Ridge, NY | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Chestnut-Ridge-NY/Global-Payroll-Systems-Administrator_REQ33673) |
 | **Captivation** | Systems Administrator 2 - Linux | Annapolis Junction, MD | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/captivation/jobs/5385026008) |
@@ -118,10 +118,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **CACI** | Help Desk Tier I | National Harbor, MD, US | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/National-Harbor-MD-US/Help-Desk-Tier-I_330383) |
-| **CACI** | Help Desk Operations Specialist | Omaha, NE, US | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/Omaha-NE-US/Help-Desk-Operations-Specialist_330338) |
-| **CACI** | Enterprise Service Desk Technician | Oklahoma City, OK, US | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/Oklahoma-City-OK-US/Enterprise-Service-Desk-Technician_330271) |
-| **Experian** | Manager, Application IT Support | UNITED STATES | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Experian/744000138202510) |
+| **CACI** | Help Desk Tier I | National Harbor, MD, US | 11m | [<img src="images/apply.png" width="80" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/National-Harbor-MD-US/Help-Desk-Tier-I_330383) |
+| **CACI** | Help Desk Operations Specialist | Omaha, NE, US | 11m | [<img src="images/apply.png" width="80" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/Omaha-NE-US/Help-Desk-Operations-Specialist_330338) |
+| **CACI** | Enterprise Service Desk Technician | Oklahoma City, OK, US | 11m | [<img src="images/apply.png" width="80" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/Oklahoma-City-OK-US/Enterprise-Service-Desk-Technician_330271) |
+| **Experian** | Manager, Application IT Support | UNITED STATES | 11m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Experian/744000138202510) |
 | **Axon** | IT Support Technician | Boston, Massachusetts,... | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/axon/jobs/7823326003) |
 | **Anduril** | Service Desk Analyst | Quincy, Massachusetts,... | 4h | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5159567007?gh_jid=5159567007) |
 | **Per Scholas** | Instructional Assistant (IT Support) | United States | 23h | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/perscholashires/jobs/4702822006) |
@@ -210,9 +210,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Eurofins** | IT Operations and Infrastructure | Lancaster, PA | 4m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/743999715306274) |
-| **CACI** | IT Operations Specialist | Albuquerque, NM, US | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/Albuquerque-NM-US/IT-Operations-Specialist_329278) |
-| **Synergy ECP** | Postgres Database Administrator | Washington, DC | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/synergyecp/1971e34d-b0fb-4a64-a6f7-b9983c91ff82) |
+| **Eurofins** | IT Operations and Infrastructure | Lancaster, PA | 11m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/743999715306274) |
+| **CACI** | IT Operations Specialist | Albuquerque, NM, US | 11m | [<img src="images/apply.png" width="80" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/Albuquerque-NM-US/IT-Operations-Specialist_329278) |
+| **Synergy ECP** | Postgres Database Administrator | Washington, DC | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/synergyecp/1971e34d-b0fb-4a64-a6f7-b9983c91ff82) |
 | **CACI** | Asset Management Specialist - IT Oper... | Arlington, VA, US | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/Arlington-VA-US/Asset-Management-Specialist---IT-Operations_330193) |
 | **Fiserv** | IT Operations Technician (overnights) | Alpharetta Georgia | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://fiserv.wd5.myworkdayjobs.com/ext/job/Alpharetta-Georgia/IT-Operations-Technician_R-10398498) |
 | **Vanguard** | Database Administrator, Specialist | Wayne, PA | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Wayne-PA/Database-Administrator--Specialist_180962-1) |
