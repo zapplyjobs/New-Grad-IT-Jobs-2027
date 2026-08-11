@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![IT Jobs](https://img.shields.io/badge/IT_Jobs-158-brightgreen?style=flat&logo=briefcase)
-![Top: Help Desk & Support](https://img.shields.io/badge/Help_Desk_&_Support-91-informational?style=flat&logo=briefcase)
+![IT Jobs](https://img.shields.io/badge/IT_Jobs-157-brightgreen?style=flat&logo=briefcase)
+![Top: Help Desk & Support](https://img.shields.io/badge/Help_Desk_&_Support-88-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-75-blue?style=flat&logo=building)
 ![Last Update](https://img.shields.io/github/last-commit/zapplyjobs/New-Grad-IT-Jobs-2027?style=flat&logo=calendar)
 
@@ -85,8 +85,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Accenture Federal Services** | Cloud Systems Administrator | Hill AFB, UT | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/accenturefederalservices/jobs/4695309006?gh_jid=4695309006) |
 | **Leidos** | Systems Administrator/Helpdesk Engineer | Gaithersburg, MD | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Systems-Administrator-Helpdesk-Engineer_R-00188761) |
 | **Leidos** | Cyber Security Systems Administrator | Ridgecrest, CA | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Ridgecrest-CA/Cyber-Security-Systems-Administrator_R-00188757) |
-| **Parsons** | Systems Administrator - Secret required | MD, Aberdeen, R184135 | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://parsons.wd5.myworkdayjobs.com/search/job/US---MD-Aberdeen/Systems-Administrator---Secret-required_R184135) |
 | **NT Concepts** | Systems Administrator | Vienna, VA | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/ntconcepts/jobs/6129800004) |
+| **Parsons** | System Administrator (TS/SCI w/Poly) | MD (Field Location), R... | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://parsons.wd5.myworkdayjobs.com/search/job/US---MD-Field-Location/System-Administrator--TS-SCI-w-Poly-_R183314) |
+| **Parsons** | Systems Administrator - TS/SCI required | MD, Aberdeen, R182625 | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://parsons.wd5.myworkdayjobs.com/search/job/US---MD-Aberdeen/Systems-Administrator---TS-SCI-required_R182625) |
 | **D. E. Shaw** | Systems Administrator Intern (New York) | New York | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://www.deshaw.com/careers/systems-administrator-intern-new-york-5921) |
 | **Relay** | Finance Systems Administrator | Raleigh, NC | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/relaypro/jobs/8087901) |
 | **Freedom Technology Solutions Group** | Systems Administrator 739 | McLean, VA | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/freedomconsulting/jobs/5196541007) |
@@ -114,6 +115,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **DoorDash** | IT Support Specialist II | New York, NY | 15h | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/doordashusa/jobs/8119375) |
 | **Radiant Industries** | IT Support Analyst | El Segundo, CA | 15h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/radiant-industries/d9f91e21-dc7c-4307-bc61-38832996acf4) |
 | **Clarity Innovations** | IT Support Engineer | Herndon | 15h | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/clarityinnovates/jobs/5199763007) |
+| **Avnet** | Desktop Support Specialist | Phoenix, Arizona, Unit... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://avnet.wd1.myworkdayjobs.com/external/job/Phoenix-Arizona-United-States-Of-America/Desktop-Support-Specialist_JR-023884) |
 | **CAE** | IT Specialist (Programmer/Operator) | Altus, OK, USA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://cae.wd3.myworkdayjobs.com/career/job/Altus-OK-USA/IT-Specialist--Programmer-Operator-_122976) |
 | **CAE** | IT Specialist (Programmer/Operator) | Altus, OK, USA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://cae.wd3.myworkdayjobs.com/career/job/Altus-OK-USA/IT-Specialist--Programmer-Operator-_122977) |
 | **Autodesk** | Technical Support Specialist - AutoCA... | Boston, MA, USA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Boston-MA-USA/Technical-Support-Specialist---AutoCAD-Elec_26WD97678-2) |
@@ -123,23 +125,22 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **GDIT** | Application Help Desk Technician | USA FL MacDill AFB | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-FL-MacDill-AFB/Application-Help-Desk-Technician_RQ225695-1) |
 | **Amentum** | IT Support Technician | Tucson, AZ | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-AZ-Tucson/IT-Support-Technician_R0167953) |
 | **Amentum** | IT Support Technician | Eloy, AZ | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-AZ-Eloy/IT-Support-Technician_R0167318-1) |
-| **Avnet** | Desktop Support Specialist | Phoenix, Arizona, Unit... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://avnet.wd1.myworkdayjobs.com/external/job/Phoenix-Arizona-United-States-Of-America/Desktop-Support-Specialist_JR-023884) |
 | **Cummins** | Mechanical Engineering Technical Supp... | Columbus, IN, United S... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2435282) |
+| **BorgWarner** | IT Technician Intern (Industrial Solu... | North Carolina | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Hendersonville---North-Carolina---USA/IT-Technician-Intern_R2026-3203) |
 | **Astreya** | Service Desk Specialist II | San Francisco, CA | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/San-Francisco-CA/Service-Desk-Specialist-II_R0016607) |
 | **Astreya** | Service Desk Specialist IV | San Francisco, CA | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/San-Francisco-CA/Service-Desk-Specialist-IV_R0016608) |
 | **Astreya** | Service Desk Specialist II | San Francisco, CA | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/San-Francisco-CA/Service-Desk-Specialist-II_R0016649) |
 | **Magna** | 3rd Shift-IT Support Analyst | Carrollton, Georgia, US | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://magna.wd3.myworkdayjobs.com/Magna/job/Carrollton-Georgia-US/Analyst--IT-Support_R00251724) |
-| **BorgWarner** | IT Technician Intern (Industrial Solu... | North Carolina | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Hendersonville---North-Carolina---USA/IT-Technician-Intern_R2026-3203) |
 | **Saronic Technologies** | IT Technician | New Orleans, LA | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/saronic/b4efdbf3-095a-43dd-b08c-99120a7d1bb9) |
 | **Attio** | Technical Support Specialist  [Sat - ... | United States | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/attio/6ad58823-3a66-48f5-b8d6-1897c62b3bfb) |
 | **CrowdStrike** | IT Support Admin – Executive Briefing... | Sunnyvale, CA | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/IT-Support-Admin---Executive-Briefing-Center--Remote-_R28812) |
 | **Bloomberg Industry Group** | Technical Support Specialist (INDG) | Arlington, VA | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://bloomberg.wd1.myworkdayjobs.com/Bloombergindustrygroup_External_Career_Site/job/Arlington-VA---1801-S-Bell-INDG/Technical-Support-Specialist--INDG-_143012) |
 | **Cummins** | Instrumentation Technical Support Spe... | Columbus, IN, United S... | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2433874) |
 | **Handshake** | IT Support Analyst | New York, NY | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/handshake/390ef261-755e-4bfd-9502-7677246b0462) |
-| **Danaher** | IT Support Technician | Boulder, Colorado, Uni... | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Boulder-Colorado-United-States/IT-Support-Technician_R1316560) |
 | **Trace3** | Service Desk Technician (Remote) | Louisville, KY | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/trace3/jobs/8096524) |
 | **Anduril** | Service Desk Analyst | Washington, District o... | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5201671007?gh_jid=5201671007) |
 | **RE/SPEC Inc.** | Desktop Support Technician (Contracto... | Santa Fe, NM | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RESPECInc/744000141524889) |
+| **Thermo Fisher Scientific** | Global Technical Support Specialist I... | Hillsboro, Oregon, USA | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Hillsboro-Oregon-USA/Global-Technical-Support-Specialist-III---Digital_R-01363181) |
 | **Leidos** | Computer Support Specialist | Crane, IN | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Crane-IN/Computer-Support-Specialist_R-00188684) |
 | **Cape** | IT Support Specialist | New York, NY | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cape/74b860e6-1e8f-4bda-9f97-9aede0b0253f) |
 | **Handshake** | IT Support Analyst | San Francisco, CA | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/handshake/92b1b4d0-aa14-494f-888c-b3a1400614f9) |
@@ -151,13 +152,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Braze** | Technical Support Specialist | Chicago | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/braze/jobs/8099717?gh_jid=8099717) |
 | **Braze** | Technical Support Specialist | Austin | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/braze/jobs/8099327?gh_jid=8099327) |
 | **Braze** | Technical Support Specialist | San Francisco | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/braze/jobs/8099312?gh_jid=8099312) |
-| **Parsons** | IT Support Tech | FL, Miami, R183989 | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://parsons.wd5.myworkdayjobs.com/search/job/US---FL-Miami/IT-Support-Tech_R183989) |
 | **Elanco** | Executive IT Support Partner | Indianapolis, IN | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://elanco.wd5.myworkdayjobs.com/External_Career/job/Indianapolis-IN/Executive-IT-Support-Partner_R0026462-1) |
 | **Saronic Technologies** | Associate IT Technician | Austin, TX | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/saronic/9dd57cc2-7933-4f28-bfe5-06ac62713103) |
 | **VAST** | Subcontracts Specialist, IT Support, ... | Long Beach, California... | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/vast/jobs/4701358006?gh_jid=4701358006) |
 | **ElevenLabs** | IT Support | San Francisco | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/elevenlabs/750a8325-7ce1-45ea-b0b1-61dab78a456e) |
-| **Parsons** | OSINT Mission IT Specialist | NC, Fayetteville, R183257 | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://parsons.wd5.myworkdayjobs.com/search/job/US---NC-Fayetteville/OSINT-Mission-IT-Specialist_R183257-1) |
-| **Danaher** | IT Support Technician | Sunnyvale, California,... | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Sunnyvale-California-United-States/IT-Support-Technician_R1315904) |
 | **Baseten** | IT Support / Operations Engineer | New York | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/baseten/c07eb44f-b5fa-4808-90b7-03b265d97836) |
 | **SpaceX** | IT Support Technician (Logistics) | Bastrop, TX | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8650224002?gh_jid=8650224002) |
 | **Redwood Materials** | IT Support Specialist | San Francisco, Califor... | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/redwoodmaterials/jobs/6118262004?gh_jid=6118262004) |
@@ -220,6 +218,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Brown & Brown Insurance** | SQL Server Database Administrator | Plano, TX, USA | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Plano-TX-USA/SQL-Server-Database-Administrator_R26_0000000757) |
 | **Leidos** | Postgres SQL Database Administrator | Ashburn, VA | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Ashburn-VA/PostgreSQL-Database-Administrator_R-00186233) |
 | **Uline** | Database Administrator Internship - S... | Pleasant Prairie, WI | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Database-Administrator-Internship---Summer-2027_R265687) |
+| **Parsons** | Database Administrator (TS/SCI w/Poly) | MD (Field Location), R... | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://parsons.wd5.myworkdayjobs.com/search/job/US---MD-Field-Location/Database-Administrator_R183319) |
 | **Amazon.com Services LLC** | System Admin/Engr I, Ring and Blink C... | Hawthorne, CA | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10488851/system-admin-engr-i-ring-and-blink-cs-technology-enablement) |
 | **Skydio** | IT Operations Engineer | San Mateo, California,... | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/skydio/85e92e26-b1a7-40ce-bedb-d929fbec5faa) |
 | **Instacart** | Manager, IT Operations | San Francisco, Bay Are... | 3w | [<img src="images/apply.png" width="80" alt="Apply">](https://instacart.careers/job/?gh_jid=8074453) |
@@ -285,7 +284,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 158 current opportunities from 75 companies**
+**🎯 157 current opportunities from 75 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
