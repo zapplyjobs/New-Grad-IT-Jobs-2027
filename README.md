@@ -114,7 +114,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Promise** | IT Specialist | San Francisco | 7h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/promise/7f83127d-59c1-4348-8c15-bae23891576b) |
+| **Promise** | IT Specialist | San Francisco | 8h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/promise/7f83127d-59c1-4348-8c15-bae23891576b) |
 | **Atlantic Health System** | IT Support Technician I Per Diem | Newton, NJ, United States | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/31793) |
 | **Accenture Federal Services** | Oracle Cloud HCM HR HelpDesk Specialist | Washington, DC | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/accenturefederalservices/jobs/4704739006?gh_jid=4704739006) |
 | **Anduril** | Service Desk Analyst | Costa Mesa, California... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5063246007?gh_jid=5063246007) |
