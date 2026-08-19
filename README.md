@@ -76,15 +76,15 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Smiths Group** | Teamcenter Systems Administrator | Morton Grove, IL | 9m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SmithsGroup2/744000127305989) |
-| **NBCUniversal** | DreamWorks Technology - Systems Admin... | Glendale, CALIFORNIA | 10m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000138165770) |
-| **Eurofins** | Laboratory Instrument System Administ... | Lancaster, PA | 10m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000137657566) |
-| **Waabi** | IT Systems Administrator | Pittsburgh, PA | 10m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/waabi/571033e1-509b-4da2-9f38-76d76b34d234) |
-| **Synergy ECP** | Platform / Linux System Administrator | Annapolis Junction, MD | 10m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/synergyecp/90f408fe-e903-471d-9a3e-04459dbd0791) |
-| **Shield AI** | Associate Systems Administrator (R5436) | San Mateo, California | 11m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/shieldai/793af9d3-283e-415c-b650-719ac712e00c) |
-| **PingWind** | Systems Administrator | Camp Parks, California | 11m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/pingwind/6779572f-6f6d-418e-a780-17987d599ef8) |
-| **PingWind** | Systems Administrator | Shaw AFB, SC / Kuwait | 11m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/pingwind/b4fafd77-e9be-465a-9c04-4acd0f1179d3) |
-| **Hermeus** | Engineering Solutions Systems Adminis... | Los Angeles, CA | 11m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/hermeus/4651315a-9255-465d-8067-749f4c309869) |
+| **Smiths Group** | Teamcenter Systems Administrator | Morton Grove, IL | 19m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SmithsGroup2/744000127305989) |
+| **NBCUniversal** | DreamWorks Technology - Systems Admin... | Glendale, CALIFORNIA | 19m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000138165770) |
+| **Eurofins** | Laboratory Instrument System Administ... | Lancaster, PA | 19m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000137657566) |
+| **Waabi** | IT Systems Administrator | Pittsburgh, PA | 20m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/waabi/571033e1-509b-4da2-9f38-76d76b34d234) |
+| **Synergy ECP** | Platform / Linux System Administrator | Annapolis Junction, MD | 20m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/synergyecp/90f408fe-e903-471d-9a3e-04459dbd0791) |
+| **Shield AI** | Associate Systems Administrator (R5436) | San Mateo, California | 20m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/shieldai/793af9d3-283e-415c-b650-719ac712e00c) |
+| **PingWind** | Systems Administrator | Camp Parks, California | 20m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/pingwind/6779572f-6f6d-418e-a780-17987d599ef8) |
+| **PingWind** | Systems Administrator | Shaw AFB, SC / Kuwait | 20m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/pingwind/b4fafd77-e9be-465a-9c04-4acd0f1179d3) |
+| **Hermeus** | Engineering Solutions Systems Adminis... | Los Angeles, CA | 20m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/hermeus/4651315a-9255-465d-8067-749f4c309869) |
 | **D. E. Shaw** | Systems Administrator (New York) | New York | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://www.deshaw.com/careers/systems-administrator-new-york-2650) |
 | **Nozomi Networks** | Go-To-Market Systems Administrator | United States | 22h | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/nozominetworks/jobs/4722608005) |
 | **GDIT** | System Administrator | USA AK Eielson AFB | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-AK-Eielson-AFB/System-Administrator_RQ225151-1) |
@@ -160,8 +160,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **RE/SPEC Inc.** | Desktop Support Technician (Contracto... | Santa Fe, NM | 9m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RESPECInc/744000141524889) |
-| **Astreya** | Service Desk Specialist | New York, NY | 30m | [<img src="images/apply.png" width="80" alt="Apply">](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/New-York-NY/Service-Desk-Specialist_R0016195) |
+| **RE/SPEC Inc.** | Desktop Support Technician (Contracto... | Santa Fe, NM | 19m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RESPECInc/744000141524889) |
+| **Astreya** | Service Desk Specialist | New York, NY | 39m | [<img src="images/apply.png" width="80" alt="Apply">](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/New-York-NY/Service-Desk-Specialist_R0016195) |
 | **Jabil** | IT Support Technician II | Devens, MA | 5h | [<img src="images/apply.png" width="80" alt="Apply">](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Devens-MA/IT-Support-Technician-II_J2461377) |
 | **Blue Origin** | Global Service Desk level I | Huntsville, AL | 8h | [<img src="images/apply.png" width="80" alt="Apply">](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Huntsville-AL/Global-Service-Desk-level-I_R70488-1) |
 | **CVS Health** | Help Desk- Pharmacy Technician, Custo... | Work from home, FL | 11h | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/FL---Work-from-home/Help-Desk--Pharmacy-Technician--Customer-Relations_R1001321) |
@@ -280,9 +280,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Eurofins** | IT Operations and Infrastructure | Lancaster, PA | 10m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/743999715306274) |
-| **Woven by Toyota** | Systems Engineer II, AI Solutions & I... | Palo Alto, CA | 10m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/woven-by-toyota/d1371e79-10d9-4553-9d90-2611ee53e1e2) |
-| **Institute for Foundation Models** | IT Operations Specialist | Sunnyvale, CA | 11m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/ifm-us/46be8bbe-45b7-4a20-9b96-99bdf7b74f82) |
+| **Eurofins** | IT Operations and Infrastructure | Lancaster, PA | 19m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/743999715306274) |
+| **Woven by Toyota** | Systems Engineer II, AI Solutions & I... | Palo Alto, CA | 20m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/woven-by-toyota/d1371e79-10d9-4553-9d90-2611ee53e1e2) |
+| **Institute for Foundation Models** | IT Operations Specialist | Sunnyvale, CA | 20m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/ifm-us/46be8bbe-45b7-4a20-9b96-99bdf7b74f82) |
 | **CVS Health** | IT Operations Analyst | Windsor, CT | 11h | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Windsor/IT-Operations-Analyst_R1007977) |
 | **GDIT** | HQ Mid Desktop Engineer | USA VA Alexandria | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Alexandria/HQ-Mid-Desktop-Engineer_RQ226362-1) |
 | **GDIT** | VDI EUC Engineer | USA VA Newington | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Newington/VDI-EUC-Engineer_RQ226439) |
