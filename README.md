@@ -67,14 +67,14 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Smiths Group** | Teamcenter Systems Administrator | Morton Grove, IL | 10m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SmithsGroup2/744000127305989) |
-| **NBCUniversal** | DreamWorks Technology - Systems Admin... | Glendale, CALIFORNIA | 10m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000138165770) |
+| **Smiths Group** | Teamcenter Systems Administrator | Morton Grove, IL | 11m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SmithsGroup2/744000127305989) |
+| **NBCUniversal** | DreamWorks Technology - Systems Admin... | Glendale, CALIFORNIA | 11m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000138165770) |
 | **Eurofins** | Laboratory Instrument System Administ... | Lancaster, PA | 11m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000137657566) |
-| **Waabi** | IT Systems Administrator | Pittsburgh, PA | 11m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/waabi/571033e1-509b-4da2-9f38-76d76b34d234) |
-| **Synergy ECP** | Platform / Linux System Administrator | Annapolis Junction, MD | 11m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/synergyecp/90f408fe-e903-471d-9a3e-04459dbd0791) |
-| **Shield AI** | Associate Systems Administrator (R5436) | San Mateo, California | 11m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/shieldai/793af9d3-283e-415c-b650-719ac712e00c) |
-| **PingWind** | Systems Administrator | Camp Parks, California | 11m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/pingwind/6779572f-6f6d-418e-a780-17987d599ef8) |
-| **PingWind** | Systems Administrator | Shaw AFB, SC / Kuwait | 11m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/pingwind/b4fafd77-e9be-465a-9c04-4acd0f1179d3) |
+| **Waabi** | IT Systems Administrator | Pittsburgh, PA | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/waabi/571033e1-509b-4da2-9f38-76d76b34d234) |
+| **Synergy ECP** | Platform / Linux System Administrator | Annapolis Junction, MD | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/synergyecp/90f408fe-e903-471d-9a3e-04459dbd0791) |
+| **Shield AI** | Associate Systems Administrator (R5436) | San Mateo, California | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/shieldai/793af9d3-283e-415c-b650-719ac712e00c) |
+| **PingWind** | Systems Administrator | Camp Parks, California | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/pingwind/6779572f-6f6d-418e-a780-17987d599ef8) |
+| **PingWind** | Systems Administrator | Shaw AFB, SC / Kuwait | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/pingwind/b4fafd77-e9be-465a-9c04-4acd0f1179d3) |
 | **Hermeus** | Engineering Solutions Systems Adminis... | Los Angeles, CA | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/hermeus/4651315a-9255-465d-8067-749f4c309869) |
 | **Vultr** | Linux Systems Administrator | United States | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/Vultr/24c3445f-27b2-40fb-870e-e59b71305787) |
 | **Antares** | Systems Administrator | Los Angeles | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/antares/0615cc16-2440-4a99-9e1d-e811b47737c7) |
@@ -97,8 +97,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Oracle** | System Administrator 1-IT | Kansas City, MO, Unite... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/337327) |
 | **Anduril** | System Administrator (Second Shift) -... | Ashville, Ohio, United... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5217888007?gh_jid=5217888007) |
 | **Trace3** | System Administrator II | Colorado Springs, CO | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/trace3/jobs/8155504) |
-| **RTX** | Linux Systems Administrator | Mckinney, TX | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/Linux-Systems-Administrator_01867260) |
 | **Radiance Technologies** | Systems Administrator | Huntsville, AL | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Huntsville-AL/Systems-Administrator_HR102366) |
+| **RTX** | Linux Systems Administrator | Mckinney, TX | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/Linux-Systems-Administrator_01867260) |
 | **Amentum** | System Administrator II | Rapid City, SD | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-SD-Rapid-City/System-Administrator-II_R0168864) |
 | **Northrop Grumman** | Systems Administrator (AHT) | Colorado | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Systems-Administrator--AHT-_R10245639) |
 | **Booz Allen Hamilton** | Systems Administrator and Security An... | Fort Belvoir, VA | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Belvoir-VA/Systems-Administrator-and-Security-Analyst_R0241858) |
@@ -119,8 +119,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **AeroVironment** | Linux System Administrator | Herndon, VA | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://avav.wd1.myworkdayjobs.com/AVAV/job/Herndon-VA/Linux-System-Administrator_8442) |
 | **KBR** | Systems Administrator | Niceville Florida | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Niceville-Florida/Systems-Administrator_R2126616) |
 | **Parsons** | Tier 1 Systems Administrator - Tuesda... | CO, Boulder, R185081 | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://parsons.wd5.myworkdayjobs.com/search/job/US---CO-Boulder/Tier-1-Systems-Administrator---Tuesday-Saturday---Holidays_R185081) |
-| **Boeing** | IT Systems Administrator - Millennium... | El Segundo, CA | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/IT-Systems-Administrator---Millennium-Space-Systems_JR2026516718-1) |
 | **Radiance Technologies** | System Administrator | Beavercreek, OH | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/System-Administrator_HR102359) |
+| **Boeing** | IT Systems Administrator - Millennium... | El Segundo, CA | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/IT-Systems-Administrator---Millennium-Space-Systems_JR2026516718-1) |
 | **D. E. Shaw** | Systems Administrator (New York) | New York | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://www.deshaw.com/careers/systems-administrator-new-york-2650) |
 | **CACI** | Systems Administrator | Fort Meade, MD, US | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/Fort-Meade-MD-US/Systems-Administrator_328707) |
 | **AeroVironment** | Systems Administrator | 308 Sentinel Drive, An... | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://avav.wd1.myworkdayjobs.com/AVAV/job/308-Sentinel-Drive-Annapolis-Junction-MD/Systems-Administrator_8433) |
@@ -131,9 +131,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Uline** | Systems Administrator Internship - Su... | Pleasant Prairie, WI | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Systems-Administrator-Internship---Summer-2027_R265691) |
 | **Parsons** | System Administrator (TS-SCI w/Poly) | MD, Columbia, R171911 | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://parsons.wd5.myworkdayjobs.com/search/job/US---MD-Columbia/System-Administrator--TS-SCI-w-Poly-_R171911) |
 | **RTX** | System Administrator | El Segundo, CA | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E04--2006-E-El-Segundo-Blvd--BLDG-E04/System-Administrator_01866789) |
+| **Micron Technology** | New College Grad - ID1 IT System Admi... | Boise, ID - ID1 | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://micron.wd1.myworkdayjobs.com/external/job/Boise-ID---ID1/New-College-Grad---ID1-IT-System-Administrator_JR108946) |
 | **Boys Town** | Contract System Administrator | Omaha, NE | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://boystown.wd1.myworkdayjobs.com/boystowncareers/job/Omaha-NE/Contract-System-Administrator_REQ-2026-9037-1) |
 | **Federal Reserve System** | File Transfer System Administrator | Richmond, VA | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://rb.wd5.myworkdayjobs.com/frs/job/Richmond-VA/File-Transfer-System-Admnistrator_R-0000032863-1) |
-| **Micron Technology** | New College Grad - ID1 IT System Admi... | Boise, ID - ID1 | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://micron.wd1.myworkdayjobs.com/external/job/Boise-ID---ID1/New-College-Grad---ID1-IT-System-Administrator_JR108946) |
 | **SpaceX** | IT Systems Administrator, Launch | Starbase, TX | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8698618002?gh_jid=8698618002) |
 | **Accenture Federal Services** | Cloud Systems Administrator | Hill AFB, UT | 3w | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/accenturefederalservices/jobs/4695309006?gh_jid=4695309006) |
 | **D. E. Shaw** | Systems Administrator Intern (New York) | New York | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://www.deshaw.com/careers/systems-administrator-intern-new-york-5921) |
@@ -158,7 +158,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **RE/SPEC Inc.** | Desktop Support Technician (Contracto... | Santa Fe, NM | 10m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RESPECInc/744000141524889) |
+| **RE/SPEC Inc.** | Desktop Support Technician (Contracto... | Santa Fe, NM | 11m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RESPECInc/744000141524889) |
 | **Vultr** | Technical Support Specialist | United States | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/Vultr/130eac96-6ec0-47fb-b57b-357f9ed799a9) |
 | **Persona AI** | IT Support Specialist | Houston, TX | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/persona.ai/cf335dc3-9167-4925-b0ca-a6ac9a6f3ee2) |
 | **Radiant Industries** | IT Support Analyst | El Segundo, CA | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/radiant-industries/d9f91e21-dc7c-4307-bc61-38832996acf4) |
@@ -183,8 +183,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Velera** | IT Support Analyst I (3rd Shift) - Re... | USA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://velera.wd5.myworkdayjobs.com/VeleraCareers/job/Remote-USA/IT-Support-Analyst-I--3rd-Shift----Remote_9592) |
 | **GDIT** | Service Desk Manager | USA VA Newington | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Newington/Service-Desk-Manager_RQ227136-1) |
 | **CACI** | IT Service Desk | Oklahoma City, OK, US | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/Oklahoma-City-OK-US/IT-Service-Desk_331045) |
-| **RELX** | Desktop Support Co-Op | Dayton, OH | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://relx.wd3.myworkdayjobs.com/relx/job/Dayton-OH/Desktop-Support-Co-Op_R117278-1) |
 | **Dexcom** | Desktop Support Specialist 3 | Mesa, Arizona | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Mesa-Arizona/Desktop-Support-Specialist-3_JR119551) |
+| **RELX** | Desktop Support Co-Op | Dayton, OH | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://relx.wd3.myworkdayjobs.com/relx/job/Dayton-OH/Desktop-Support-Co-Op_R117278-1) |
 | **Amentum** | IT Support Technician | Eloy, AZ | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-AZ-Eloy/IT-Support-Technician_R0167318-1) |
 | **GDIT** | Help Desk Technician II | USA KS McConnell AFB | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-KS-McConnell-AFB/Help-Desk-Technician-II_RQ226970-1) |
 | **GDIT** | F-35 Help Desk Specialist   Active Se... | USA VA Arlington | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Arlington/F-35-Help-Desk-Specialist---Active-Secret-clearance_RQ226947-1) |
@@ -279,8 +279,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Eurofins** | IT Operations and Infrastructure | Lancaster, PA | 10m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/743999715306274) |
-| **Woven by Toyota** | Systems Engineer II, AI Solutions & I... | Palo Alto, CA | 11m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/woven-by-toyota/d1371e79-10d9-4553-9d90-2611ee53e1e2) |
+| **Eurofins** | IT Operations and Infrastructure | Lancaster, PA | 11m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/743999715306274) |
+| **Woven by Toyota** | Systems Engineer II, AI Solutions & I... | Palo Alto, CA | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/woven-by-toyota/d1371e79-10d9-4553-9d90-2611ee53e1e2) |
 | **Institute for Foundation Models** | IT Operations Specialist | Sunnyvale, CA | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/ifm-us/46be8bbe-45b7-4a20-9b96-99bdf7b74f82) |
 | **Skydio** | IT Operations Engineer | San Mateo, California,... | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/skydio/85e92e26-b1a7-40ce-bedb-d929fbec5faa) |
 | **Harvey** | IT Operations Analyst | New York | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/harvey/203e2d3b-6aeb-4d13-8e2f-62f7526658df) |
