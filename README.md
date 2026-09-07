@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![IT Jobs](https://img.shields.io/badge/IT_Jobs-328-brightgreen?style=flat&logo=briefcase)
+![IT Jobs](https://img.shields.io/badge/IT_Jobs-327-brightgreen?style=flat&logo=briefcase)
 ![Top: Help Desk & Support](https://img.shields.io/badge/Help_Desk_&_Support-155-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-122-blue?style=flat&logo=building)
 ![Last Update](https://img.shields.io/github/last-commit/zapplyjobs/New-Grad-IT-Jobs-2027?style=flat&logo=calendar)
@@ -155,15 +155,14 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Northwood Space** | Helpdesk Specialist | Torrance, CA | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/northwoodspace/fb29eceb-ef54-4f74-82c9-6d9ba19262e1) |
 | **Mariana Minerals** | IT Technician | Moab, UT | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/marianaminerals/036f4673-06ee-483b-9a50-22e32139a423) |
 | **Handshake** | IT Support Analyst | San Francisco, CA | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/handshake/92b1b4d0-aa14-494f-888c-b3a1400614f9) |
-| **EliseAI** | IT Support Specialist | New York City | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/eliseai/903db7cc-53f6-4217-b177-fd6bd17aee1a) |
 | **ElevenLabs** | IT Support | San Francisco | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/elevenlabs/750a8325-7ce1-45ea-b0b1-61dab78a456e) |
+| **EliseAI** | IT Support Specialist | New York City | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/eliseai/903db7cc-53f6-4217-b177-fd6bd17aee1a) |
 | **Crusoe** | Service Desk III | Sunnyvale, CA - US | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/crusoe/f0636c0c-f16f-43f6-94da-7bd0c2cda267) |
-| **Baseten** | IT Support / Operations Engineer | San Francisco | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/baseten/c07eb44f-b5fa-4808-90b7-03b265d97836) |
 | **Cape** | IT Support Specialist | New York, NY | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cape/74b860e6-1e8f-4bda-9f97-9aede0b0253f) |
 | **Attio** | Technical Support Specialist  \[Sat - Wed\] | United States | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/attio/6ad58823-3a66-48f5-b8d6-1897c62b3bfb) |
+| **Baseten** | IT Support / Operations Engineer | San Francisco | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/baseten/c07eb44f-b5fa-4808-90b7-03b265d97836) |
 | **Apex Technology** | IT Help Desk Technician | Los Angeles | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/apex-technology-inc/cbc4521e-b46d-44f1-8b31-5f7d85d769fe) |
 | **Jabil** | IT Support Technician (1st Shift) | Prince George, VA | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Prince-George-VA/IT-Support-Technician--1st-Shift-_J2463504) |
-| **Trimble** | IS Americas Help Desk Supervisor | CO, Westminster | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/IS-Americas-Help-Desk-Supervisor_R57631) |
 | **Abbott** | Technical Support Specialist | United States - Minnesota - New ... | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Minnesota---New-Brighton/Technical-Support-Specialist_31153227-1) |
 | **Leidos** | Service Desk Engineer/AV support | Washington, DC | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Washington-DC/Service-Desk-Engineer-AV-support_R-00191444-1) |
 | **Leidos** | Junior Service Desk Technician | Washington, DC | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Washington-DC/Junior-Service-Desk-Technician_R-00191571-1) |
@@ -171,6 +170,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **SpaceX** | IT Support Technician, VIP Support | Washington, DC | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8784698002?gh_jid=8784698002) |
 | **Hinge Health** | Associate Technical Support Specialist | Remote US | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/hinge-health/8f7523da-70da-4a70-b32d-6cb294785527) |
 | **Per Scholas** | Instructional Assistant (IT Support) | Silver Spring, Maryland, United ... | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/perscholashires/jobs/4710952006) |
+| **Trimble** | IS Americas Help Desk Supervisor | CO, Westminster | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/IS-Americas-Help-Desk-Supervisor_R57631) |
 | **Leidos** | Computer Support Specialist | Suitland, MD | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Suitland-MD/Computer-Support-Specialist_R-00188887) |
 | **GDIT** | Service Desk Specialist | USA VA Arlington | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Arlington/Service-Desk-Specialist_RQ227803-2) |
 | **Geotab** | Technical Support Specialist | Atlanta, Georgia - USA | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/geotab/jobs/5407716008) |
@@ -227,9 +227,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **ASM Global** | IT Support Coordinator | North Charleston, SC | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://asmglobal.wd1.myworkdayjobs.com/careers/job/North-Charleston-SC/IT-Support-Coordinator_R100125051-1) |
 | **KBR** | Global Tier 1 Service Desk Technician | Houston, Texas | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Houston-Texas/Global-Tier-1-Service-Desk-Technician_R2128988) |
 | **Boeing** | IT Help Desk Technician - Millennium Space Systems | USA - El Segundo, CA | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/IT-Help-Desk-Technician---Millennium-Space-Systems_JR2026515233-1) |
-| **Cognex** | Help Desk Technician | Natick, Massachusetts | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://cognex.wd1.myworkdayjobs.com/External_Career_Site/job/Natick-Massachusetts/IT-Support-Technician_R0012297) |
 | **Booz Allen Hamilton** | Helpdesk Engineer | Ford Island, HI | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Ford-Island-HI/Helpdesk-Engineer_R0247815) |
 | **Per Scholas** | Technical Instructor IT Support | Phoenix, Arizona, United States | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/perscholashires/jobs/4706584006) |
+| **Cognex** | Help Desk Technician | Natick, Massachusetts | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://cognex.wd1.myworkdayjobs.com/External_Career_Site/job/Natick-Massachusetts/IT-Support-Technician_R0012297) |
 | **RELX** | Desktop Support Co-Op | Dayton, OH | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://relx.wd3.myworkdayjobs.com/relx/job/Dayton-OH/Desktop-Support-Co-Op_R117278-1) |
 | **Accenture Federal Services** | Oracle Cloud HCM HR HelpDesk Specialist | Washington, DC | 3w | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/accenturefederalservices/jobs/4704739006?gh_jid=4704739006) |
 | **Anthropic** | IT Support Engineer | New York City, NY | 3w | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5386949008) |
@@ -275,13 +275,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Eurofins** | IT Operations and Infrastructure | Lancaster, PA | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/743999715306274) |
+| **Eurofins** | IT Operations and Infrastructure | Lancaster, PA | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/743999715306274) |
 | **Woven by Toyota** | Systems Engineer II, AI Solutions & IT Operations | Palo Alto, CA | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/woven-by-toyota/d1371e79-10d9-4553-9d90-2611ee53e1e2) |
-| **CertiK** | IT Operations Specialist | New York, New York | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/certik/5191720e-c026-4f53-b58a-094e0ec049f6) |
 | **Skydio** | IT Operations Engineer | San Mateo, California, United St... | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/skydio/85e92e26-b1a7-40ce-bedb-d929fbec5faa) |
-| **Harvey** | IT Operations Analyst | New York | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/harvey/203e2d3b-6aeb-4d13-8e2f-62f7526658df) |
-| **Harvey** | IT Operations Analyst | New York | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/harvey/88905094-1b46-41e1-a88a-cae239431b04) |
+| **CertiK** | IT Operations Specialist | New York, New York | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/certik/5191720e-c026-4f53-b58a-094e0ec049f6) |
 | **Harvey** | IT Operations Analyst | San Francisco | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/harvey/f940d275-4719-4aa9-b2fb-31d8046127d8) |
+| **Harvey** | IT Operations Analyst | San Francisco | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/harvey/c78db388-c1e6-4587-9f6e-17c3921d5564) |
+| **Harvey** | IT Operations Analyst | New York | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/harvey/203e2d3b-6aeb-4d13-8e2f-62f7526658df) |
 | **Applied Intuition** | IT Operations Engineer | Sunnyvale | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/applied/66c15acf-bdba-4139-904c-d755ebff0df4) |
 | **Applied Intuition** | IT Operations Engineer | Fort Walton Beach, FL | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/applied/823c0b9d-52d7-48c0-9db5-68b5e0a5e6e6) |
 | **GDIT** | System Admin | USA NC Fort Bragg | 7h | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-NC-Fort-Bragg/System-Admin_RQ227780) |
@@ -395,7 +395,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 328 current opportunities from 122 companies**
+**🎯 327 current opportunities from 122 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
