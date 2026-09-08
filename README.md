@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![IT Jobs](https://img.shields.io/badge/IT_Jobs-319-brightgreen?style=flat&logo=briefcase)
+![IT Jobs](https://img.shields.io/badge/IT_Jobs-318-brightgreen?style=flat&logo=briefcase)
 ![Top: Help Desk & Support](https://img.shields.io/badge/Help_Desk_&_Support-154-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-122-blue?style=flat&logo=building)
+![Companies](https://img.shields.io/badge/Companies-121-blue?style=flat&logo=building)
 ![Last Update](https://img.shields.io/github/last-commit/zapplyjobs/New-Grad-IT-Jobs-2027?style=flat&logo=calendar)
 
 </div>
@@ -116,7 +116,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Nightwing** | Linux System Administrator | Arlington, VA | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://nwis.wd12.myworkdayjobs.com/NW/job/Arlington-VA/Linux-System-Administrator_JR100893) |
 | **Nightwing** | Linux System Administrator | Arlington, VA | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://nwis.wd12.myworkdayjobs.com/NW/job/Arlington-VA/Linux-System-Administrator_JR102020) |
 | **Boeing** | Cloud Operations System Administrator | USA - Swansea, IL | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Swansea-IL/Cloud-Operations-System-Administrator_JR2026505731-1) |
-| **Oracle** | System Administrator 1-IT | Kansas City, MO, United States | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/337327) |
 | **Nozomi Networks** | Go-To-Market Systems Administrator | United States | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/nozominetworks/jobs/4722608005) |
 | **Uline** | Systems Administrator Internship - Summer 2027 | Pleasant Prairie, WI | 3w | [<img src="images/apply.png" width="80" alt="Apply">](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Systems-Administrator-Internship---Summer-2027_R265691) |
 | **SpaceX** | IT Systems Administrator, Launch | Starbase, TX | 3w | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8698618002?gh_jid=8698618002) |
@@ -159,7 +158,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Cape** | IT Support Specialist | New York, NY | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cape/74b860e6-1e8f-4bda-9f97-9aede0b0253f) |
 | **Attio** | Technical Support Specialist  \[Sat - Wed\] | United States | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/attio/6ad58823-3a66-48f5-b8d6-1897c62b3bfb) |
 | **Apex Technology** | IT Help Desk Technician | Los Angeles | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/apex-technology-inc/cbc4521e-b46d-44f1-8b31-5f7d85d769fe) |
-| **GDIT** | Service Desk Support Analyst | USA LA Bossier City | 4h | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-LA-Bossier-City/Service-Desk-Support-Analyst_RQ227379) |
+| **GDIT** | Service Desk Support Analyst | USA LA Bossier City | 5h | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-LA-Bossier-City/Service-Desk-Support-Analyst_RQ227379) |
 | **Jabil** | IT Support Technician (1st Shift) | Prince George, VA | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Prince-George-VA/IT-Support-Technician--1st-Shift-_J2463504) |
 | **Roblox** | IT Support Technician | San Mateo, CA, United States | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.roblox.com/jobs/8171128?gh_jid=8171128) |
 | **Trimble** | IS Americas Help Desk Supervisor | CO, Westminster | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/IS-Americas-Help-Desk-Supervisor_R57631) |
@@ -272,11 +271,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|----------|--------|----------|
 | **Eurofins** | IT Operations and Infrastructure | Lancaster, PA | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/743999715306274) |
 | **Woven by Toyota** | Systems Engineer II, AI Solutions & IT Operations | Palo Alto, CA | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/woven-by-toyota/d1371e79-10d9-4553-9d90-2611ee53e1e2) |
-| **CertiK** | IT Operations Specialist | New York, New York | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/certik/5191720e-c026-4f53-b58a-094e0ec049f6) |
 | **Skydio** | IT Operations Engineer | San Mateo, California, United St... | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/skydio/85e92e26-b1a7-40ce-bedb-d929fbec5faa) |
+| **CertiK** | IT Operations Specialist | New York, New York | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/certik/5191720e-c026-4f53-b58a-094e0ec049f6) |
 | **Harvey** | IT Operations Analyst | New York | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/harvey/88905094-1b46-41e1-a88a-cae239431b04) |
 | **Harvey** | IT Operations Analyst | San Francisco | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/harvey/f940d275-4719-4aa9-b2fb-31d8046127d8) |
-| **Harvey** | IT Operations Analyst | New York | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/harvey/203e2d3b-6aeb-4d13-8e2f-62f7526658df) |
+| **Harvey** | IT Operations Analyst | San Francisco | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/harvey/c78db388-c1e6-4587-9f6e-17c3921d5564) |
 | **Applied Intuition** | IT Operations Engineer | Sunnyvale | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/applied/66c15acf-bdba-4139-904c-d755ebff0df4) |
 | **Applied Intuition** | IT Operations Engineer | Fort Walton Beach, FL | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/applied/823c0b9d-52d7-48c0-9db5-68b5e0a5e6e6) |
 | **GDIT** | System Admin | USA NC Fort Bragg | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-NC-Fort-Bragg/System-Admin_RQ227780) |
@@ -389,7 +388,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 319 current opportunities from 122 companies**
+**🎯 318 current opportunities from 121 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
