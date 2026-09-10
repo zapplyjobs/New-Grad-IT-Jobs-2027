@@ -134,12 +134,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Raymond James Financial** | Desktop Support Associate Analyst | Denver, Colorado - United States, R | 24m | [<img src="images/apply.png" width="80" alt="Apply">](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Denver-Colorado---United-States/Desktop-Support-Associate-Analyst_R-0012939) |
+| **Raymond James Financial** | Desktop Support Associate Analyst | Denver, Colorado - United States, R | 33m | [<img src="images/apply.png" width="80" alt="Apply">](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Denver-Colorado---United-States/Desktop-Support-Associate-Analyst_R-0012939) |
 | **GDIT** | Help Desk Technician | USA OK Oklahoma City | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-OK-Oklahoma-City/Help-Desk-Technician_RQ228069-1) |
 | **GDIT** | Help Desk Technician | USA OK Oklahoma City | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-OK-Oklahoma-City/Help-Desk-Technician_RQ228057-1) |
 | **Booz Allen Hamilton** | Helpdesk Engineer | Ford Island, HI | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Ford-Island-HI/Helpdesk-Engineer_R0247815) |
 | **CACI** | Help Desk Manager | Any State | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/Remote-Any-State/Help-Desk-Manager_331549) |
-| **Avnet** | Desktop Support Specialist | Phoenix, Arizona, United States... | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://avnet.wd1.myworkdayjobs.com/external/job/Phoenix-Arizona-United-States-Of-America/Desktop-Support-Specialist_JR-023884) |
+| **Avnet** | Desktop Support Specialist | Phoenix, Arizona, United States... | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://avnet.wd1.myworkdayjobs.com/external/job/Phoenix-Arizona-United-States-Of-America/Desktop-Support-Specialist_JR-023884) |
 | **Jabil** | IT Support Technician III | Memphis, TN | 4h | [<img src="images/apply.png" width="80" alt="Apply">](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Memphis-TN/IT-Support-Technician-III_J2453161-1) |
 | **GDIT** | Information Technology Support Specialist | USA MD Annapolis Junction | 11h | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Information-Technology-Support-Specialist_RQ228031) |
 | **Geotab** | Technical Support Specialist | z. USA Job Post Template | 13h | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/geotab/jobs/5353624008) |
@@ -259,8 +259,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Google** | Information Technology Apprenticeship, February 2027 Start | United States | 19m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/127161382939304646) |
-| **Eurofins** | IT Operations and Infrastructure | Lancaster, PA | 24m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/743999715306274) |
+| **Google** | Information Technology Apprenticeship, February 2027 Start | United States | 23m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/127161382939304646) |
+| **Eurofins** | IT Operations and Infrastructure | Lancaster, PA | 33m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/743999715306274) |
 | **GDIT** | SQL Database Administrator (Compliance) | USA FL MacDill AFB | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-FL-MacDill-AFB/SQL-Database-Administrator--Compliance-_RQ228056-1) |
 | **GE Healthcare** | Information Technology Development Program | Waukesha | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Information-Technology-Development-Program_R4043928-2) |
 | **CACI** | Azure Infrastructure Database Administrator | Remote | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/Remote-Any-State/Azure-Infrastructure-Database-Administrator_331841-1) |
