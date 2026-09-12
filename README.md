@@ -65,14 +65,14 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Antares** | Systems Administrator | Los Angeles | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-antares-0615cc16-2440-4a99-9e1d-e811b47737c7?s=gh-new-grad-it-jobs-2027) |
 | **Synergy ECP** | Platform / Linux System Administrator | Annapolis Junction, MD | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-synergyecp-90f408fe-e903-471d-9a3e-04459dbd0791?s=gh-new-grad-it-jobs-2027) |
+| **Antares** | Systems Administrator | Los Angeles | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-antares-0615cc16-2440-4a99-9e1d-e811b47737c7?s=gh-new-grad-it-jobs-2027) |
 | **PingWind** | Systems Administrator | Chicago, Illinois | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-pingwind-844e1c8b-3045-442f-8821-92f832da87fa?s=gh-new-grad-it-jobs-2027) |
 | **PingWind** | Systems Administrator | Shaw AFB, SC / Kuwait | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-pingwind-b4fafd77-e9be-465a-9c04-4acd0f1179d3?s=gh-new-grad-it-jobs-2027) |
 | **Applied Intuition** | Systems Administrator (IT Operations) | Fort Walton Beach, FL | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-applied-c7d7ba41-e4aa-429a-9d56-9f946ae5541d?s=gh-new-grad-it-jobs-2027) |
-| **CACI** | Systems Administrator - CSfC | Fort Bragg, NC, US | 53m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-329285?s=gh-new-grad-it-jobs-2027) |
+| **CACI** | Systems Administrator - CSfC | Fort Bragg, NC, US | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-329285?s=gh-new-grad-it-jobs-2027) |
 | **CACI** | Infrastructure/System Administrator | Albuquerque, NM, US | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-331898?s=gh-new-grad-it-jobs-2027) |
-| **Leidos** | Jr. System Administrator | O'Fallon, IL | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-leidos-external-R-00192073?s=gh-new-grad-it-jobs-2027) |
+| **Leidos** | Jr. System Administrator | O'Fallon, IL | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-leidos-external-R-00192073?s=gh-new-grad-it-jobs-2027) |
 | **Booz Allen Hamilton** | Windows Systems Administrator | Washington, DC | 6h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0249297?s=gh-new-grad-it-jobs-2027) |
 | **RTX** | System Administrator (Onsite) | CO-SCHRIEVER-AFB-CUST | 8h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01874554?s=gh-new-grad-it-jobs-2027) |
 | **Eurofins** | Laboratory Instrument System Administrator | Lancaster, PA | 12h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Eurofins-744000149089070?s=gh-new-grad-it-jobs-2027) |
@@ -129,7 +129,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Trane Technologies** | IT Support Analyst | Greenville, South Carolina | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-tranetechnologies-trane-technologies-car-JR-14311?s=gh-new-grad-it-jobs-2027) |
 | **Vultr** | Technical Support Specialist | Remote - United States | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-Vultr-130eac96-6ec0-47fb-b57b-357f9ed799a9?s=gh-new-grad-it-jobs-2027) |
 | **Saronic Technologies** | IT Technician | Virginia Beach, VA | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-saronic-c73740b5-d270-4f27-b822-b925ff9b16d9?s=gh-new-grad-it-jobs-2027) |
 | **Saronic Technologies** | IT Technician | New Orleans, LA | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-saronic-b4efdbf3-095a-43dd-b08c-99120a7d1bb9?s=gh-new-grad-it-jobs-2027) |
@@ -146,9 +145,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Attio** | Technical Support Specialist  \[Sat - Wed\] | United States | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-attio-6ad58823-3a66-48f5-b8d6-1897c62b3bfb?s=gh-new-grad-it-jobs-2027) |
 | **Apex Technology** | IT Help Desk Technician | Los Angeles | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-apex-technology-inc-cbc4521e-b46d-44f1-8b31-5f7d85d769fe?s=gh-new-grad-it-jobs-2027) |
 | **Anyscale** | IT Specialist | San Francisco | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-anyscale-d92a68e9-c2cc-452f-afbc-ae1bde5080b7?s=gh-new-grad-it-jobs-2027) |
+| **Trane Technologies** | IT Support Analyst | Greenville, South Carolina | 23m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-tranetechnologies-trane-technologies-car-JR-14311?s=gh-new-grad-it-jobs-2027) |
 | **CACI** | End User Support IT Technician | King of Prussia, PA, US | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-330358?s=gh-new-grad-it-jobs-2027) |
 | **Wash U** | Technical Support Specialist I - WashU IT | Washington University Medical | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wustl-external-JR97407?s=gh-new-grad-it-jobs-2027) |
-| **Leidos** | Computer Support Specialist | Suitland, MD | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-leidos-external-R-00188887?s=gh-new-grad-it-jobs-2027) |
+| **Leidos** | Computer Support Specialist | Suitland, MD | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-leidos-external-R-00188887?s=gh-new-grad-it-jobs-2027) |
 | **Booz Allen Hamilton** | Executive IT Helpdesk Technician | Washington, DC | 6h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0249300?s=gh-new-grad-it-jobs-2027) |
 | **CACI** | Systems Administration/Help Desk Analyst | Fort Meade, MD, US | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-328707?s=gh-new-grad-it-jobs-2027) |
 | **Leidos** | IT Specialist Mid | Yuma, AZ | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-leidos-external-R-00191831?s=gh-new-grad-it-jobs-2027) |
@@ -256,9 +256,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Applied Intuition** | IT Operations Engineer | Sunnyvale | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-applied-66c15acf-bdba-4139-904c-d755ebff0df4?s=gh-new-grad-it-jobs-2027) |
 | **Applied Intuition** | IT Operations Engineer | Fort Walton Beach, FL | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-applied-823c0b9d-52d7-48c0-9db5-68b5e0a5e6e6?s=gh-new-grad-it-jobs-2027) |
 | **Google** | Information Technology Apprenticeship, February 2027 Start | United States | 18m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/google-127161382939304646?s=gh-new-grad-it-jobs-2027) |
-| **University System of New Hampshire** | Information Technology Technician | University of New Hampshire – Main | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-usnh-careers-JR8716?s=gh-new-grad-it-jobs-2027) |
+| **University System of New Hampshire** | Information Technology Technician | University of New Hampshire – Main | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-usnh-careers-JR8716?s=gh-new-grad-it-jobs-2027) |
 | **Amentum** | Information Technology Engineer | GA-Forest Park | 8h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0169885?s=gh-new-grad-it-jobs-2027) |
-| **Guidehouse** | Database Administrator | TX San Antonio | 10h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-guidehouse-external-43347?s=gh-new-grad-it-jobs-2027) |
+| **Guidehouse** | Database Administrator | TX San Antonio | 11h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-guidehouse-external-43347?s=gh-new-grad-it-jobs-2027) |
 | **LLNL** | Virtual Desktop Engineer/Desktop Engineer | Livermore, CA | 11h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-llnl-3743990015216266?s=gh-new-grad-it-jobs-2027) |
 | **Rockwell Automation** | EDGE, Information Technology Rotational Program | Milwaukee, Wisconsin, United States | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-rockwellautomation-external-rockwell-aut-R26-5375?s=gh-new-grad-it-jobs-2027) |
 | **Parsons** | PMIS / IT Admin Support | NY, Syracuse, R185957 | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-parsons-search-R185957?s=gh-new-grad-it-jobs-2027) |
