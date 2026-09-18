@@ -65,10 +65,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **GDIT** | Systems Administrator | USA MO St. Louis | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ224806?s=gh-new-grad-it-jobs-2027) |
-| **GDIT** | Service Desk System Administrator | USA VA Newington | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ228770?s=gh-new-grad-it-jobs-2027) |
-| **SWBC** | Systems Administrator | San Antonio, TX | 25m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-swbc-swbccareers-R0015553?s=gh-new-grad-it-jobs-2027) |
-| **Trace3** | Systems Administrator II | Linthicum Heights, MD | 20h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-trace3-8212169?s=gh-new-grad-it-jobs-2027) |
+| **GDIT** | Systems Administrator | USA MO St. Louis | 24m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ224806?s=gh-new-grad-it-jobs-2027) |
+| **GDIT** | Service Desk System Administrator | USA VA Newington | 24m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ228770?s=gh-new-grad-it-jobs-2027) |
+| **SWBC** | Systems Administrator | San Antonio, TX | 35m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-swbc-swbccareers-R0015553?s=gh-new-grad-it-jobs-2027) |
+| **Trace3** | Systems Administrator II | Linthicum Heights, MD | 21h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-trace3-8212169?s=gh-new-grad-it-jobs-2027) |
 | **Trace3** | Systems Administrator III | Linthicum Heights, MD | 22h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-trace3-8211914?s=gh-new-grad-it-jobs-2027) |
 | **GDIT** | Systems Administrator (Linux / RHEL) | USA FL MacDill AFB | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ228053?s=gh-new-grad-it-jobs-2027) |
 | **RTX** | System Administrator | CA-EL SEGUNDO-E04 | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01866789?s=gh-new-grad-it-jobs-2027) |
@@ -117,12 +117,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Jabil** | IT Support Technician II | Devens, MA | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jabil-jabil-careers-J2461377?s=gh-new-grad-it-jobs-2027) |
-| **GDIT** | Desktop Support | USA VA Virginia Beach | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ228358?s=gh-new-grad-it-jobs-2027) |
-| **GDIT** | Full-Time IT Support Specialist - Bossier City | USA LA Bossier City | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ228305?s=gh-new-grad-it-jobs-2027) |
-| **GDIT** | Full-Time IT Support Specialist - El Paso | USA TX El Paso | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ228304?s=gh-new-grad-it-jobs-2027) |
-| **Raymond James Financial** | Desktop Support Associate Analyst | Denver, Colorado - United States, R | 35m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-raymondjames-raymondjamescareers-R-0012939?s=gh-new-grad-it-jobs-2027) |
-| **Raymond James Financial** | Desktop Support Associate Analyst | Denver, Colorado - United States, R | 35m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-raymondjames-raymondjamescareers-R-0012860?s=gh-new-grad-it-jobs-2027) |
+| **Jabil** | IT Support Technician II | Devens, MA | 24m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jabil-jabil-careers-J2461377?s=gh-new-grad-it-jobs-2027) |
+| **GDIT** | Desktop Support | USA VA Virginia Beach | 24m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ228358?s=gh-new-grad-it-jobs-2027) |
+| **GDIT** | Full-Time IT Support Specialist - Bossier City | USA LA Bossier City | 24m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ228305?s=gh-new-grad-it-jobs-2027) |
+| **GDIT** | Full-Time IT Support Specialist - El Paso | USA TX El Paso | 24m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ228304?s=gh-new-grad-it-jobs-2027) |
+| **Raymond James Financial** | Desktop Support Associate Analyst | Denver, Colorado - United States, R | 44m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-raymondjames-raymondjamescareers-R-0012939?s=gh-new-grad-it-jobs-2027) |
+| **Raymond James Financial** | Desktop Support Associate Analyst | Denver, Colorado - United States, R | 44m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-raymondjames-raymondjamescareers-R-0012860?s=gh-new-grad-it-jobs-2027) |
 | **VetsEZ** | Help Desk Coordinator | Huntsville, Alabama | 21h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/breezy-vetsez-e06666f472e501?s=gh-new-grad-it-jobs-2027) |
 | **PTC** | Associate Technical Support Specialist | Boston, MA, USA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ptc-ptc-JR112734?s=gh-new-grad-it-jobs-2027) |
 | **Axiom Space** | Desktop Support Specialist II | Houston | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-axiomspace-external-career-site-JR100695?s=gh-new-grad-it-jobs-2027) |
@@ -176,7 +176,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Wash U** | Technical Support Specialist I (Hybrid) - WashU IT | 4480 Clayton | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wustl-external-JR96959?s=gh-new-grad-it-jobs-2027) |
 | **Per Scholas** | IT Support Technical Instructor | Kansas City, Missouri, United... | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-perscholashires-4710338006?s=gh-new-grad-it-jobs-2027) |
 | **SpaceX** | IT Support Technician, VIP Support | Washington, DC | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-spacex-8784698002?s=gh-new-grad-it-jobs-2027) |
-| **Per Scholas** | Instructional Assistant (IT Support) | Silver Spring, Maryland, United... | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-perscholashires-4710952006?s=gh-new-grad-it-jobs-2027) |
+| **Per Scholas** | Instructional Assistant (IT Support) | Silver Spring, Maryland, United... | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-perscholashires-4710952006?s=gh-new-grad-it-jobs-2027) |
 | **Geotab** | Technical Support Specialist | Atlanta, Georgia - USA | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-geotab-5407716008?s=gh-new-grad-it-jobs-2027) |
 | **Geotab** | Technical Support Specialist - Bilingual Spanish | Atlanta, Georgia - USA | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-geotab-5407728008?s=gh-new-grad-it-jobs-2027) |
 | **Geotab** | Technical Support Specialist - Bilingual Portuguese | Atlanta, Georgia - USA | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-geotab-5407742008?s=gh-new-grad-it-jobs-2027) |
@@ -212,7 +212,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Boeing** | Network Engineer – Millennium Space Systems | USA - El Segundo, CA | 26m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026524386?s=gh-new-grad-it-jobs-2027) |
+| **Boeing** | Network Engineer – Millennium Space Systems | USA - El Segundo, CA | 35m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026524386?s=gh-new-grad-it-jobs-2027) |
 | **CACI** | Network Engineer - Hospital Ship | Norfolk, VA, US | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-331890?s=gh-new-grad-it-jobs-2027) |
 | **Trace3** | Network Engineer III | Linthicum Heights, MD | 20h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-trace3-8212222?s=gh-new-grad-it-jobs-2027) |
 | **HPE (University)** | Network Engineer (Sunnyvale, CA) | Sunnyvale, California, United... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-jobsathpe-1213652?s=gh-new-grad-it-jobs-2027) |
@@ -274,9 +274,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Guidehouse** | Cybersecurity IGA Operations Analyst | VA Arlington | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-guidehouse-external-44667?s=gh-new-grad-it-jobs-2027) |
-| **Biogen** | 2027 Intern, Information Technology | Cambridge, MA | 16m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-biibhr-external-REQ24162?s=gh-new-grad-it-jobs-2027) |
-| **Southwest Airlines** | Associate Cybersecurity Analyst | Dallas, TX | 36m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-swa-external-R-2026-72162?s=gh-new-grad-it-jobs-2027) |
+| **Guidehouse** | Cybersecurity IGA Operations Analyst | VA Arlington | 24m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-guidehouse-external-44667?s=gh-new-grad-it-jobs-2027) |
+| **Biogen** | 2027 Intern, Information Technology | Cambridge, MA | 25m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-biibhr-external-REQ24162?s=gh-new-grad-it-jobs-2027) |
+| **Southwest Airlines** | Associate Cybersecurity Analyst | Dallas, TX | 45m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-swa-external-R-2026-72162?s=gh-new-grad-it-jobs-2027) |
 | **CACI** | Cybersecurity Assessment Data Analyst | Remote | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-331684?s=gh-new-grad-it-jobs-2027) |
 | **Leidos** | Cyber Security Analyst | Shiloh, IL | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-leidos-external-R-00192590?s=gh-new-grad-it-jobs-2027) |
 | **GDIT** | Cyber Security Analyst | USA VA Falls Church | 23h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ227739?s=gh-new-grad-it-jobs-2027) |
