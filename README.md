@@ -92,7 +92,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Booz Allen Hamilton** | Systems Administrator Intern | Annapolis Junction, MD | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0249566?s=gh-new-grad-it-jobs-2027) |
 | **Booz Allen Hamilton** | Systems Administrator Intern | Annapolis Junction, MD | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0249565?s=gh-new-grad-it-jobs-2027) |
 | **CACI** | Network Infrastructure Engineer | Mclean, VA, US | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-332168?s=gh-new-grad-it-jobs-2027) |
-| **The Boring Company** | System Administrator | Nashville, United States | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/gem-the-boring-company-am9icG9zdDoyJXhxVKIRfElIzjBoCPC2?s=gh-new-grad-it-jobs-2027) |
+| **The Boring Company** | System Administrator | Nashville, United States | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/gem-the-boring-company-am9icG9zdDoyJXhxVKIRfElIzjBoCPC2?s=gh-new-grad-it-jobs-2027) |
 | **FIS** | Systems Administrator II | CA FAI 4560 Client | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-fis-searchjobs-JR0309365?s=gh-new-grad-it-jobs-2027) |
 | **Shield AI** | Associate Systems Administrator (R5874) | Wichita Metro Area | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-shieldai-554db634-ca0a-4ae9-a589-da23c227afe9?s=gh-new-grad-it-jobs-2027) |
 | **Shield AI** | Associate Systems Administrator (R5873) | Orlando, Florida | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-shieldai-f42c020c-82f4-4b7e-a6c5-3fece0fb27c2?s=gh-new-grad-it-jobs-2027) |
@@ -219,7 +219,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **CACI** | Network Engineer - Hospital Ship | Norfolk, VA, US | 16h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-331890?s=gh-new-grad-it-jobs-2027) |
+| **CACI** | Network Engineer - Hospital Ship | Norfolk, VA, US | 17h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-331890?s=gh-new-grad-it-jobs-2027) |
 | **Hermeus** | Network Engineer | Los Angeles, CA | 23h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-hermeus-5e92ddba-8a79-464e-82ff-85ab3dc1ce2b?s=gh-new-grad-it-jobs-2027) |
 | **Booz Allen Hamilton** | Network Engineer, Mid | Camp Parks, CA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0249903?s=gh-new-grad-it-jobs-2027) |
 | **Boeing** | Network Engineer – Millennium Space Systems | USA - El Segundo, CA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026524386?s=gh-new-grad-it-jobs-2027) |
@@ -281,7 +281,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **CACI** | Cybersecurity Assessment Data Analyst | Remote | 16h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-331684?s=gh-new-grad-it-jobs-2027) |
+| **CACI** | Cybersecurity Assessment Data Analyst | Remote | 17h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-331684?s=gh-new-grad-it-jobs-2027) |
 | **Northrop Grumman** | Computer Support 3 - 19946 - Roy Utah | United States-Utah-Roy | 18h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10251398?s=gh-new-grad-it-jobs-2027) |
 | **Biogen** | 2027 Intern, Information Technology | Cambridge, MA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-biibhr-external-REQ24162?s=gh-new-grad-it-jobs-2027) |
 | **Thermo Fisher Scientific** | Application Administrator | Middleton, Wisconsin, USA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-thermofisher-thermofishercareers-R-01366699?s=gh-new-grad-it-jobs-2027) |
