@@ -65,8 +65,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **GDIT** | Systems Administrator | USA MO St. Louis | 5h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ224806?s=gh-new-grad-it-jobs-2027) |
-| **GDIT** | Service Desk System Administrator | USA VA Newington | 5h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ228770?s=gh-new-grad-it-jobs-2027) |
+| **GDIT** | Systems Administrator | USA MO St. Louis | 6h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ224806?s=gh-new-grad-it-jobs-2027) |
+| **GDIT** | Service Desk System Administrator | USA VA Newington | 6h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ228770?s=gh-new-grad-it-jobs-2027) |
 | **Amentum** | Mid-Level Linux System Administrator IRES - HSV | AL-Redstone Arsenal | 8h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0167878?s=gh-new-grad-it-jobs-2027) |
 | **Leidos** | Systems Administrator | Suitland, MD | 14h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-leidos-external-R-00191092?s=gh-new-grad-it-jobs-2027) |
 | **SWBC** | Systems Administrator | San Antonio, TX | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-swbc-swbccareers-R0015553?s=gh-new-grad-it-jobs-2027) |
@@ -123,9 +123,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **GDIT** | Desktop Support | USA VA Virginia Beach | 5h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ228358?s=gh-new-grad-it-jobs-2027) |
-| **GDIT** | Full-Time IT Support Specialist - Bossier City | USA LA Bossier City | 5h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ228305?s=gh-new-grad-it-jobs-2027) |
-| **GDIT** | Full-Time IT Support Specialist - El Paso | USA TX El Paso | 5h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ228304?s=gh-new-grad-it-jobs-2027) |
+| **GDIT** | Desktop Support | USA VA Virginia Beach | 6h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ228358?s=gh-new-grad-it-jobs-2027) |
+| **GDIT** | Full-Time IT Support Specialist - Bossier City | USA LA Bossier City | 6h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ228305?s=gh-new-grad-it-jobs-2027) |
+| **GDIT** | Full-Time IT Support Specialist - El Paso | USA TX El Paso | 6h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ228304?s=gh-new-grad-it-jobs-2027) |
 | **Amentum** | Help Desk Analyst II - NISSC - CMSFS | CO-Colorado Springs | 15h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0171072?s=gh-new-grad-it-jobs-2027) |
 | **MatX** | Onsite IT Support | Mountain View | 20h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-matx-e3e26721-4bef-4057-b349-4e80fa33bb08?s=gh-new-grad-it-jobs-2027) |
 | **Jabil** | IT Support Technician II (Shift Rotations) | Byhalia, MS | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jabil-jabil-careers-J2465481?s=gh-new-grad-it-jobs-2027) |
@@ -279,7 +279,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **GDIT** | Information Technology/Assurance (IT/IA) Specialist II | USA TX San Antonio | 5h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ228789?s=gh-new-grad-it-jobs-2027) |
+| **GDIT** | Information Technology/Assurance (IT/IA) Specialist II | USA TX San Antonio | 6h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ228789?s=gh-new-grad-it-jobs-2027) |
 | **Guidehouse** | Cybersecurity IGA Operations Analyst | VA Arlington | 6h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-guidehouse-external-44667?s=gh-new-grad-it-jobs-2027) |
 | **Guidehouse** | Data Analyst & IT Consultant - Real Estate Portfolio | DC, Washington | 6h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-guidehouse-external-42980?s=gh-new-grad-it-jobs-2027) |
 | **LabCorp** | Intern - IT Operations | Indianapolis IN | 6h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2631321?s=gh-new-grad-it-jobs-2027) |
