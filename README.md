@@ -86,9 +86,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Leidos** | Systems Administrator/Helpdesk Engineer | Gaithersburg, MD | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-leidos-external-R-00192443?s=gh-new-grad-it-jobs-2027) |
 | **Accenture Federal Services** | Cloud System Administrator | Colorado Springs, CO | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-accenturefederalservices-4703620006?s=gh-new-grad-it-jobs-2027) |
 | **Captivation** | Systems Administrator 2 - Linux/CI/CD/Ansible/Terraform/DevOps | Annapolis Junction, MD | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-captivation-5426532008?s=gh-new-grad-it-jobs-2027) |
+| **AES Corporation** | Customer Information System Administrator | Indianapolis, IN | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-aes-aes-us-R1064537?s=gh-new-grad-it-jobs-2027) |
 | **SpaceX** | IT Network Infrastructure Engineer, Data Centers | Starbase, TX | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-spacex-8814943002?s=gh-new-grad-it-jobs-2027) |
 | **SpaceX** | IT Network Infrastructure Engineer, Outside Plant | Starbase, TX | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-spacex-8815068002?s=gh-new-grad-it-jobs-2027) |
-| **AES Corporation** | Customer Information System Administrator | Indianapolis, IN | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-aes-aes-us-R1064537?s=gh-new-grad-it-jobs-2027) |
 | **Leidos** | System Administrator   Virtual Data Centre | 4 Locations | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-leidos-external-R-00186267?s=gh-new-grad-it-jobs-2027) |
 | **Booz Allen Hamilton** | Systems Administrator Intern | Annapolis Junction, MD | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0249566?s=gh-new-grad-it-jobs-2027) |
 | **Booz Allen Hamilton** | Systems Administrator Intern | Annapolis Junction, MD | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0249565?s=gh-new-grad-it-jobs-2027) |
@@ -96,10 +96,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **RTX** | Systems Administrator (Onsite) | VA-ARLINGTON | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01874624?s=gh-new-grad-it-jobs-2027) |
 | **RTX** | Windows Systems Administrator | MS-FOREST | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01874407?s=gh-new-grad-it-jobs-2027) |
 | **The Boring Company** | System Administrator | Nashville, United States | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/gem-the-boring-company-am9icG9zdDoyJXhxVKIRfElIzjBoCPC2?s=gh-new-grad-it-jobs-2027) |
+| **FIS** | Systems Administrator II | CA FAI 4560 Client | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-fis-searchjobs-JR0309365?s=gh-new-grad-it-jobs-2027) |
 | **Shield AI** | Associate Systems Administrator (R5874) | Wichita Metro Area | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-shieldai-554db634-ca0a-4ae9-a589-da23c227afe9?s=gh-new-grad-it-jobs-2027) |
 | **Shield AI** | Associate Systems Administrator (R5873) | Orlando, Florida | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-shieldai-f42c020c-82f4-4b7e-a6c5-3fece0fb27c2?s=gh-new-grad-it-jobs-2027) |
 | **Booz Allen Hamilton** | Linux System Administrator | McLean, VA | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0249499?s=gh-new-grad-it-jobs-2027) |
-| **FIS** | Systems Administrator II | CA FAI 4560 Client | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-fis-searchjobs-JR0309365?s=gh-new-grad-it-jobs-2027) |
 | **Philips** | LMS/Training System Administrator | Reedsville, Pennsylvania,... | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-philips-jobs-and-careers-588317?s=gh-new-grad-it-jobs-2027) |
 | **Eurofins** | Laboratory Instrument System Administrator | Lancaster, PA | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Eurofins-744000149089070?s=gh-new-grad-it-jobs-2027) |
 | **Boeing** | AWACS Field Service Representative/Mid-Level System Administrator – Defense – Saudi Arabia | USA - Oklahoma City, OK | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026516273?s=gh-new-grad-it-jobs-2027) |
@@ -124,7 +124,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **GDIT** | Help Desk Technician III | USA TX San Antonio | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ228694?s=gh-new-grad-it-jobs-2027) |
+| **GDIT** | Help Desk Technician III | USA TX San Antonio | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ228694?s=gh-new-grad-it-jobs-2027) |
 | **TD Bank** | Executive Technology Support Specialist / IT Operations Analyst IV (US) | New York, New York | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1502865?s=gh-new-grad-it-jobs-2027) |
 | **Amentum** | Help Desk Analyst II - NISSC - CMSFS | CO-Colorado Springs | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0171072?s=gh-new-grad-it-jobs-2027) |
 | **Raymond James Financial** | Desktop Support Associate Analyst | Denver, Colorado - United States, R | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-raymondjames-raymondjamescareers-R-0012939?s=gh-new-grad-it-jobs-2027) |
@@ -221,7 +221,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **GDIT** | Network Administrator | International | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ228671?s=gh-new-grad-it-jobs-2027) |
+| **GDIT** | Network Administrator | International | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ228671?s=gh-new-grad-it-jobs-2027) |
 | **CACI** | Network Engineer - Hospital Ship | Norfolk, VA, US | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-331890?s=gh-new-grad-it-jobs-2027) |
 | **Hermeus** | Network Engineer | Los Angeles, CA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-hermeus-5e92ddba-8a79-464e-82ff-85ab3dc1ce2b?s=gh-new-grad-it-jobs-2027) |
 | **Booz Allen Hamilton** | Network Engineer, Mid | Camp Parks, CA | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0249903?s=gh-new-grad-it-jobs-2027) |
@@ -231,13 +231,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **CACI** | Network Engineer- Tier 3 | Sterling, VA, US | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-318450?s=gh-new-grad-it-jobs-2027) |
 | **CACI** | Network Engineer Tier 3 | El Segundo CA US | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-310578?s=gh-new-grad-it-jobs-2027) |
 | **Trace3** | Network Engineer III | Linthicum Heights, MD | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-trace3-8212222?s=gh-new-grad-it-jobs-2027) |
+| **Leidos** | Implementations/Activations Network Engineer II | Shiloh, IL | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-leidos-external-R-00181944?s=gh-new-grad-it-jobs-2027) |
 | **Aerospace Corporation** | Network Engineer - Retiree Casual | Chantilly, VA | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-aero-external-R016596?s=gh-new-grad-it-jobs-2027) |
 | **Sierra Nevada Corporation** | Network Engineer III | Southern Pines, NC | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-snc-snc-external-career-site-R0030849?s=gh-new-grad-it-jobs-2027) |
 | **HPE** | Network Engineer (Sunnyvale, CA) | Sunnyvale, California, United... | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-acjobsite-1213652?s=gh-new-grad-it-jobs-2027) |
 | **Nightwing** | Systems Network Engineer | Ft George G Meade, MD | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nwis-nw-JR102011?s=gh-new-grad-it-jobs-2027) |
 | **University of Texas at Austin** | Enterprise Network Engineer I | AUSTIN, TX | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-utaustin-utstaff-R_00048871?s=gh-new-grad-it-jobs-2027) |
 | **HPE (University)** | Network Engineer (Sunnyvale, CA) | Sunnyvale, California, United... | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-jobsathpe-1213652?s=gh-new-grad-it-jobs-2027) |
-| **Leidos** | Implementations/Activations Network Engineer II | Shiloh, IL | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-leidos-external-R-00181944?s=gh-new-grad-it-jobs-2027) |
 | **Captivation** | Network Engineer 2 (Travel Required) - Cisco/Jira/LatteArt/STE/STN/SSP/Cisco | Annapolis Junction, MD | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-captivation-5426656008?s=gh-new-grad-it-jobs-2027) |
 | **Captivation** | Network Engineer 2 - Cisco/Jira/Arista/Safe Net/NetApp/Visio | Annapolis Junction, MD | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-captivation-5426653008?s=gh-new-grad-it-jobs-2027) |
 | **Captivation** | Network Engineer 2 - Cisco/Arista | Annapolis Junction, MD | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-captivation-5426595008?s=gh-new-grad-it-jobs-2027) |
@@ -342,9 +342,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Amentum** | Mid-Level Cyber Sustainment Analyst IRES - SSFB | CO-Colorado Springs | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0170531?s=gh-new-grad-it-jobs-2027) |
 | **Guidehouse** | Database Administrator | TX San Antonio | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-guidehouse-external-43347?s=gh-new-grad-it-jobs-2027) |
 | **LLNL** | Virtual Desktop Engineer/Desktop Engineer | Livermore, CA | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-llnl-3743990015216266?s=gh-new-grad-it-jobs-2027) |
+| **Verizon** | Network Threat Hunter | Irving Texas | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-verizon-verizon-careers-R-1100796?s=gh-new-grad-it-jobs-2027) |
 | **Amentum** | Information Technology Engineer | GA-Forest Park | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0169885?s=gh-new-grad-it-jobs-2027) |
 | **University System of New Hampshire** | Information Technology Technician | University of New Hampshire – Main | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-usnh-careers-JR8716?s=gh-new-grad-it-jobs-2027) |
-| **Verizon** | Network Threat Hunter | Irving Texas | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-verizon-verizon-careers-R-1100796?s=gh-new-grad-it-jobs-2027) |
 | **State Street** | Cyber Product Analyst | Quincy, Massachusetts | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-statestreet-global-R-790591?s=gh-new-grad-it-jobs-2027) |
 | **Parsons** | PMIS / IT Admin Support | NY, Syracuse, R185957 | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-parsons-search-R185957?s=gh-new-grad-it-jobs-2027) |
 | **Entegris** | Cyber Threat Analyst Co-Op | Chaska, MN | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-entegris-entegriscareers-REQ-14505?s=gh-new-grad-it-jobs-2027) |
