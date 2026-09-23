@@ -129,7 +129,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **GDIT** | Help Desk Tech - MIDS - TS/SCI w. Polygraph | USA MD Annapolis Junction | 57m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ228668?s=gh-new-grad-it-jobs-2027) |
+| **GDIT** | Help Desk Tech - MIDS - TS/SCI w. Polygraph | USA MD Annapolis Junction | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ228668?s=gh-new-grad-it-jobs-2027) |
 | **Attio** | Technical Support Specialist  \[Sat - Wed\] | United States | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-attio-6ad58823-3a66-48f5-b8d6-1897c62b3bfb?s=gh-new-grad-it-jobs-2027) |
 | **North Wind Group** | Service Help Desk Technician (NWS 00943) | LIVERMORE, California | 18h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/breezy-north-wind-group-aa4ec14be196?s=gh-new-grad-it-jobs-2027) |
 | **Wells Fargo** | Executive Technology and Cyber Security Support Specialist | NEW YORK, NY | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wf-wellsfargojobs-R-576819?s=gh-new-grad-it-jobs-2027) |
@@ -303,11 +303,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **GDIT** | Database Administrator | International | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ226559?s=gh-new-grad-it-jobs-2027) |
-| **Raymond James Financial** | IT Operations Associate Analyst | Saint Petersburg, Florida -... | 16m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-raymondjames-raymondjamescareers-R-0013112?s=gh-new-grad-it-jobs-2027) |
-| **Northrop Grumman** | Classified Cybersecurity Analyst 3/4 - Top Secret | United States-California-Palmdale | 16m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10251373?s=gh-new-grad-it-jobs-2027) |
-| **Northrop Grumman** | Classified Cybersecurity Analyst | United States-Maryland-Linthicum | 16m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10237505?s=gh-new-grad-it-jobs-2027) |
-| **CVS Health** | IT Operations Analyst | CT - Windsor | 10h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1007977?s=gh-new-grad-it-jobs-2027) |
+| **GDIT** | Database Administrator | International | 16m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ226559?s=gh-new-grad-it-jobs-2027) |
+| **Raymond James Financial** | IT Operations Associate Analyst | Saint Petersburg, Florida -... | 25m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-raymondjames-raymondjamescareers-R-0013112?s=gh-new-grad-it-jobs-2027) |
+| **Northrop Grumman** | Classified Cybersecurity Analyst 3/4 - Top Secret | United States-California-Palmdale | 25m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10251373?s=gh-new-grad-it-jobs-2027) |
+| **Northrop Grumman** | Classified Cybersecurity Analyst | United States-Maryland-Linthicum | 25m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10237505?s=gh-new-grad-it-jobs-2027) |
+| **CVS Health** | IT Operations Analyst | CT - Windsor | 11h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1007977?s=gh-new-grad-it-jobs-2027) |
 | **VetsEZ** | InterSystems IRIS Cache Database Administrator (Remote Opportunity) | Dallas, Texas | 20h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/breezy-vetsez-bb3208adc43f01?s=gh-new-grad-it-jobs-2027) |
 | **Jabil** | Application Administrator | Prince George, VA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jabil-jabil-careers-J2463496?s=gh-new-grad-it-jobs-2027) |
 | **GDIT** | SQL Database Administrator (Compliance) | USA FL MacDill AFB | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ228056?s=gh-new-grad-it-jobs-2027) |
