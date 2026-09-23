@@ -65,8 +65,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **GDIT** | Systems Administrator | USA VA Norfolk | 45m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ229062?s=gh-new-grad-it-jobs-2027) |
-| **GDIT** | Tier 3 System Administrator – TS/SCI with Polygraph | USA CO Aurora | 45m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ218262?s=gh-new-grad-it-jobs-2027) |
+| **GDIT** | Systems Administrator | USA VA Norfolk | 59m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ229062?s=gh-new-grad-it-jobs-2027) |
+| **GDIT** | Tier 3 System Administrator – TS/SCI with Polygraph | USA CO Aurora | 59m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ218262?s=gh-new-grad-it-jobs-2027) |
 | **Booz Allen Hamilton** | Systems Administrator | Fort Meade, MD | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0246548?s=gh-new-grad-it-jobs-2027) |
 | **Take-Two Interactive** | Systems Administrator II | Austin, Texas, United States | 5h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-taketwo-8221346?s=gh-new-grad-it-jobs-2027) |
 | **CACI** | Cloud Systems Administrator | Sunset Hills, MO, US | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-332409?s=gh-new-grad-it-jobs-2027) |
@@ -84,16 +84,16 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Amentum** | Mid-Level Linux System Administrator IRES - HSV | AL-Redstone Arsenal | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0167878?s=gh-new-grad-it-jobs-2027) |
 | **Leidos** | Systems Administrator | Suitland, MD | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-leidos-external-R-00191092?s=gh-new-grad-it-jobs-2027) |
 | **Trace3** | Systems Administrator II | Linthicum Heights, MD | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-trace3-8212169?s=gh-new-grad-it-jobs-2027) |
-| **Trace3** | Systems Administrator III | Linthicum Heights, MD | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-trace3-8211914?s=gh-new-grad-it-jobs-2027) |
-| **RTX** | System Administrator | CA-EL SEGUNDO-E04 | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01866789?s=gh-new-grad-it-jobs-2027) |
+| **Trace3** | Systems Administrator III | Linthicum Heights, MD | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-trace3-8211914?s=gh-new-grad-it-jobs-2027) |
+| **RTX** | System Administrator | CA-EL SEGUNDO-E04 | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01866789?s=gh-new-grad-it-jobs-2027) |
 | **State Street** | Network Infrastructure Engineer, AVP | Quincy Massachusetts | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-statestreet-global-R-784829?s=gh-new-grad-it-jobs-2027) |
 | **Amentum** | System Administrator EG Labs | TX-Houston | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0168379?s=gh-new-grad-it-jobs-2027) |
 | **Amentum** | System Administrator EG Labs | TX-Houston | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0168380?s=gh-new-grad-it-jobs-2027) |
 | **SpaceX** | IT Systems Administrator, Manufacturing | Starbase, TX | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-spacex-8815130002?s=gh-new-grad-it-jobs-2027) |
 | **Accenture Federal Services** | Cloud System Administrator | Colorado Springs, CO | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-accenturefederalservices-4703620006?s=gh-new-grad-it-jobs-2027) |
 | **Captivation** | Systems Administrator 2 - Linux/CI/CD/Ansible/Terraform/DevOps | Annapolis Junction, MD | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-captivation-5426532008?s=gh-new-grad-it-jobs-2027) |
-| **SpaceX** | IT Network Infrastructure Engineer, Data Centers | Starbase, TX | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-spacex-8814943002?s=gh-new-grad-it-jobs-2027) |
-| **SpaceX** | IT Network Infrastructure Engineer, Outside Plant | Starbase, TX | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-spacex-8815068002?s=gh-new-grad-it-jobs-2027) |
+| **SpaceX** | IT Network Infrastructure Engineer, Data Centers | Starbase, TX | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-spacex-8814943002?s=gh-new-grad-it-jobs-2027) |
+| **SpaceX** | IT Network Infrastructure Engineer, Outside Plant | Starbase, TX | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-spacex-8815068002?s=gh-new-grad-it-jobs-2027) |
 | **AES Corporation** | Customer Information System Administrator | Indianapolis, IN | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-aes-aes-us-R1064537?s=gh-new-grad-it-jobs-2027) |
 | **CACI** | Cloud Systems Administrator II | Annapolis Junction, MD, US | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-330562?s=gh-new-grad-it-jobs-2027) |
 | **CACI** | Cloud Systems Administrator | St. Louis, MO, US | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-332152?s=gh-new-grad-it-jobs-2027) |
@@ -129,13 +129,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Boeing** | F-18 Landing Gear Technical Support Specialist | USA - Fort Walton Beach, FL | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026519781?s=gh-new-grad-it-jobs-2027) |
-| **Magna** | Analyst, IT Support | Piedmont, South Carolina, US | 30m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-magna-magna-R00262810?s=gh-new-grad-it-jobs-2027) |
-| **GDIT** | Mid-Level Help Desk Technician (Tier 1) - all shifts available - Active Top Secret  Required | USA DC Washington | 45m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ229104?s=gh-new-grad-it-jobs-2027) |
-| **GDIT** | Junior Help Desk Technician (Tier 1) - All shifts available - Active Top Secret required | USA DC Washington | 45m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ229101?s=gh-new-grad-it-jobs-2027) |
-| **GDIT** | Help Desk Tech - MIDS - TS/SCI w. Polygraph | USA MD Annapolis Junction | 45m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ228668?s=gh-new-grad-it-jobs-2027) |
+| **Boeing** | F-18 Landing Gear Technical Support Specialist | USA - Fort Walton Beach, FL | 29m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026519781?s=gh-new-grad-it-jobs-2027) |
+| **Magna** | Analyst, IT Support | Piedmont, South Carolina, US | 44m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-magna-magna-R00262810?s=gh-new-grad-it-jobs-2027) |
+| **GDIT** | Mid-Level Help Desk Technician (Tier 1) - all shifts available - Active Top Secret  Required | USA DC Washington | 59m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ229104?s=gh-new-grad-it-jobs-2027) |
+| **GDIT** | Junior Help Desk Technician (Tier 1) - All shifts available - Active Top Secret required | USA DC Washington | 59m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ229101?s=gh-new-grad-it-jobs-2027) |
+| **GDIT** | Help Desk Tech - MIDS - TS/SCI w. Polygraph | USA MD Annapolis Junction | 59m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ228668?s=gh-new-grad-it-jobs-2027) |
 | **Zillow** | IT Support Specialist | Remote-USA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-zillow-zillow-group-external-P751346?s=gh-new-grad-it-jobs-2027) |
-| **Attio** | Technical Support Specialist  \[Sat - Wed\] | United States | 8h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-attio-6ad58823-3a66-48f5-b8d6-1897c62b3bfb?s=gh-new-grad-it-jobs-2027) |
+| **Attio** | Technical Support Specialist  \[Sat - Wed\] | United States | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-attio-6ad58823-3a66-48f5-b8d6-1897c62b3bfb?s=gh-new-grad-it-jobs-2027) |
 | **Wells Fargo** | Executive Technology and Cyber Security Support Specialist | NEW YORK, NY | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wf-wellsfargojobs-R-576819?s=gh-new-grad-it-jobs-2027) |
 | **North Wind Group** | Service Help Desk Technician (NWS 00943) | LIVERMORE, California | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/breezy-north-wind-group-aa4ec14be196?s=gh-new-grad-it-jobs-2027) |
 | **DriveTime** | Enterprise Service Desk Specialist II | 1720 W Rio Salado Pkwy Tempe,... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-drivetime-drivetime-R16402?s=gh-new-grad-it-jobs-2027) |
@@ -233,8 +233,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Sierra Nevada Corporation** | Network Engineer II | Beavercreek, OH | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-snc-snc-external-career-site-R0030431?s=gh-new-grad-it-jobs-2027) |
-| **CACI** | Network Engineer | Washington DC US | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-332545?s=gh-new-grad-it-jobs-2027) |
+| **Sierra Nevada Corporation** | Network Engineer II | Beavercreek, OH | 27m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-snc-snc-external-career-site-R0030431?s=gh-new-grad-it-jobs-2027) |
+| **CACI** | Network Engineer | Washington DC US | 29m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-332545?s=gh-new-grad-it-jobs-2027) |
 | **Capital One** | Network Engineer 5 | Plano, TX | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-capitalone-capital-one-R1001425?s=gh-new-grad-it-jobs-2027) |
 | **Booz Allen Hamilton** | Versa Network Engineer | Fort Meade, MD | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0250178?s=gh-new-grad-it-jobs-2027) |
 | **Booz Allen Hamilton** | Versa Network Engineer | Fort Meade, MD | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0250176?s=gh-new-grad-it-jobs-2027) |
@@ -304,13 +304,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Palo Alto Networks** | Threat Hunting Researcher (Unit 42) | Remote - USA - CA | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-paloaltonetworks-panwexternalcareers-JR-022704?s=gh-new-grad-it-jobs-2027) |
-| **Raymond James Financial** | IT Operations Analyst | Saint Petersburg, Florida -... | 29m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-raymondjames-raymondjamescareers-R-0013112?s=gh-new-grad-it-jobs-2027) |
-| **Raymond James Financial** | IT Operations Shift Lead | Saint Petersburg, Florida -... | 29m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-raymondjames-raymondjamescareers-R-0013148?s=gh-new-grad-it-jobs-2027) |
-| **CACI** | RMF Cybersecurity Analyst | Picatinny Arsenal, NJ, US | 30m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-332531?s=gh-new-grad-it-jobs-2027) |
-| **Accenture Federal Services** | Database Administrator | Washington, DC | 43m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-accenturefederalservices-4713340006?s=gh-new-grad-it-jobs-2027) |
-| **Verizon** | Network Threat Hunter | Irving Texas | 43m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-verizon-verizon-careers-R-1100796?s=gh-new-grad-it-jobs-2027) |
-| **GDIT** | Database Administrator | International | 45m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ226559?s=gh-new-grad-it-jobs-2027) |
+| **Palo Alto Networks** | Threat Hunting Researcher (Unit 42) | Remote - USA - CA | 28m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-paloaltonetworks-panwexternalcareers-JR-022704?s=gh-new-grad-it-jobs-2027) |
+| **Raymond James Financial** | IT Operations Analyst | Saint Petersburg, Florida -... | 43m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-raymondjames-raymondjamescareers-R-0013112?s=gh-new-grad-it-jobs-2027) |
+| **Raymond James Financial** | IT Operations Shift Lead | Saint Petersburg, Florida -... | 43m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-raymondjames-raymondjamescareers-R-0013148?s=gh-new-grad-it-jobs-2027) |
+| **CACI** | RMF Cybersecurity Analyst | Picatinny Arsenal, NJ, US | 44m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-332531?s=gh-new-grad-it-jobs-2027) |
+| **Accenture Federal Services** | Database Administrator | Washington, DC | 57m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-accenturefederalservices-4713340006?s=gh-new-grad-it-jobs-2027) |
+| **Verizon** | Network Threat Hunter | Irving Texas | 57m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-verizon-verizon-careers-R-1100796?s=gh-new-grad-it-jobs-2027) |
+| **GDIT** | Database Administrator | International | 59m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ226559?s=gh-new-grad-it-jobs-2027) |
 | **CrowdStrike** | Threat Hunter III (Remote) | USA - Remote, TX | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-crowdstrike-crowdstrikecareers-R29602?s=gh-new-grad-it-jobs-2027) |
 | **Northrop Grumman** | Associate Classified Cybersecurity Analyst - Secret | United States-Arizona-Chandler | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10250039?s=gh-new-grad-it-jobs-2027) |
 | **Northrop Grumman** | Classified Cybersecurity Analyst 3/4 - Top Secret | United States-California-Palmdale | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10251373?s=gh-new-grad-it-jobs-2027) |
