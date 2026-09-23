@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **CACI** | Cloud Systems Administrator | Sunset Hills, MO, US | 4h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-332409?s=gh-new-grad-it-jobs-2027) |
+| **CACI** | Cloud Systems Administrator | Sunset Hills, MO, US | 5h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-332409?s=gh-new-grad-it-jobs-2027) |
 | **Ameriprise Financial** | Systems Administrator II | Minneapolis, Minnesota | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ameriprise-ameriprise-R26_3689?s=gh-new-grad-it-jobs-2027) |
 | **Leidos** | Systems Administrator II | Huntsville, AL | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-leidos-external-R-00192731?s=gh-new-grad-it-jobs-2027) |
 | **Leidos** | Systems Administrator | Hurlburt Field, FL | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-leidos-external-R-00187679?s=gh-new-grad-it-jobs-2027) |
@@ -237,7 +237,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **CACI** | Network Engineer | Ashburn, VA, US | 4h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-332452?s=gh-new-grad-it-jobs-2027) |
+| **CACI** | Network Engineer | Ashburn, VA, US | 5h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-332452?s=gh-new-grad-it-jobs-2027) |
 | **Leidos** | Network Engineer II | Pearl Harbor, HI | 6h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-leidos-external-R-00189279?s=gh-new-grad-it-jobs-2027) |
 | **Leidos** | Transport Network Engineer II | Shiloh, IL | 6h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-leidos-external-R-00189827?s=gh-new-grad-it-jobs-2027) |
 | **Base Power** | Network Engineer, Distributed Compute | Austin, TX | 22h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-base-power-2a07a712-ae15-4e1b-87a7-375b75a1c7c7?s=gh-new-grad-it-jobs-2027) |
@@ -306,7 +306,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|----------|--------|----------|
 | **Leidos** | Cyber Operations & Security Specialist II | Huntsville, AL | 6h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-leidos-external-R-00192760?s=gh-new-grad-it-jobs-2027) |
 | **Hitachi** | EUC Engineer | Remote - Washington, United States | 6h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hitachi-hitachi-R0145945?s=gh-new-grad-it-jobs-2027) |
-| **CVS Health** | IT Operations Analyst | CT - Windsor | 8h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1007977?s=gh-new-grad-it-jobs-2027) |
+| **CVS Health** | IT Operations Analyst | CT - Windsor | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1007977?s=gh-new-grad-it-jobs-2027) |
 | **Northrop Grumman** | Classified Cybersecurity Analyst 3/4 - Top Secret | 2 Locations | 17h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10251373?s=gh-new-grad-it-jobs-2027) |
 | **VetsEZ** | InterSystems IRIS Cache Database Administrator (Remote Opportunity) | Dallas, Texas | 18h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/breezy-vetsez-bb3208adc43f01?s=gh-new-grad-it-jobs-2027) |
 | **Deutsche Bank** | Detection Design Cyber Security Analyst - Assistant Vice President | Jacksonville, 5201 Gate Parkway | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-db-dbwebsite-R0431571?s=gh-new-grad-it-jobs-2027) |
