@@ -66,7 +66,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
 | **Booz Allen Hamilton** | Linux Systems Administrator | Rome, NY | 6h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0250451?s=gh-new-grad-it-jobs-2027) |
-| **JLL** | Equipment Monitoring System Administrator | North Seattle, WA | 7h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jll-jllcareers-REQ538098?s=gh-new-grad-it-jobs-2027) |
+| **JLL** | Equipment Monitoring System Administrator | North Seattle, WA | 8h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jll-jllcareers-REQ538098?s=gh-new-grad-it-jobs-2027) |
 | **Unisys** | Level 2 NOC Systems Administrator – Network Focus | USA Remote | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-unisys-external-REQ574037?s=gh-new-grad-it-jobs-2027) |
 | **CACI** | Systems Administrator - Sustainment Engineer | Chantilly, VA, US | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-332529?s=gh-new-grad-it-jobs-2027) |
 | **GDIT** | System Administrator | USA AK Joint Base Elmendorf... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ228877?s=gh-new-grad-it-jobs-2027) |
@@ -321,7 +321,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Northrop Grumman** | Cybersecurity Analyst-19971 | United States-Utah-Roy | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10252542?s=gh-new-grad-it-jobs-2027) |
+| **Northrop Grumman** | Cybersecurity Analyst-19971 | United States-Utah-Roy | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10252542?s=gh-new-grad-it-jobs-2027) |
 | **Booz Allen Hamilton** | Cyber Security Analyst | Aberdeen Proving Ground, MD | 6h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0250162?s=gh-new-grad-it-jobs-2027) |
 | **Booz Allen Hamilton** | Cybersecurity Supply Chain Analyst | Arlington, VA | 6h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0246433?s=gh-new-grad-it-jobs-2027) |
 | **Booz Allen Hamilton** | Risk Management Framework Cybersecurity Analyst | Washington, DC | 6h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0250462?s=gh-new-grad-it-jobs-2027) |
