@@ -135,7 +135,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Guidehouse** | Helpdesk Specialist II | TX, San Antonio | 37m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-guidehouse-external-43744?s=gh-new-grad-it-jobs-2027) |
+| **Guidehouse** | Helpdesk Specialist II | TX, San Antonio | 44m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-guidehouse-external-43744?s=gh-new-grad-it-jobs-2027) |
 | **TD Bank** | IT Support Analyst IV (US) | New York, New York | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1508060?s=gh-new-grad-it-jobs-2027) |
 | **Amentum** | Call Center IT Support Technician | MD-Annapolis | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0171836?s=gh-new-grad-it-jobs-2027) |
 | **Amentum** | IT Support Technician (Temporary) | AZ-Tucson | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0171796?s=gh-new-grad-it-jobs-2027) |
@@ -235,8 +235,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Leidos** | Network Engineer II | Pearl Harbor, HI | 36m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-leidos-external-R-00189279?s=gh-new-grad-it-jobs-2027) |
-| **Northrop Grumman** | Network Engineer - Level 2 or 3 | United States-Colorado-Boulder | 47m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10253491?s=gh-new-grad-it-jobs-2027) |
+| **Leidos** | Network Engineer II | Pearl Harbor, HI | 43m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-leidos-external-R-00189279?s=gh-new-grad-it-jobs-2027) |
+| **Northrop Grumman** | Network Engineer - Level 2 or 3 | United States-Colorado-Boulder | 54m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10253491?s=gh-new-grad-it-jobs-2027) |
 | **KION Group** | Industrial Ethernet Network Engineer | Grand Rapids MI United States | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kiongroup-kiongroup-JR-0092350?s=gh-new-grad-it-jobs-2027) |
 | **Apple** | Optical Network Engineer,  Infrastructure Services | Dallas - Fort Worth Metro Area | 12h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-200668420?s=gh-new-grad-it-jobs-2027) |
 | **Leidos** | Network Engineer | Chantilly, VA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-leidos-external-R-00192654?s=gh-new-grad-it-jobs-2027) |
@@ -319,10 +319,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **TD Synnex** | Summer 2027 Internship Program   Technical, Applied Innovation Track: • Information Technology •... | Greenville, SC | 36m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-synnex-tdsynnexcareers-R56571?s=gh-new-grad-it-jobs-2027) |
-| **Northrop Grumman** | 2026 Associate Cybersecurity Analyst - Pathways Program - Rocket Center WV | United States-West Virginia-Rocket | 47m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10252865?s=gh-new-grad-it-jobs-2027) |
-| **Northrop Grumman** | Manager Information Technology 3 - 19439 - Roy Utah | United States-Utah-Roy | 47m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10237367?s=gh-new-grad-it-jobs-2027) |
-| **Northrop Grumman** | Cybersecurity Analyst 3/4 | United States-Ohio-Cincinnati | 47m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10252792?s=gh-new-grad-it-jobs-2027) |
+| **TD Synnex** | Summer 2027 Internship Program   Technical, Applied Innovation Track: • Information Technology •... | Greenville, SC | 43m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-synnex-tdsynnexcareers-R56571?s=gh-new-grad-it-jobs-2027) |
+| **Northrop Grumman** | 2026 Associate Cybersecurity Analyst - Pathways Program - Rocket Center WV | United States-West Virginia-Rocket | 54m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10252865?s=gh-new-grad-it-jobs-2027) |
+| **Northrop Grumman** | Manager Information Technology 3 - 19439 - Roy Utah | United States-Utah-Roy | 54m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10237367?s=gh-new-grad-it-jobs-2027) |
+| **Northrop Grumman** | Cybersecurity Analyst 3/4 | United States-Ohio-Cincinnati | 54m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10252792?s=gh-new-grad-it-jobs-2027) |
 | **GDIT** | Information Technology/Assurance (IT/IA) Specialist I - Ramstein, Germany | International | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ229545?s=gh-new-grad-it-jobs-2027) |
 | **GDIT** | Information Technology/Assurance (IT/IA) Specialist I (24/7) | USA CO Colorado Springs | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ222646?s=gh-new-grad-it-jobs-2027) |
 | **Booz Allen Hamilton** | Cybersecurity Analyst | McLean, VA | 4h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0249720?s=gh-new-grad-it-jobs-2027) |
