@@ -16,9 +16,9 @@
 <p align="center">🚀 IT, systems administration, and networking jobs for new graduates, updated every 10 minutes.</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/IT%20Jobs-489-3FB950?style=flat&logo=briefcase" height="30" alt="IT Jobs">
-  <img src="https://img.shields.io/badge/General%20IT-142-2F81F7?style=flat&logo=briefcase" height="30" alt="General IT">
-  <img src="https://img.shields.io/badge/Companies-145-C79100?style=flat&logo=building" height="30" alt="Companies hiring">
+  <img src="https://img.shields.io/badge/IT%20Jobs-487-3FB950?style=flat&logo=briefcase" height="30" alt="IT Jobs">
+  <img src="https://img.shields.io/badge/General%20IT-141-2F81F7?style=flat&logo=briefcase" height="30" alt="General IT">
+  <img src="https://img.shields.io/badge/Companies-144-C79100?style=flat&logo=building" height="30" alt="Companies hiring">
   <img src="https://img.shields.io/badge/Updated%20every%2010%20minutes-A371F7?style=flat&logo=clock" height="30" alt="Updated every 10 minutes">
 </p>
 
@@ -74,10 +74,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Parsons** | System Administrator (TS-SCI w/Poly) | MD, Columbia, R171911 | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-parsons-search-R171911?s=gh-new-grad-it-jobs-2027) |
 | **Parsons** | Network and Computer Systems Administrator (TS/SCI w/Poly) | MD (Field Location), R185442 | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-parsons-search-R185442?s=gh-new-grad-it-jobs-2027) |
 | **D. E. Shaw** | Systems Administrator (New York) | New York | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/deshaw-2650?s=gh-new-grad-it-jobs-2027) |
+| **Astreya** | Integrated Security and Systems Administrator II | Leesburg, VA | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-astreya-life-at-astreya-opportunities-R0017385?s=gh-new-grad-it-jobs-2027) |
 | **Boeing** | Linux System Administrator (Mid-Level or Senior) **Sign on Bonus Potential** | USA - Berkeley, MO | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026523547?s=gh-new-grad-it-jobs-2027) |
 | **GDIT** | Compliance Systems Administrator (Virtualization) | USA FL MacDill AFB | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ228051?s=gh-new-grad-it-jobs-2027) |
-| **Astreya** | Integrated Security and Systems Administrator II | Leesburg, VA | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-astreya-life-at-astreya-opportunities-R0017385?s=gh-new-grad-it-jobs-2027) |
-| **Amentum** | Systems Administrator 2 (Linux) | HI-Waimea | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0172007?s=gh-new-grad-it-jobs-2027) |
 | **CACI** | Junior Systems Administrator | Remote | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-332983?s=gh-new-grad-it-jobs-2027) |
 | **Booz Allen Hamilton** | System Administrator | Arlington, VA | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0250673?s=gh-new-grad-it-jobs-2027) |
 | **RTX** | System Administrator | TX-MCKINNEY | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01878695?s=gh-new-grad-it-jobs-2027) |
@@ -187,10 +186,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **ASM Global** | Event IT Technician (Legends Global Merchandise) | Indianapolis, IN | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-asmglobal-careers-R100124720?s=gh-new-grad-it-jobs-2027) |
 | **Astranis** | IT Support Technician Associate (Winter 2027) | San Francisco | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-astranis-4716175006?s=gh-new-grad-it-jobs-2027) |
 | **Axon** | IT Support Technician III | Boston, Massachusetts, United... | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-axon-7997081003?s=gh-new-grad-it-jobs-2027) |
+| **Curtiss-Wright** | Technical Support Specialist | MN-Chanhassen | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-curtisswright-cw-external-career-site-JR13731?s=gh-new-grad-it-jobs-2027) |
 | **Sierra Nevada Corporation** | IT Support Technician II - Service Center | Lone Tree, CO | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-snc-snc-external-career-site-R0030918?s=gh-new-grad-it-jobs-2027) |
 | **Guidehouse** | Help Desk Technician | Remote | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-guidehouse-external-44436?s=gh-new-grad-it-jobs-2027) |
 | **PTC** | Associate Technical Support Specialist | Boston, MA, USA | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ptc-ptc-JR112734?s=gh-new-grad-it-jobs-2027) |
-| **Curtiss-Wright** | Technical Support Specialist | MN-Chanhassen | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-curtisswright-cw-external-career-site-JR13731?s=gh-new-grad-it-jobs-2027) |
 | **Magna** | Analyst, IT Support | Piedmont, South Carolina, US | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-magna-magna-R00262810?s=gh-new-grad-it-jobs-2027) |
 | **Boeing** | F-18 Landing Gear Technical Support Specialist | USA - Fort Walton Beach, FL | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026519781?s=gh-new-grad-it-jobs-2027) |
 | **Muon Space** | Junior Help Desk Intern (Summer 2027) | Mountain View, CA | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-muonspace-5247733007?s=gh-new-grad-it-jobs-2027) |
@@ -286,9 +285,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Sierra Nevada Corporation** | Network Engineer II | Beavercreek, OH | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-snc-snc-external-career-site-R0030431?s=gh-new-grad-it-jobs-2027) |
 | **CACI** | Network Engineer | Washington DC US | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-332545?s=gh-new-grad-it-jobs-2027) |
 | **Amentum** | Network Administrator | NY-Watervliet | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0171254?s=gh-new-grad-it-jobs-2027) |
+| **Astreya** | Network Engineer II | Dallas, TX | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-astreya-life-at-astreya-opportunities-R0017426?s=gh-new-grad-it-jobs-2027) |
 | **Morgan Stanley** | Low Latency Network Engineer | New York, New York, United... | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ms-external-PT-JR030709?s=gh-new-grad-it-jobs-2027) |
 | **HPE** | Resident Network Engineer | Sunnyvale, California, United... | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-acjobsite-1192543?s=gh-new-grad-it-jobs-2027) |
-| **Astreya** | Network Engineer II | Dallas, TX | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-astreya-life-at-astreya-opportunities-R0017426?s=gh-new-grad-it-jobs-2027) |
 | **CACI** | Network Engineer | Ashburn, VA, US | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-332452?s=gh-new-grad-it-jobs-2027) |
 | **HPE (University)** | Resident Network Engineer | Sunnyvale, California, United... | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-jobsathpe-1192543?s=gh-new-grad-it-jobs-2027) |
 | **GE Vernova** | Network Engineer | Greenville | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gevernova-vernova-externalsite-R5052938?s=gh-new-grad-it-jobs-2027) |
@@ -385,7 +384,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Palo Alto Networks** | Threat Hunting Researcher (Unit 42) | Remote - USA - CA | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-paloaltonetworks-panwexternalcareers-JR-022704?s=gh-new-grad-it-jobs-2027) |
 | **CACI** | RMF Cybersecurity Analyst | Picatinny Arsenal, NJ, US | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-332531?s=gh-new-grad-it-jobs-2027) |
 | **CVS Health** | IT Operations Analyst | CT - Windsor | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1007977?s=gh-new-grad-it-jobs-2027) |
-| **Nightwing** | Cyber Network Forensic Analyst IV | Arlington, VA | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nwis-nw-JR102099?s=gh-new-grad-it-jobs-2027) |
 | **Tencent** | IT Operations Intern | California-Palo Alto | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-tencent-tencent-careers-R108176?s=gh-new-grad-it-jobs-2027) |
 | **CrowdStrike** | Red Team Manager (Remote) | USA - Remote | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-crowdstrike-crowdstrikecareers-R30162?s=gh-new-grad-it-jobs-2027) |
 | **VetsEZ** | InterSystems IRIS Cache Database Administrator (Remote Opportunity) | Dallas, Texas | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/breezy-vetsez-bb3208adc43f01?s=gh-new-grad-it-jobs-2027) |
@@ -503,7 +501,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 489 current opportunities from 145 companies**
+**🎯 487 current opportunities from 144 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
