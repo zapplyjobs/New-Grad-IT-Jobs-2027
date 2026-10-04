@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **GDIT** | Systems Administrator Technician  - TS/SCI with Polygraph | USA CO Aurora | 24m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ229721?s=gh-new-grad-it-jobs-2027) |
+| **GDIT** | Systems Administrator Technician  - TS/SCI with Polygraph | USA CO Aurora | 31m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ229721?s=gh-new-grad-it-jobs-2027) |
 | **GDIT** | Systems Administrator (Linux / RHEL) | USA FL MacDill AFB | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ228053?s=gh-new-grad-it-jobs-2027) |
 | **University of Texas at Austin** | Systems Administrator II | AUSTIN, TX | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-utaustin-utstaff-R_00049168?s=gh-new-grad-it-jobs-2027) |
 | **Leidos** | Junior System Administrator | Fort Detrick, MD | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-leidos-external-R-00193757?s=gh-new-grad-it-jobs-2027) |
@@ -93,7 +93,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Oracle** | System Administrator 2-IT | Kansas City, MO, United States | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-oracle-334906?s=gh-new-grad-it-jobs-2027) |
 | **SpaceX** | IT Systems Administrator, Test Operations (2nd Shift) | McGregor, TX | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-spacex-8854361002?s=gh-new-grad-it-jobs-2027) |
 | **CACI** | Systems Administrator - Sustainment Engineer | Chantilly, VA, US | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-332529?s=gh-new-grad-it-jobs-2027) |
-| **Northrop Grumman** | Windows Systems Administrator - Secret | United States-Utah-Layton | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10252837?s=gh-new-grad-it-jobs-2027) |
+| **Northrop Grumman** | Windows Systems Administrator - Secret | United States-Utah-Layton | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10252837?s=gh-new-grad-it-jobs-2027) |
 | **Amentum** | Systems Administrator | MD-Hanover | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0171605?s=gh-new-grad-it-jobs-2027) |
 | **Unisys** | Level 2 NOC Systems Administrator – Network Focus | USA Remote | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-unisys-external-REQ574037?s=gh-new-grad-it-jobs-2027) |
 | **JLL** | Equipment Monitoring System Administrator | North Seattle, WA | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jll-jllcareers-REQ538098?s=gh-new-grad-it-jobs-2027) |
