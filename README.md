@@ -65,8 +65,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Leidos** | Linux Systems Administrator | Suitland, MD | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-leidos-external-R-00193935?s=gh-new-grad-it-jobs-2027) |
-| **RTX** | System Administrator (ONSITE) COMPANY WILL SPONSOR | MA-TEWKSBURY-TB3 | 37m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01879672?s=gh-new-grad-it-jobs-2027) |
+| **Leidos** | Linux Systems Administrator | Suitland, MD | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-leidos-external-R-00193935?s=gh-new-grad-it-jobs-2027) |
+| **RTX** | System Administrator (ONSITE) COMPANY WILL SPONSOR | MA-TEWKSBURY-TB3 | 44m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01879672?s=gh-new-grad-it-jobs-2027) |
 | **Magna** | Systems Administrator (Night Shift) | Moore, South Carolina, US | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-magna-magna-R00264853?s=gh-new-grad-it-jobs-2027) |
 | **Boeing** | Mid-Level Windows System Administrator **Sign on Bonus Potential** | Berkeley, MO | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026526024?s=gh-new-grad-it-jobs-2027) |
 | **SpaceX** | IT Network Infrastructure Engineer, Outside Plant | Starbase, TX | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-spacex-8869044002?s=gh-new-grad-it-jobs-2027) |
@@ -141,7 +141,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Velera** | IT Support Analyst I - Remote | Remote-USA | 57m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-velera-veleracareers-9736?s=gh-new-grad-it-jobs-2027) |
+| **Velera** | IT Support Analyst I - Remote | Remote-USA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-velera-veleracareers-9736?s=gh-new-grad-it-jobs-2027) |
 | **Unisys** | Tech Service Desk | Remote, PA, United States of... | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-unisys-external-REQ575952?s=gh-new-grad-it-jobs-2027) |
 | **Unisys** | Tech Service Desk | Remote, PA, United States of... | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-unisys-external-REQ575949?s=gh-new-grad-it-jobs-2027) |
 | **Unisys** | Tech Service Desk | Remote, PA, United States of... | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-unisys-external-REQ575950?s=gh-new-grad-it-jobs-2027) |
@@ -333,7 +333,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Northrop Grumman** | 2027 Associate Database Administrator / Database Administrator | 5 Locations | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10254541?s=gh-new-grad-it-jobs-2027) |
+| **Northrop Grumman** | 2027 Associate Database Administrator / Database Administrator | 5 Locations | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10254541?s=gh-new-grad-it-jobs-2027) |
 | **Northrop Grumman** | Classified Cybersecurity Analyst 3/4 - Top Secret | United States-California-Beale AFB | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10253931?s=gh-new-grad-it-jobs-2027) |
 | **Northrop Grumman** | 2026 Associate Cybersecurity Analyst - Pathways Program - Redondo Beach CA | United... | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10251914?s=gh-new-grad-it-jobs-2027) |
 | **GDIT** | Information Technology/Assurance (IT/IA) Specialist I (24/7) | USA CO Colorado Springs | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ229810?s=gh-new-grad-it-jobs-2027) |
