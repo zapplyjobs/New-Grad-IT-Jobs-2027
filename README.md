@@ -16,7 +16,7 @@
 <p align="center">🚀 IT, systems administration, and networking jobs for new graduates, updated every 10 minutes.</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/IT%20Jobs-482-3FB950?style=flat&logo=briefcase" height="30" alt="IT Jobs">
+  <img src="https://img.shields.io/badge/IT%20Jobs-481-3FB950?style=flat&logo=briefcase" height="30" alt="IT Jobs">
   <img src="https://img.shields.io/badge/Help%20Desk%20%26%20Support-145-2F81F7?style=flat&logo=briefcase" height="30" alt="Help Desk & Support">
   <img src="https://img.shields.io/badge/Companies-139-C79100?style=flat&logo=building" height="30" alt="Companies hiring">
   <img src="https://img.shields.io/badge/Updated%20every%2010%20minutes-A371F7?style=flat&logo=clock" height="30" alt="Updated every 10 minutes">
@@ -143,7 +143,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Bosch Group** | IT Technician Fab Support | Roseville, CA | 15h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-BoschGroup-744000154519875?s=gh-new-grad-it-jobs-2027) |
+| **Bosch Group** | IT Technician Fab Support | Roseville, CA | 16h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-BoschGroup-744000154519875?s=gh-new-grad-it-jobs-2027) |
 | **Trimble** | IS Help Desk Technician | OR, Lake Oswego | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-trimble-trimblecareers-R57932?s=gh-new-grad-it-jobs-2027) |
 | **Leidos** | Help Desk Specialist | McLean, VA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-leidos-external-R-00194200?s=gh-new-grad-it-jobs-2027) |
 | **Leidos** | Jr. Help Desk Specialist | McLean, VA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-leidos-external-R-00194192?s=gh-new-grad-it-jobs-2027) |
@@ -178,7 +178,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **LLNL** | HR Systems Help Desk Team Lead | Livermore, CA | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-llnl-3743990015901386?s=gh-new-grad-it-jobs-2027) |
 | **Hims & Hers** | IT Support Specialist II | Menlo Park, California | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-hims-and-hers-b504277c-f70f-4ebd-b019-0406676ecb3f?s=gh-new-grad-it-jobs-2027) |
 | **Wash U** | Technical Support Specialist II - WUIT | Washington University Medical | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wustl-external-JR97600?s=gh-new-grad-it-jobs-2027) |
-| **CarGurus** | IT Service Desk Analyst (Contract) | Boston, Massachusetts, United... | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-cargurus-8249802?s=gh-new-grad-it-jobs-2027) |
+| **CarGurus** | IT Service Desk Analyst (Contract) | Boston, Massachusetts, United... | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-cargurus-8249802?s=gh-new-grad-it-jobs-2027) |
 | **Wells Fargo** | Executive Technology and Cyber Security Support Specialist | NEW YORK, NY | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wf-wellsfargojobs-R-576819?s=gh-new-grad-it-jobs-2027) |
 | **Unisys** | Tech Service Desk | Remote, PA, United States of... | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-unisys-external-REQ575952?s=gh-new-grad-it-jobs-2027) |
 | **Unisys** | Tech Service Desk | Remote, PA, United States of... | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-unisys-external-REQ575949?s=gh-new-grad-it-jobs-2027) |
@@ -251,8 +251,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Booz Allen Hamilton** | PKI Network Engineer | Quantico, VA | 6h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0243925?s=gh-new-grad-it-jobs-2027) |
-| **Apple** | Retail Network Engineer, Infrastructure Services | San Francisco Bay Area | 12h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-200687215?s=gh-new-grad-it-jobs-2027) |
+| **Booz Allen Hamilton** | PKI Network Engineer | Quantico, VA | 7h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0243925?s=gh-new-grad-it-jobs-2027) |
+| **Apple** | Retail Network Engineer, Infrastructure Services | San Francisco Bay Area | 13h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-200687215?s=gh-new-grad-it-jobs-2027) |
 | **Leidos** | Network Engineer II | Shiloh, IL | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-leidos-external-R-00194256?s=gh-new-grad-it-jobs-2027) |
 | **Leidos** | Network Engineer II | Shiloh, IL | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-leidos-external-R-00186849?s=gh-new-grad-it-jobs-2027) |
 | **GDIT** | Sagami Network Engineer – Secret Clearance Required | International | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ230145?s=gh-new-grad-it-jobs-2027) |
@@ -496,7 +496,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 482 current opportunities from 139 companies**
+**🎯 481 current opportunities from 139 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
