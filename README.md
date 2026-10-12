@@ -65,9 +65,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **CACI** | Cloud Systems Administrator II | Annapolis Junction, MD, US | 10m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-330562?s=gh-new-grad-it-jobs-2027) |
-| **Amentum** | Systems Administrator 3 | MD-Hanover | 10m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0172776?s=gh-new-grad-it-jobs-2027) |
-| **Amentum** | Systems Administrator 3 | MD-Hanover | 10m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0172783?s=gh-new-grad-it-jobs-2027) |
+| **CACI** | Cloud Systems Administrator II | Annapolis Junction, MD, US | 18m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-330562?s=gh-new-grad-it-jobs-2027) |
+| **Amentum** | Systems Administrator 3 | MD-Hanover | 18m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0172776?s=gh-new-grad-it-jobs-2027) |
+| **Amentum** | Systems Administrator 3 | MD-Hanover | 18m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0172783?s=gh-new-grad-it-jobs-2027) |
 | **GDIT** | Systems Administrator | USA LA Bossier City | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ230080?s=gh-new-grad-it-jobs-2027) |
 | **GDIT** | Systems Administrator Mid | USA KS Fort Leavenworth | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ229907?s=gh-new-grad-it-jobs-2027) |
 | **Draper** | Linux (RHEL) Classified Systems Administrator | Cambridge, MA | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-draper-draper-careers-JR002644?s=gh-new-grad-it-jobs-2027) |
@@ -221,7 +221,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Axon** | IT Support Technician III | Boston, Massachusetts, United... | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-axon-7997081003?s=gh-new-grad-it-jobs-2027) |
 | **Muon Space** | Junior Help Desk Intern (Summer 2027) | Mountain View, CA | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-muonspace-5247733007?s=gh-new-grad-it-jobs-2027) |
 | **Bot Auto** | Intern, IT Specialist | Houston, TX | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-botauto-5430792008?s=gh-new-grad-it-jobs-2027) |
-| **Assured Guaranty** | IT Helpdesk Intern - Summer 2027 | New York, NY, United States | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-assuredguaranty-8817718002?s=gh-new-grad-it-jobs-2027) |
+| **Assured Guaranty** | IT Helpdesk Intern - Summer 2027 | New York, NY, United States | 3w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-assuredguaranty-8817718002?s=gh-new-grad-it-jobs-2027) |
 | **Amperesand** | IT Support Specialist-III | San Francisco, California,... | 3w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-amperesand-4412278009?s=gh-new-grad-it-jobs-2027) |
 | **GM Financial** | Intern - IT Support Technician | Arlington, TX, United States | 3w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-gm-financial-260834?s=gh-new-grad-it-jobs-2027) |
 | **Antares** | IT Helpdesk Intern - Summer 2027 | Los Angeles | 4w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-antares-c06333ba-ce06-43c2-be34-615a3582d5df?s=gh-new-grad-it-jobs-2027) |
@@ -248,7 +248,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Amentum** | Network Engineer | MD-Columbia | 10m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0172856?s=gh-new-grad-it-jobs-2027) |
+| **Amentum** | Network Engineer | MD-Columbia | 18m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0172856?s=gh-new-grad-it-jobs-2027) |
 | **Zayo** | Network Engineer III - Packet (FTT) | United States | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-zayo-zayo-careers-R0017290?s=gh-new-grad-it-jobs-2027) |
 | **Zayo** | Network Engineer II - Packet (FTT) | United States | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-zayo-zayo-careers-R0017287?s=gh-new-grad-it-jobs-2027) |
 | **Schweitzer Engineering Laboratories** | Network Engineer - Manufacturing | Washington - Pullman | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-selinc-sel-2026-23587?s=gh-new-grad-it-jobs-2027) |
