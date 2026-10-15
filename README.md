@@ -65,12 +65,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **GDIT** | Cybersecurity Systems Administrator | USA FL MacDill AFB | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ230499?s=gh-new-grad-it-jobs-2027) |
-| **CACI** | Systems Administrator (Junior) | Nationwide | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-333643?s=gh-new-grad-it-jobs-2027) |
-| **CACI** | Systems Administrator (Journeyman) | Nationwide | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-333642?s=gh-new-grad-it-jobs-2027) |
-| **GDIT** | Tier 2 / Systems Administrator - ONSITE - Active Top Secret required | USA DC Washington | 35m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ230615?s=gh-new-grad-it-jobs-2027) |
-| **GDIT** | Compliance Systems Administrator | USA FL MacDill AFB | 35m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ228298?s=gh-new-grad-it-jobs-2027) |
-| **USAA** | Mid-Level Infrastructure Engineer – Oracle Exadata/Database Administrator | San Antonio | 54m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-usaa-usaajobswd-R0120913?s=gh-new-grad-it-jobs-2027) |
+| **GDIT** | Cybersecurity Systems Administrator | USA FL MacDill AFB | 22m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ230499?s=gh-new-grad-it-jobs-2027) |
+| **CACI** | Systems Administrator (Junior) | Nationwide | 22m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-333643?s=gh-new-grad-it-jobs-2027) |
+| **CACI** | Systems Administrator (Journeyman) | Nationwide | 22m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-333642?s=gh-new-grad-it-jobs-2027) |
+| **GDIT** | Tier 2 / Systems Administrator - ONSITE - Active Top Secret required | USA DC Washington | 42m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ230615?s=gh-new-grad-it-jobs-2027) |
+| **GDIT** | Compliance Systems Administrator | USA FL MacDill AFB | 42m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ228298?s=gh-new-grad-it-jobs-2027) |
+| **USAA** | Mid-Level Infrastructure Engineer – Oracle Exadata/Database Administrator | San Antonio | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-usaa-usaajobswd-R0120913?s=gh-new-grad-it-jobs-2027) |
 | **Booz Allen Hamilton** | Maritime Unmanned Systems Administrator & Help Desk Support Specialist | Port Hueneme, CA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0251528?s=gh-new-grad-it-jobs-2027) |
 | **RTX** | System Administrator I - Onsite | RI-MIDDLETOWN | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01882161?s=gh-new-grad-it-jobs-2027) |
 | **RTX** | System Administrator Intern (Summer 2027) | RI-MIDDLETOWN | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01879679?s=gh-new-grad-it-jobs-2027) |
@@ -138,9 +138,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **NREL** | IT Service Desk Technician | Golden, CO | 34m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nrel-nlr-R14538?s=gh-new-grad-it-jobs-2027) |
-| **GDIT** | Help Desk Technician - Tier II - TS/SCI with Polygraph | USA DC Washington | 35m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ230612?s=gh-new-grad-it-jobs-2027) |
-| **GDIT** | Service Desk Technician | USA CA El Segundo | 35m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ229870?s=gh-new-grad-it-jobs-2027) |
+| **NREL** | IT Service Desk Technician | Golden, CO | 42m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nrel-nlr-R14538?s=gh-new-grad-it-jobs-2027) |
+| **GDIT** | Help Desk Technician - Tier II - TS/SCI with Polygraph | USA DC Washington | 42m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ230612?s=gh-new-grad-it-jobs-2027) |
+| **GDIT** | Service Desk Technician | USA CA El Segundo | 42m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ229870?s=gh-new-grad-it-jobs-2027) |
 | **Per Scholas** | Instructional Assistant (IT Support) | Detroit, Michigan, United States | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-perscholashires-4722408006?s=gh-new-grad-it-jobs-2027) |
 | **Oshkosh Corporation** | IT Technical Support Specialist - 3rd Shift | Spartanburg, South Carolina,... | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-oshkoshcorporation-oshkosh-R50396?s=gh-new-grad-it-jobs-2027) |
 | **Per Scholas** | IT Support Satellite Teaching Fellow | Plainfield, New Jersey, United... | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-perscholashires-4722253006?s=gh-new-grad-it-jobs-2027) |
@@ -242,8 +242,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **AIG** | Wireless Network Engineer | NJ Parsippany | 34m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-aig-aig-JR2602855?s=gh-new-grad-it-jobs-2027) |
-| **GDIT** | NCIS Network Engineer   Shift Work   Active TS/SCI clearance | USA VA Quantico | 35m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ228116?s=gh-new-grad-it-jobs-2027) |
+| **AIG** | Wireless Network Engineer | NJ Parsippany | 42m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-aig-aig-JR2602855?s=gh-new-grad-it-jobs-2027) |
+| **GDIT** | NCIS Network Engineer   Shift Work   Active TS/SCI clearance | USA VA Quantico | 42m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ228116?s=gh-new-grad-it-jobs-2027) |
 | **Booz Allen Hamilton** | Network Engineer | Annapolis Junction, MD | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0251717?s=gh-new-grad-it-jobs-2027) |
 | **Leidos** | Network Engineer III | Shiloh, IL | 8h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-leidos-external-R-00191025?s=gh-new-grad-it-jobs-2027) |
 | **Leidos** | Network Engineer I | Shiloh, IL | 8h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-leidos-external-R-00191007?s=gh-new-grad-it-jobs-2027) |
@@ -316,12 +316,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **CACI** | Asset Management Specialist - IT Operations | Arlington, VA, US | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-333554?s=gh-new-grad-it-jobs-2027) |
-| **RTX** | Cybersecurity Analyst (Onsite) | AZ-TUCSON-M05 | 24m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01882955?s=gh-new-grad-it-jobs-2027) |
-| **Unisys** | Cybersecurity Analyst in Santa Clara, CA | Santa Clara, CA, United States... | 34m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-unisys-external-REQ576369?s=gh-new-grad-it-jobs-2027) |
-| **GDIT** | Information Technology/Assurance (IT/IA) Specialist II | USA OH Dayton | 35m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ230613?s=gh-new-grad-it-jobs-2027) |
-| **GDIT** | Cyber Incident Response Team (CIRT) Analyst - Requires TS/SCI Clearance | USA VA Falls Church | 35m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ230345?s=gh-new-grad-it-jobs-2027) |
-| **Rocket Companies** | Summer 2027 Internships - Marketing, Accounting, or Information Technology | Detroit, MI | 54m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-quickenloans-rocket-careers-R-085042?s=gh-new-grad-it-jobs-2027) |
+| **CACI** | Asset Management Specialist - IT Operations | Arlington, VA, US | 22m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-333554?s=gh-new-grad-it-jobs-2027) |
+| **RTX** | Cybersecurity Analyst (Onsite) | AZ-TUCSON-M05 | 32m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01882955?s=gh-new-grad-it-jobs-2027) |
+| **Unisys** | Cybersecurity Analyst in Santa Clara, CA | Santa Clara, CA, United States... | 42m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-unisys-external-REQ576369?s=gh-new-grad-it-jobs-2027) |
+| **GDIT** | Information Technology/Assurance (IT/IA) Specialist II | USA OH Dayton | 42m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ230613?s=gh-new-grad-it-jobs-2027) |
+| **GDIT** | Cyber Incident Response Team (CIRT) Analyst - Requires TS/SCI Clearance | USA VA Falls Church | 42m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ230345?s=gh-new-grad-it-jobs-2027) |
+| **Rocket Companies** | Summer 2027 Internships - Marketing, Accounting, or Information Technology | Detroit, MI | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-quickenloans-rocket-careers-R-085042?s=gh-new-grad-it-jobs-2027) |
 | **Apex Technology** | Red Team Engineer, Product Security | Los Angeles | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-apex-technology-inc-427328cd-63e9-4086-bee9-98c866a5c215?s=gh-new-grad-it-jobs-2027) |
 | **Booz Allen Hamilton** | Cyber Threat Intelligence Analyst | Huntsville, AL | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0250884?s=gh-new-grad-it-jobs-2027) |
 | **Amentum** | Information Technology (IT) Engineer | GA-Forest Park | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0173162?s=gh-new-grad-it-jobs-2027) |
