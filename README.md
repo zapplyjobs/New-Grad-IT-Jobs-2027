@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **GDIT** | Systems Administrator | International | 16m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ230573?s=gh-new-grad-it-jobs-2027) |
+| **GDIT** | Systems Administrator | International | 23m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ230573?s=gh-new-grad-it-jobs-2027) |
 | **Amentum** | IT Systems Administrator | HI Kaneohe | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0173220?s=gh-new-grad-it-jobs-2027) |
 | **Leidos** | DevOps Platform Engineer/Linux Systems Administrator | Bethesda, MD | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-leidos-external-R-00194746?s=gh-new-grad-it-jobs-2027) |
 | **USAA** | Mid-Level Infrastructure Engineer – Oracle Exadata/Database Administrator | San Antonio | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-usaa-usaajobswd-R0120913?s=gh-new-grad-it-jobs-2027) |
@@ -136,7 +136,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Astreya** | Service Desk Specialist III | Cambridge, MA | 57m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-astreya-life-at-astreya-opportunities-R0017435?s=gh-new-grad-it-jobs-2027) |
+| **Astreya** | Service Desk Specialist III | Cambridge, MA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-astreya-life-at-astreya-opportunities-R0017435?s=gh-new-grad-it-jobs-2027) |
 | **GDIT** | Helpdesk Support Technician | USA DC Washington | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ230038?s=gh-new-grad-it-jobs-2027) |
 | **VAST** | IT Support Specialist II | Long Beach, California, United... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-vast-4722719006?s=gh-new-grad-it-jobs-2027) |
 | **Sierra Nevada Corporation** | IT Support Technician III | Hagerstown, MD | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-snc-snc-external-career-site-R0030377?s=gh-new-grad-it-jobs-2027) |
