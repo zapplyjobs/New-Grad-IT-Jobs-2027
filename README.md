@@ -65,11 +65,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **FIS** | Systems Administrator II (3-6 Years experience l Onsite, Monday through Friday, New York, NY) | NY NYC 1120 Client | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-fis-searchjobs-JR0309876?s=gh-new-grad-it-jobs-2027) |
-| **RTX** | Linux System Administrator (ONSITE) COMPANY WILL SPONSOR | MA-ANDOVER-AN1 | 28m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01882989?s=gh-new-grad-it-jobs-2027) |
+| **FIS** | Systems Administrator II (3-6 Years experience l Onsite, Monday through Friday, New York, NY) | NY NYC 1120 Client | 16m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-fis-searchjobs-JR0309876?s=gh-new-grad-it-jobs-2027) |
+| **RTX** | Linux System Administrator (ONSITE) COMPANY WILL SPONSOR | MA-ANDOVER-AN1 | 37m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01882989?s=gh-new-grad-it-jobs-2027) |
 | **Booz Allen Hamilton** | Maritime Unmanned Systems Administrator & Help Desk Support Specialist | Port Hueneme, CA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0251530?s=gh-new-grad-it-jobs-2027) |
 | **GDIT** | Systems Administrator | USA VA Bluemont | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ230739?s=gh-new-grad-it-jobs-2027) |
-| **RTX** | Systems Administrator (ISSA) (PWE )(Onsite) | IA-CEDAR RAPIDS | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01882935?s=gh-new-grad-it-jobs-2027) |
+| **RTX** | Systems Administrator (ISSA) (PWE )(Onsite) | IA-CEDAR RAPIDS | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01882935?s=gh-new-grad-it-jobs-2027) |
 | **GDIT** | Systems Administrator | International | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ230573?s=gh-new-grad-it-jobs-2027) |
 | **MITRE** | Associate System Administrator | McLean, Virginia | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-mitre-R117814?s=gh-new-grad-it-jobs-2027) |
 | **Leidos** | DevOps Platform Engineer/Linux Systems Administrator | Bethesda, MD | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-leidos-external-R-00194746?s=gh-new-grad-it-jobs-2027) |
@@ -130,12 +130,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **ASM Global** | IT Support Technician | Oklahoma City, OK | 9m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-asmglobal-careers-R100126120?s=gh-new-grad-it-jobs-2027) |
-| **Unisys** | Desktop Support Computer Technician ONSITE in Rensselaer, NY | Rensselaer, NY, United States... | 27m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-unisys-external-REQ576577?s=gh-new-grad-it-jobs-2027) |
-| **Trimble** | IS Help Desk Technician | OR, Lake Oswego | 28m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-trimble-trimblecareers-R57932?s=gh-new-grad-it-jobs-2027) |
+| **ASM Global** | IT Support Technician | Oklahoma City, OK | 17m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-asmglobal-careers-R100126120?s=gh-new-grad-it-jobs-2027) |
+| **Unisys** | Desktop Support Computer Technician ONSITE in Rensselaer, NY | Rensselaer, NY, United States... | 36m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-unisys-external-REQ576577?s=gh-new-grad-it-jobs-2027) |
+| **Trimble** | IS Help Desk Technician | OR, Lake Oswego | 37m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-trimble-trimblecareers-R57932?s=gh-new-grad-it-jobs-2027) |
 | **GDIT** | Help Desk Specialist II | USA DC Washington | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ230759?s=gh-new-grad-it-jobs-2027) |
 | **Becton Dickinson** | Technical Support Specialist 2 | Texas | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bdx-external-career-site-usa-R-556682?s=gh-new-grad-it-jobs-2027) |
-| **Amentum** | IT Support Technician | MO-St. Louis | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0173446?s=gh-new-grad-it-jobs-2027) |
+| **Amentum** | IT Support Technician | MO-St. Louis | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0173446?s=gh-new-grad-it-jobs-2027) |
 | **Reflect Orbital** | IT Support Specialist Intern | Hawthorne, CA | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-reflect-orbital-8f4f8e74-b386-41b4-8154-7e5e50a34205?s=gh-new-grad-it-jobs-2027) |
 | **QuEra Computing** | IT Specialist | Boston, MA, USA | 5h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-queracomputinginc-5457113008?s=gh-new-grad-it-jobs-2027) |
 | **T-Rex Solutions** | Help Desk Specialist | Fort Meade, Maryland | 7h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-trexsolutions-8900155002?s=gh-new-grad-it-jobs-2027) |
@@ -306,7 +306,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Booz Allen Hamilton** | Cyber Threat Intelligence Analyst Subject Matter Expert | Arlington, VA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0244475?s=gh-new-grad-it-jobs-2027) |
 | **Booz Allen Hamilton** | Cyber Threat Hunter | McLean, VA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0251876?s=gh-new-grad-it-jobs-2027) |
 | **Booz Allen Hamilton** | Cyber Threat Hunter | McLean, VA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0251871?s=gh-new-grad-it-jobs-2027) |
-| **T-Rex Solutions** | Database Administrator 2 | Fort Meade, Maryland | 6h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-trexsolutions-8900246002?s=gh-new-grad-it-jobs-2027) |
+| **T-Rex Solutions** | Database Administrator 2 | Fort Meade, Maryland | 7h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-trexsolutions-8900246002?s=gh-new-grad-it-jobs-2027) |
 | **Cisco** | UI Desktop Engineer Hybird, North Carolina Hybrid | RTP, North Carolina, US | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2023263?s=gh-new-grad-it-jobs-2027) |
 | **Cisco** | UI Desktop Engineer Hybird, North Carolina Hybrid | Research Triangle Park, North... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-cisco-2023263?s=gh-new-grad-it-jobs-2027) |
 | **Boeing** | IT Systems Engineer - Millennium Space Systems | USA - El Segundo, CA | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026526283?s=gh-new-grad-it-jobs-2027) |
