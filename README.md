@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **GDIT** | Systems Administrator Intermediate – TS/SCI required | USA VA Fort Belvoir | 20m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ230376?s=gh-new-grad-it-jobs-2027) |
+| **GDIT** | Systems Administrator Intermediate – TS/SCI required | USA VA Fort Belvoir | 31m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ230376?s=gh-new-grad-it-jobs-2027) |
 | **Mach Industries** | IT Systems Administrator | Victorville, California, United... | 21h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-machindustries-4464025009?s=gh-new-grad-it-jobs-2027) |
 | **Thornton Tomasetti** | Cloud Systems Administrator | New York, NY | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-tt-thorntontomasetti-R7458?s=gh-new-grad-it-jobs-2027) |
 | **GDIT** | Linux System Administrator - active Top Secret required | USA DC Washington | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ230954?s=gh-new-grad-it-jobs-2027) |
@@ -123,8 +123,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **GDIT** | Help Desk Technical Support - Shift 11:00pm - 7:30am Friday - Tuesday - Secret or TS preferred | USA DC Washington | 20m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ230974?s=gh-new-grad-it-jobs-2027) |
-| **1Password** | IT Intern, IT Support - Winter 2027 | Remote (United States  Canada) | 50m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-1password-71e986eb-3b58-4c3c-adff-aebdb49a34b7?s=gh-new-grad-it-jobs-2027) |
+| **GDIT** | Help Desk Technical Support - Shift 11:00pm - 7:30am Friday - Tuesday - Secret or TS preferred | USA DC Washington | 31m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ230974?s=gh-new-grad-it-jobs-2027) |
+| **1Password** | IT Intern, IT Support - Winter 2027 | Remote (United States  Canada) | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-1password-71e986eb-3b58-4c3c-adff-aebdb49a34b7?s=gh-new-grad-it-jobs-2027) |
 | **Aptiv** | IT Support Analyst II - Desktop Systems | USA Walnut Creek, CA - WR | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-aptiv-aptiv-careers-J000700569?s=gh-new-grad-it-jobs-2027) |
 | **ElevenLabs** | IT Support Engineer | New York | 4h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-elevenlabs-750a8325-7ce1-45ea-b0b1-61dab78a456e?s=gh-new-grad-it-jobs-2027) |
 | **Dark Wolf Solutions** | Tier 1 Help Desk Technician | Ogden, UT | 22h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-darkwolfsolutions-8041523003?s=gh-new-grad-it-jobs-2027) |
@@ -227,7 +227,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **GDIT** | Network Administrator Associate (Hybrid) | USA AZ Home | 20m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ230778?s=gh-new-grad-it-jobs-2027) |
+| **GDIT** | Network Administrator Associate (Hybrid) | USA AZ Home | 31m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ230778?s=gh-new-grad-it-jobs-2027) |
 | **Booz Allen Hamilton** | Versa Network Engineer | Fort Meade, MD | 12h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0252123?s=gh-new-grad-it-jobs-2027) |
 | **Booz Allen Hamilton** | Versa Network Engineer | Fort Meade, MD | 12h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0252120?s=gh-new-grad-it-jobs-2027) |
 | **Booz Allen Hamilton** | Network Engineer | Fort Meade, MD | 12h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0252175?s=gh-new-grad-it-jobs-2027) |
@@ -301,7 +301,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Amentum** | Information Technology (IT) Engineer | GA-Forest Park | 22m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0173162?s=gh-new-grad-it-jobs-2027) |
+| **Amentum** | Information Technology (IT) Engineer | GA-Forest Park | 33m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0173162?s=gh-new-grad-it-jobs-2027) |
 | **Microsoft** | Security Researcher - Cybersecurity Threat Hunter | United States | 7h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200061606?s=gh-new-grad-it-jobs-2027) |
 | **Northrop Grumman** | Associate Classified Cybersecurity Analyst - Secret | United States-Arizona-Chandler | 8h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10250039?s=gh-new-grad-it-jobs-2027) |
 | **Booz Allen Hamilton** | Cyber Analyst, Junior | Washington, DC | 12h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0249110?s=gh-new-grad-it-jobs-2027) |
