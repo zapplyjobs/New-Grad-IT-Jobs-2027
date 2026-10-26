@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **CACI** | Infrastructure/System Administrator | Sterling, VA, US | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-334081?s=gh-new-grad-it-jobs-2027) |
+| **CACI** | Infrastructure/System Administrator | Sterling, VA, US | 17m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-334081?s=gh-new-grad-it-jobs-2027) |
 | **Leidos** | System Administrator | Huntsville, AL | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-leidos-external-R-00195336?s=gh-new-grad-it-jobs-2027) |
 | **GDIT** | Joint Live Virtual Constructive (JLVC) Systems Administrator II (C4ISR) - SECRET Clearance required | USA HI Schofield | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ230779?s=gh-new-grad-it-jobs-2027) |
 | **GDIT** | MTC-K Systems Administrator (IMO/C4ISR) - SECRET Clearance required | International | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ230869?s=gh-new-grad-it-jobs-2027) |
@@ -126,7 +126,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **USAA** | Service Desk Support Analyst-Intermediate Level | San Antonio Home | 36m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-usaa-usaajobswd-R0120499?s=gh-new-grad-it-jobs-2027) |
+| **USAA** | Service Desk Support Analyst-Intermediate Level | San Antonio Home | 46m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-usaa-usaajobswd-R0120499?s=gh-new-grad-it-jobs-2027) |
 | **Leidos** | Desktop Support Technician | Washington, DC | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-leidos-external-R-00195307?s=gh-new-grad-it-jobs-2027) |
 | **SpaceX** | Executive IT Support Specialist | McGregor, TX | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-spacex-8908024002?s=gh-new-grad-it-jobs-2027) |
 | **Parsons** | IT Specialist | NJ, Newark, R186061 | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-parsons-search-R186061?s=gh-new-grad-it-jobs-2027) |
@@ -217,11 +217,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Booz Allen Hamilton** | Network Engineer | Quantico, VA | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0252286?s=gh-new-grad-it-jobs-2027) |
-| **The Travelers Companies** | Mainframe Network Engineer | CT Hartford | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-travelers-external-R-52698?s=gh-new-grad-it-jobs-2027) |
-| **Northrop Grumman** | Network Engineer - Level 3 or 4 | United... | 18m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10257510?s=gh-new-grad-it-jobs-2027) |
-| **GDIT** | Systems/Network Engineer (TS/SCI /w poly required) | USA MD Annapolis Junction | 18m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ229159?s=gh-new-grad-it-jobs-2027) |
-| **GDIT** | Mid-Level Network Engineer | USA VA Richmond | 18m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ229940?s=gh-new-grad-it-jobs-2027) |
+| **Booz Allen Hamilton** | Network Engineer | Quantico, VA | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0252286?s=gh-new-grad-it-jobs-2027) |
+| **The Travelers Companies** | Mainframe Network Engineer | CT Hartford | 17m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-travelers-external-R-52698?s=gh-new-grad-it-jobs-2027) |
+| **Northrop Grumman** | Network Engineer - Level 3 or 4 | United... | 27m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10257510?s=gh-new-grad-it-jobs-2027) |
+| **GDIT** | Systems/Network Engineer (TS/SCI /w poly required) | USA MD Annapolis Junction | 28m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ229159?s=gh-new-grad-it-jobs-2027) |
+| **GDIT** | Mid-Level Network Engineer | USA VA Richmond | 28m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ229940?s=gh-new-grad-it-jobs-2027) |
 | **Leidos** | Field/Base Communications Network Engineer | Bethesda, MD | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-leidos-external-R-00195386?s=gh-new-grad-it-jobs-2027) |
 | **Impulse Space** | Network Engineer (Corporate IT) | Redondo Beach, California | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/pinpoint-impulsespace-606104?s=gh-new-grad-it-jobs-2027) |
 | **Impulse Space** | Network Engineer (Test Engineering) | Redondo Beach, California | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/pinpoint-impulsespace-606105?s=gh-new-grad-it-jobs-2027) |
@@ -292,10 +292,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **The Travelers Companies** | Senior Associate Cybersecurity Specialist - Third Party Risk Management Program | CT - Hartford | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-travelers-external-R-50096?s=gh-new-grad-it-jobs-2027) |
-| **State Street** | Red Team Engineer | Quincy Massachusetts | 37m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-statestreet-global-R-789964?s=gh-new-grad-it-jobs-2027) |
-| **Motorola Solutions** | PremierOne Remote System Admin | California Southern Remote Work | 37m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-motorolasolutions-careers-R69726?s=gh-new-grad-it-jobs-2027) |
-| **Reality Defender** | Red Team Engineer | New York City | 38m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-realitydefender-ad25d275-b8d3-4500-a175-ff39f41cdba5?s=gh-new-grad-it-jobs-2027) |
+| **The Travelers Companies** | Senior Associate Cybersecurity Specialist - Third Party Risk Management Program | CT - Hartford | 17m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-travelers-external-R-50096?s=gh-new-grad-it-jobs-2027) |
+| **State Street** | Red Team Engineer | Quincy Massachusetts | 46m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-statestreet-global-R-789964?s=gh-new-grad-it-jobs-2027) |
+| **Motorola Solutions** | PremierOne Remote System Admin | California Southern Remote Work | 46m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-motorolasolutions-careers-R69726?s=gh-new-grad-it-jobs-2027) |
+| **Reality Defender** | Red Team Engineer | New York City | 48m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-realitydefender-ad25d275-b8d3-4500-a175-ff39f41cdba5?s=gh-new-grad-it-jobs-2027) |
 | **Northrop Grumman** | Classified Cybersecurity Analyst - TS/SCI | United States-Colorado-Aurora | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10257067?s=gh-new-grad-it-jobs-2027) |
 | **Northrop Grumman** | Classified Cybersecurity Analyst 3/4 - TS/SCI | United States-Colorado-Aurora | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10257011?s=gh-new-grad-it-jobs-2027) |
 | **Parsons** | Cyber Threat Analyst | MD, Annapolis Junction, R187849 | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-parsons-search-R187849?s=gh-new-grad-it-jobs-2027) |
