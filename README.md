@@ -218,7 +218,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Astreya** | Network Operations Engineer II | Denver, CO | 42m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-astreya-life-at-astreya-opportunities-R0018027?s=gh-new-grad-it-jobs-2027) |
+| **Astreya** | Network Operations Engineer II | Denver, CO | 50m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-astreya-life-at-astreya-opportunities-R0018027?s=gh-new-grad-it-jobs-2027) |
 | **Leidos** | Field/Base Communications Network Engineer | Bethesda, MD | 4h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-leidos-external-R-00195386?s=gh-new-grad-it-jobs-2027) |
 | **Northrop Grumman** | Network Engineer - Level 3 or 4 | United... | 4h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10257510?s=gh-new-grad-it-jobs-2027) |
 | **GDIT** | Systems/Network Engineer (TS/SCI /w poly required) | USA MD Annapolis Junction | 7h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ229159?s=gh-new-grad-it-jobs-2027) |
@@ -294,7 +294,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Northrop Grumman** | Classified Cybersecurity Analyst | United States-Maryland-Elkridge | 4h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10256895?s=gh-new-grad-it-jobs-2027) |
 | **Northrop Grumman** | Classified Cybersecurity Analyst - TS/SCI | United States-Colorado-Aurora | 4h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10257067?s=gh-new-grad-it-jobs-2027) |
 | **Northrop Grumman** | Classified Cybersecurity Analyst 3/4 - TS/SCI | United States-Colorado-Aurora | 4h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10257011?s=gh-new-grad-it-jobs-2027) |
-| **Reality Defender** | Red Team Engineer | New York City | 17h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-realitydefender-ad25d275-b8d3-4500-a175-ff39f41cdba5?s=gh-new-grad-it-jobs-2027) |
+| **Reality Defender** | Red Team Engineer | New York City | 18h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-realitydefender-ad25d275-b8d3-4500-a175-ff39f41cdba5?s=gh-new-grad-it-jobs-2027) |
 | **Parsons** | Cyber Threat Analyst | MD, Annapolis Junction, R187849 | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-parsons-search-R187849?s=gh-new-grad-it-jobs-2027) |
 | **Parsons** | Cyber Threat Analyst | MD, Annapolis Junction, R185741 | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-parsons-search-R185741?s=gh-new-grad-it-jobs-2027) |
 | **Parsons** | Cyber Threat Operations & Intelligence Analyst | MD, Annapolis Junction, R181820 | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-parsons-search-R181820?s=gh-new-grad-it-jobs-2027) |
