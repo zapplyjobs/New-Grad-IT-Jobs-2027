@@ -65,8 +65,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **GDIT** | DSS PMD Systems Administrator | USA DC Washington | 10h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ231495?s=gh-new-grad-it-jobs-2027) |
-| **GDIT** | NATO Functional Area Services Systems Administrator | International | 10h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ231188?s=gh-new-grad-it-jobs-2027) |
+| **GDIT** | DSS PMD Systems Administrator | USA DC Washington | 11h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ231495?s=gh-new-grad-it-jobs-2027) |
+| **GDIT** | NATO Functional Area Services Systems Administrator | International | 11h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ231188?s=gh-new-grad-it-jobs-2027) |
 | **State Street** | Network Infrastructure Engineer, AVP | Quincy Massachusetts | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-statestreet-global-R-784829?s=gh-new-grad-it-jobs-2027) |
 | **Magna** | IT System Administrator Supervisor | Nashville, Illinois, US | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-magna-magna-R00268041?s=gh-new-grad-it-jobs-2027) |
 | **Amentum** | Junior Microsoft System Administrator | VA-Fort Belvoir | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0174242?s=gh-new-grad-it-jobs-2027) |
@@ -135,7 +135,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Leidos** | Desktop Support Technician | Dahlgren, VA | 6h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-leidos-external-R-00195821?s=gh-new-grad-it-jobs-2027) |
 | **Leidos** | IT Specialist Junior | Jacksonville, NC | 6h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-leidos-external-R-00195806?s=gh-new-grad-it-jobs-2027) |
 | **Leidos** | Desktop Support Technician | Suitland, MD | 6h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-leidos-external-R-00195860?s=gh-new-grad-it-jobs-2027) |
-| **GDIT** | Helpdesk Support Technician | USA DC Washington | 10h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ230038?s=gh-new-grad-it-jobs-2027) |
+| **GDIT** | Helpdesk Support Technician | USA DC Washington | 11h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ230038?s=gh-new-grad-it-jobs-2027) |
 | **Per Scholas** | Instructional Assistant (IT Support) | Buffalo, New York, United States | 13h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-perscholashires-4725785006?s=gh-new-grad-it-jobs-2027) |
 | **NTT Data** | Desktop Support Technician | Syracuse, US-NY | 18h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ntt-data-395086?s=gh-new-grad-it-jobs-2027) |
 | **Per Scholas** | Instructional Assistant (IT Support) | United States | 18h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-perscholashires-4725733006?s=gh-new-grad-it-jobs-2027) |
@@ -229,10 +229,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|----------|--------|----------|
 | **Leidos** | Communications Network Engineer Mid | Oceanside, CA | 6h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-leidos-external-R-00195763?s=gh-new-grad-it-jobs-2027) |
 | **University of Texas at Austin** | Enterprise Network Engineer I | AUSTIN, TX | 7h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-utaustin-utstaff-R_00049731?s=gh-new-grad-it-jobs-2027) |
-| **GDIT** | Network Engineer - TS/SCI with Polygraph | USA VA McLean | 10h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ231241?s=gh-new-grad-it-jobs-2027) |
-| **SpaceX** | IT Network Engineer | Memphis, TN | 13h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-spacex-8924393002?s=gh-new-grad-it-jobs-2027) |
-| **SpaceX** | IT Network Administrator | Memphis, TN | 13h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-spacex-8924408002?s=gh-new-grad-it-jobs-2027) |
-| **SpaceX** | IT Wireless Network Engineer | Memphis, TN | 14h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-spacex-8924320002?s=gh-new-grad-it-jobs-2027) |
+| **GDIT** | Network Engineer - TS/SCI with Polygraph | USA VA McLean | 11h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ231241?s=gh-new-grad-it-jobs-2027) |
+| **SpaceX** | IT Network Engineer | Memphis, TN | 14h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-spacex-8924393002?s=gh-new-grad-it-jobs-2027) |
+| **SpaceX** | IT Network Administrator | Memphis, TN | 14h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-spacex-8924408002?s=gh-new-grad-it-jobs-2027) |
+| **SpaceX** | IT Wireless Network Engineer | Memphis, TN | 15h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-spacex-8924320002?s=gh-new-grad-it-jobs-2027) |
 | **Motorola Solutions** | Onsite WAVE Network Engineer - Washington, D.C. | Washington DC Remote Work, More... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-motorolasolutions-careers-R69802?s=gh-new-grad-it-jobs-2027) |
 | **Booz Allen Hamilton** | Network Administrator | San Diego, CA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0252630?s=gh-new-grad-it-jobs-2027) |
 | **GDIT** | Network Engineer | International | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ229055?s=gh-new-grad-it-jobs-2027) |
