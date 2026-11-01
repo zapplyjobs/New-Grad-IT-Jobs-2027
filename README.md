@@ -133,7 +133,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
 | **GDIT** | Help Desk Technician | USA FL MacDill AFB | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ231450?s=gh-new-grad-it-jobs-2027) |
-| **Jabil** | IT Support Technician I (2nd Shift) | Prince George, VA | 20h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jabil-jabil-careers-J2466891?s=gh-new-grad-it-jobs-2027) |
+| **Jabil** | IT Support Technician I (2nd Shift) | Prince George, VA | 21h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jabil-jabil-careers-J2466891?s=gh-new-grad-it-jobs-2027) |
 | **CACI** | Service Desk Technician | Ashburn, VA, US | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-333583?s=gh-new-grad-it-jobs-2027) |
 | **Teledyne** | Technical Support Specialist | Hudson, NH | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-flir-flircareers-REQ37262?s=gh-new-grad-it-jobs-2027) |
 | **Aveva** | IT Support Engineer-1 | Philadelphia, Pennsylvania,... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-aveva-aveva-careers-R015157?s=gh-new-grad-it-jobs-2027) |
