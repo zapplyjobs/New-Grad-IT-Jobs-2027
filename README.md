@@ -136,7 +136,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Amentum** | IT Support Technician (Temporary) | CA-Camarillo | 17m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0173446?s=gh-new-grad-it-jobs-2027) |
+| **Amentum** | IT Support Technician (Temporary) | CA-Camarillo | 31m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0173446?s=gh-new-grad-it-jobs-2027) |
 | **AlphaSights** | IT Technician | New York | 7h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-alphasights-8349800?s=gh-new-grad-it-jobs-2027) |
 | **Sony Interactive Entertainment** | IT Support Specialist (Contract) | CA | 17h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-sonyinteractiveentertainmentglobal-6233291004?s=gh-new-grad-it-jobs-2027) |
 | **Base Power** | Industrial IT Support Specialist | Austin, TX | 19h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-base-power-070fee5a-4235-4588-9751-33f3664f9655?s=gh-new-grad-it-jobs-2027) |
@@ -237,7 +237,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Astreya** | Network Operations Engineer II | Denver, CO | 17m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-astreya-life-at-astreya-opportunities-R0018279?s=gh-new-grad-it-jobs-2027) |
+| **Astreya** | Network Operations Engineer II | Denver, CO | 32m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-astreya-life-at-astreya-opportunities-R0018279?s=gh-new-grad-it-jobs-2027) |
 | **Northrop Grumman** | Electronic Network Engineer | United States-California-San Diego | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10257725?s=gh-new-grad-it-jobs-2027) |
 | **Northrop Grumman** | an Electronic Network Engineer (Level 2 or 3) | 2 Locations | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10257704?s=gh-new-grad-it-jobs-2027) |
 | **Point72** | Network Engineer, Systematic Trading Infrastructure | New York, NY | 19h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-point72-8919989002?s=gh-new-grad-it-jobs-2027) |
