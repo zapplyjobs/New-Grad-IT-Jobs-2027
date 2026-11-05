@@ -138,7 +138,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Magna** | IT Technician | Highland Park, Michigan, US | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-magna-magna-R00268729?s=gh-new-grad-it-jobs-2027) |
+| **Magna** | IT Technician | Highland Park, Michigan, US | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-magna-magna-R00268729?s=gh-new-grad-it-jobs-2027) |
 | **Trimble** | IS Help Desk Technician | OR, Lake Oswego | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-trimble-trimblecareers-R57932?s=gh-new-grad-it-jobs-2027) |
 | **Unisys** | US: Service Desk Change Manager | USA Remote | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-unisys-external-REQ576818?s=gh-new-grad-it-jobs-2027) |
 | **GDIT** | Desktop Support Technician    Onsite DC   Eligible for Public Trust | USA DC Washington | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ231514?s=gh-new-grad-it-jobs-2027) |
@@ -243,8 +243,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **AstraZeneca** | OT Network Engineer - Pharmaceutical | – Tarzana – CA | 57m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-astrazeneca-careers-R-256632?s=gh-new-grad-it-jobs-2027) |
-| **Astreya** | Network Operations Engineer II | Denver, CO | 57m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-astreya-life-at-astreya-opportunities-R0018279?s=gh-new-grad-it-jobs-2027) |
+| **AstraZeneca** | OT Network Engineer - Pharmaceutical | – Tarzana – CA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-astrazeneca-careers-R-256632?s=gh-new-grad-it-jobs-2027) |
+| **Astreya** | Network Operations Engineer II | Denver, CO | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-astreya-life-at-astreya-opportunities-R0018279?s=gh-new-grad-it-jobs-2027) |
 | **Northrop Grumman** | Electronic Network Engineer | United States-California-San Diego | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10257725?s=gh-new-grad-it-jobs-2027) |
 | **Northrop Grumman** | an Electronic Network Engineer (Level 2 or 3) | 2 Locations | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10257704?s=gh-new-grad-it-jobs-2027) |
 | **GDIT** | COMSEC / Network Administrator | International | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ231763?s=gh-new-grad-it-jobs-2027) |
@@ -298,7 +298,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Uline** | Network Engineer Team Lead | Pleasant Prairie, WI | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-uline-uline-careers-R268553?s=gh-new-grad-it-jobs-2027) |
 | **Thales** | Network Engineer | Irvine | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-thales-careers-R0335659?s=gh-new-grad-it-jobs-2027) |
 | **Verizon** | Network Engineer II | Houston, Texas | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-verizon-verizon-careers-R-1101708?s=gh-new-grad-it-jobs-2027) |
-| **True Anomaly** | Network Engineer | Long Beach, CA | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-trueanomalyinc-5269081007?s=gh-new-grad-it-jobs-2027) |
+| **True Anomaly** | Network Engineer | Long Beach, CA | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-trueanomalyinc-5269081007?s=gh-new-grad-it-jobs-2027) |
 | **Anduril** | Network Engineer, Factory Systems and Operational Technology | Costa Mesa, California, United... | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-andurilindustries-5251955007?s=gh-new-grad-it-jobs-2027) |
 | **Trace3** | Network Engineer SME | Linthicum Heights, MD | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-trace3-8291080?s=gh-new-grad-it-jobs-2027) |
 | **Voloridge Investment Management** | Network Engineer | Jupiter, FL | 3w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-voloridgeinvestmentmanagement-4449124009?s=gh-new-grad-it-jobs-2027) |
@@ -334,7 +334,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **State Street** | Red Team Engineer | Quincy Massachusetts | 47m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-statestreet-global-R-789964?s=gh-new-grad-it-jobs-2027) |
+| **State Street** | Red Team Engineer | Quincy Massachusetts | 55m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-statestreet-global-R-789964?s=gh-new-grad-it-jobs-2027) |
 | **CACI** | Oracle Database Administrator (DBA) | Remote | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-334388?s=gh-new-grad-it-jobs-2027) |
 | **Northrop Grumman** | Classisfied Cybersecurity Analyst - TS/SCI | United States-Illinois-Rolling... | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10258841?s=gh-new-grad-it-jobs-2027) |
 | **GDIT** | SCITLS Computer Support Technician | USA NE Offutt AFB | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ231879?s=gh-new-grad-it-jobs-2027) |
