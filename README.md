@@ -138,8 +138,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **NBCUniversal** | Universal Film Production IT Support Internships – Summer 2027 | North Hollywood, CA | 24m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-NBCUniversal3-744000160648119?s=gh-new-grad-it-jobs-2027) |
-| **Atlantic Health System** | IT Support Technician II | Morristown, NJ, United States | 15h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-atlantic-health-32799?s=gh-new-grad-it-jobs-2027) |
+| **NBCUniversal** | Universal Film Production IT Support Internships – Summer 2027 | North Hollywood, CA | 33m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-NBCUniversal3-744000160648119?s=gh-new-grad-it-jobs-2027) |
+| **Atlantic Health System** | IT Support Technician II | Morristown, NJ, United States | 16h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-atlantic-health-32799?s=gh-new-grad-it-jobs-2027) |
 | **GDIT** | Tier-2 Ground Terminal / IT Technician (Australia) Junior, Intermediate and Senior Levels TS/SCI... | International | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ231933?s=gh-new-grad-it-jobs-2027) |
 | **Leidos** | Service Desk Tier 1 Technician | Norfolk, VA | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-leidos-external-R-00196496?s=gh-new-grad-it-jobs-2027) |
 | **Leidos** | Desktop Support Technician | Virginia Beach, VA | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-leidos-external-R-00196484?s=gh-new-grad-it-jobs-2027) |
@@ -247,9 +247,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Northrop Grumman** | Network Administrator 3/4 - TS/SCI | United States-Virginia-Dulles | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10259438?s=gh-new-grad-it-jobs-2027) |
-| **GDIT** | Network Engineer | International | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ229055?s=gh-new-grad-it-jobs-2027) |
-| **CACI** | Network Engineer- Hospital Ship- Humanitarian Aid | Norfolk, VA, US | 9m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-334818?s=gh-new-grad-it-jobs-2027) |
+| **Northrop Grumman** | Network Administrator 3/4 - TS/SCI | United States-Virginia-Dulles | 16m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10259438?s=gh-new-grad-it-jobs-2027) |
+| **GDIT** | Network Engineer | International | 17m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ229055?s=gh-new-grad-it-jobs-2027) |
+| **CACI** | Network Engineer- Hospital Ship- Humanitarian Aid | Norfolk, VA, US | 18m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-334818?s=gh-new-grad-it-jobs-2027) |
 | **SpaceX** | OT Network Engineer | College Station, TX | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-spacex-8934043002?s=gh-new-grad-it-jobs-2027) |
 | **GDIT** | RQ228116 NCIS Network Engineer   Shift Work   Active TS/SCI clearance | USA VA Quantico | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ231961?s=gh-new-grad-it-jobs-2027) |
 | **AMD** | MTS Network Engineer | Austin, TX, United States | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/amd-94456?s=gh-new-grad-it-jobs-2027) |
@@ -333,8 +333,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Boeing** | Cloud Infrastructure Administrator (Mid-Level, Senior or Lead) **Sign on Bonus Potential** | Berkeley, MO | 9m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026507042?s=gh-new-grad-it-jobs-2027) |
-| **Boeing** | Cloud Platform Administrator (Mid-Level, Senior or Lead) **Sign on Bonus Potential** | Berkeley, MO | 9m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026507044?s=gh-new-grad-it-jobs-2027) |
+| **Boeing** | Cloud Infrastructure Administrator (Mid-Level, Senior or Lead) **Sign on Bonus Potential** | Berkeley, MO | 18m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026507042?s=gh-new-grad-it-jobs-2027) |
+| **Boeing** | Cloud Platform Administrator (Mid-Level, Senior or Lead) **Sign on Bonus Potential** | Berkeley, MO | 18m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026507044?s=gh-new-grad-it-jobs-2027) |
 | **Apple** | Security Researcher – Red Team | Cupertino | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-200693801?s=gh-new-grad-it-jobs-2027) |
 | **LLNL** | Communications Specialist – Livermore Information Technology Program | Livermore, CA | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-llnl-3743990016706046?s=gh-new-grad-it-jobs-2027) |
 | **CrowdStrike** | Professional Services Pathfinder Intern - Red Team - Summer 2027 | USA - Arlington, VA | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-crowdstrike-crowdstrikecareers-R30780?s=gh-new-grad-it-jobs-2027) |
