@@ -65,8 +65,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **CACI** | Systems Administrator | Springfield, VA, US | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-334819?s=gh-new-grad-it-jobs-2027) |
-| **RTX** | System Administrator - Secret clearance | CA-EL SEGUNDO-E04 | 26m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01885891?s=gh-new-grad-it-jobs-2027) |
+| **CACI** | Systems Administrator | Springfield, VA, US | 17m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-334819?s=gh-new-grad-it-jobs-2027) |
+| **RTX** | System Administrator - Secret clearance | CA-EL SEGUNDO-E04 | 36m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01885891?s=gh-new-grad-it-jobs-2027) |
 | **Leidos** | Junior Salesforce Health Cloud System Administrator | 6314 Remote/Teleworker US | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-leidos-external-R-00196200?s=gh-new-grad-it-jobs-2027) |
 | **SpaceX** | IT Network Infrastructure Engineer, Launch | Starbase, TX | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-spacex-8933928002?s=gh-new-grad-it-jobs-2027) |
 | **Unisys** | Junior Windows System Administrator | Remote, PA, United States of... | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-unisys-external-REQ576813?s=gh-new-grad-it-jobs-2027) |
@@ -138,7 +138,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Saronic Technologies** | IT Technician (Austin) | Austin, TX | 49m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-saronic-62636523-c7da-4076-aee4-bc7c0d8685d0?s=gh-new-grad-it-jobs-2027) |
+| **Saronic Technologies** | IT Technician (Austin) | Austin, TX | 59m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-saronic-62636523-c7da-4076-aee4-bc7c0d8685d0?s=gh-new-grad-it-jobs-2027) |
 | **NBCUniversal** | Universal Film Production IT Support Internships – Summer 2027 | North Hollywood, CA | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-NBCUniversal3-744000160648119?s=gh-new-grad-it-jobs-2027) |
 | **Atlantic Health System** | IT Support Technician II | Morristown, NJ, United States | 19h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-atlantic-health-32799?s=gh-new-grad-it-jobs-2027) |
 | **GDIT** | Tier-2 Ground Terminal / IT Technician (Australia) Junior, Intermediate and Senior Levels TS/SCI... | International | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ231933?s=gh-new-grad-it-jobs-2027) |
@@ -248,8 +248,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Northrop Grumman** | Network Administrator 3/4 - TS/SCI | United States-Virginia-Dulles | 26m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10259438?s=gh-new-grad-it-jobs-2027) |
-| **CACI** | Network Engineer- Hospital Ship- Humanitarian Aid | Norfolk, VA, US | 41m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-334818?s=gh-new-grad-it-jobs-2027) |
+| **Northrop Grumman** | Network Administrator 3/4 - TS/SCI | United States-Virginia-Dulles | 36m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10259438?s=gh-new-grad-it-jobs-2027) |
+| **CACI** | Network Engineer- Hospital Ship- Humanitarian Aid | Norfolk, VA, US | 52m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-334818?s=gh-new-grad-it-jobs-2027) |
 | **GDIT** | Network Engineer | International | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ229055?s=gh-new-grad-it-jobs-2027) |
 | **SpaceX** | OT Network Engineer | College Station, TX | 4h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-spacex-8934043002?s=gh-new-grad-it-jobs-2027) |
 | **GDIT** | RQ228116 NCIS Network Engineer   Shift Work   Active TS/SCI clearance | USA VA Quantico | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ231961?s=gh-new-grad-it-jobs-2027) |
@@ -334,12 +334,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **University of Texas at Austin** | Cybersecurity Analyst II | UT MAIN | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-utaustin-utstaff-R_00049886?s=gh-new-grad-it-jobs-2027) |
-| **CACI** | Cyber Security Operations Specialist II/Tier 2 | St. Louis, MO, US | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-334766?s=gh-new-grad-it-jobs-2027) |
-| **Conagra Brands** | Cybersecurity GRC Analyst – Third-Party Risk | Omaha, Nebraska | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-conagrabrands-careers-us-Req-040783?s=gh-new-grad-it-jobs-2027) |
-| **Boeing** | Cloud Infrastructure Administrator (Mid-Level, Senior or Lead) **Sign on Bonus Potential** | Berkeley, MO | 41m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026507042?s=gh-new-grad-it-jobs-2027) |
-| **Boeing** | Cloud Platform Administrator (Mid-Level, Senior or Lead) **Sign on Bonus Potential** | Berkeley, MO | 41m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026507044?s=gh-new-grad-it-jobs-2027) |
-| **Booz Allen Hamilton** | Cybersecurity Policy Analyst | Arlington, VA | 54m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0253238?s=gh-new-grad-it-jobs-2027) |
+| **University of Texas at Austin** | Cybersecurity Analyst II | UT MAIN | 16m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-utaustin-utstaff-R_00049886?s=gh-new-grad-it-jobs-2027) |
+| **CACI** | Cyber Security Operations Specialist II/Tier 2 | St. Louis, MO, US | 17m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-334766?s=gh-new-grad-it-jobs-2027) |
+| **Conagra Brands** | Cybersecurity GRC Analyst – Third-Party Risk | Omaha, Nebraska | 17m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-conagrabrands-careers-us-Req-040783?s=gh-new-grad-it-jobs-2027) |
+| **Boeing** | Cloud Infrastructure Administrator (Mid-Level, Senior or Lead) **Sign on Bonus Potential** | Berkeley, MO | 52m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026507042?s=gh-new-grad-it-jobs-2027) |
+| **Boeing** | Cloud Platform Administrator (Mid-Level, Senior or Lead) **Sign on Bonus Potential** | Berkeley, MO | 52m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026507044?s=gh-new-grad-it-jobs-2027) |
+| **Booz Allen Hamilton** | Cybersecurity Policy Analyst | Arlington, VA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0253238?s=gh-new-grad-it-jobs-2027) |
 | **LabCorp** | Business Systems Analyst - Laboratory Information Technology Systems | NC Durham 10 Moore Drive | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2634920?s=gh-new-grad-it-jobs-2027) |
 | **Apple** | Security Researcher – Red Team | Cupertino | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-200693801?s=gh-new-grad-it-jobs-2027) |
 | **LLNL** | Communications Specialist – Livermore Information Technology Program | Livermore, CA | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-llnl-3743990016706046?s=gh-new-grad-it-jobs-2027) |
