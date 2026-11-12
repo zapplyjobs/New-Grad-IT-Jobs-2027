@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Blue Origin** | Lunar Systems Administrator - Level 1 | Space Coast, FL | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-blueorigin-blueorigin-R75118?s=gh-new-grad-it-jobs-2027) |
+| **Blue Origin** | Lunar Systems Administrator - Level 1 | Space Coast, FL | 4h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-blueorigin-blueorigin-R75118?s=gh-new-grad-it-jobs-2027) |
 | **Amentum** | Systems Administrator 2 (Windows) PART-TIME | HI-Waimea | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0174508?s=gh-new-grad-it-jobs-2027) |
 | **Vultr** | Linux Systems Administrator (3rd Shift) | Remote - United States | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-Vultr-24c3445f-27b2-40fb-870e-e59b71305787?s=gh-new-grad-it-jobs-2027) |
 | **North Wind Group** | Systems Administrator - IT Professional (NWS 00959) | LIVERMORE, California | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/breezy-north-wind-group-4fa97be3d382?s=gh-new-grad-it-jobs-2027) |
@@ -142,7 +142,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Jabil** | IT Support Technician II (Shift Rotations) | Memphis, TN | 5h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jabil-jabil-careers-J2466865?s=gh-new-grad-it-jobs-2027) |
+| **Jabil** | IT Support Technician II (Shift Rotations) | Memphis, TN | 6h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jabil-jabil-careers-J2466865?s=gh-new-grad-it-jobs-2027) |
 | **Sysco** | Associate Analyst, Service Desk Support - GSC - US | Sysco Corporate | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-sysco-syscocareers-R274784?s=gh-new-grad-it-jobs-2027) |
 | **NTT Data** | Desktop support-Windows operating system | McKinney, US-TX | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ntt-data-396441?s=gh-new-grad-it-jobs-2027) |
 | **Leidos** | Enterprise Service Desk Specialist Mid | Kansas City, MO | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-leidos-external-R-00196605?s=gh-new-grad-it-jobs-2027) |
@@ -253,7 +253,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|----------|--------|----------|
 | **Comcast** | Engineer 2, Network Engineering | NJ - Bellmawr | 4h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-comcast-comcast-careers-R448669?s=gh-new-grad-it-jobs-2027) |
 | **NBCUniversal** | Network Engineer | New York, NEW YORK | 14h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-NBCUniversal3-744000161163099?s=gh-new-grad-it-jobs-2027) |
-| **Microsoft** | Cloud Network Engineer II | United States | 14h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200062650?s=gh-new-grad-it-jobs-2027) |
+| **Microsoft** | Cloud Network Engineer II | United States | 15h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200062650?s=gh-new-grad-it-jobs-2027) |
 | **University of Texas at Austin** | Linux Network Engineering Scientist Associate | PICKLE RESEARCH | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-utaustin-utstaff-R_00049931?s=gh-new-grad-it-jobs-2027) |
 | **Astreya** | Network Operations Engineer II | Denver, CO | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-astreya-life-at-astreya-opportunities-R0018262?s=gh-new-grad-it-jobs-2027) |
 | **CACI** | Network Engineer III | Springfield, VA, US | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-334915?s=gh-new-grad-it-jobs-2027) |
