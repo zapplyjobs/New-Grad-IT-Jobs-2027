@@ -155,7 +155,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **NTT Data** | Service Desk /Helpdesk Associate - -Remote | Lincoln, US-NE | 13h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ntt-data-393535?s=gh-new-grad-it-jobs-2027) |
 | **BAE Systems** | Junior Desktop Support Technician | Hudson, New Hampshire | 13h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-bae-systems-130696BR?s=gh-new-grad-it-jobs-2027) |
 | **Machina Labs** | IT Support Specialist | Chatsworth, CA | 15h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-MachinaLabs-fc83374b-eedb-4b37-8503-da70cbce7bc6?s=gh-new-grad-it-jobs-2027) |
-| **Amentum** | NCC Help Desk - NISSC - CMSFS | CO-Colorado Springs | 17h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0173925?s=gh-new-grad-it-jobs-2027) |
+| **Amentum** | NCC Help Desk - NISSC - CMSFS | CO-Colorado Springs | 18h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0173925?s=gh-new-grad-it-jobs-2027) |
 | **AeroVironment** | Service Desk Technician II | Huntsville, AL | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-avav-avav-9433?s=gh-new-grad-it-jobs-2027) |
 | **AeroVironment** | Service Desk Technician II | Germantown, MD | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-avav-avav-9428?s=gh-new-grad-it-jobs-2027) |
 | **AeroVironment** | Service Desk Technician II | Simi Valley, CA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-avav-avav-9427?s=gh-new-grad-it-jobs-2027) |
@@ -261,7 +261,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **GDIT** | Network Engineer SME | USA HI Camp Smith | 25m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ232484?s=gh-new-grad-it-jobs-2027) |
+| **GDIT** | Network Engineer SME | USA HI Camp Smith | 32m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ232484?s=gh-new-grad-it-jobs-2027) |
 | **Boeing** | Entry Level Command and Data Handling Network Engineer (Autonomous Navigation Systems) | USA - El Segundo, CA | 7h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026530181?s=gh-new-grad-it-jobs-2027) |
 | **Leidos** | Network Operations Center (NOC) Technician II | Shiloh, IL | 17h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-leidos-external-R-00189445?s=gh-new-grad-it-jobs-2027) |
 | **Zayo** | Network Engineer III - Packet | United States | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-zayo-zayo-careers-R0017528?s=gh-new-grad-it-jobs-2027) |
