@@ -259,7 +259,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|----------|--------|----------|
 | **Booz Allen Hamilton** | Network Administrator | San Diego, CA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0252630?s=gh-new-grad-it-jobs-2027) |
 | **GDIT** | Junior Network Engineer (Palo Alto) | USA VA Richmond | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ229937?s=gh-new-grad-it-jobs-2027) |
-| **Anthropic** | Corporate Network Engineer | Remote-Friendly (Travel... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-anthropic-5489564008?s=gh-new-grad-it-jobs-2027) |
+| **Anthropic** | Corporate Network Engineer | Remote-Friendly (Travel... | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-anthropic-5489564008?s=gh-new-grad-it-jobs-2027) |
 | **Zayo** | Network Engineer | United States | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-zayo-zayo-careers-R0016769?s=gh-new-grad-it-jobs-2027) |
 | **GDIT** | Network Engineer SME | USA HI Camp Smith | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ232484?s=gh-new-grad-it-jobs-2027) |
 | **CACI** | Satellite Control Network Modifications Network Engineer | Colorado Springs, CO, US | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-333828?s=gh-new-grad-it-jobs-2027) |
@@ -376,7 +376,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Elveo** | Satellite Systems Operations Engineer | Chantilly, VA | 17m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-elveo-27c25953-b784-43ac-8d0a-934218276346?s=gh-new-grad-it-jobs-2027) |
+| **Elveo** | Satellite Systems Operations Engineer | Chantilly, VA | 31m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-elveo-27c25953-b784-43ac-8d0a-934218276346?s=gh-new-grad-it-jobs-2027) |
 | **Guidehouse** | Data Analyst & IT Consultant - Real Estate Portfolio | DC, Washington | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-guidehouse-external-42980?s=gh-new-grad-it-jobs-2027) |
 | **Salesforce** | Offensive Security Engineer - Red Team | California San Francisco | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR332456?s=gh-new-grad-it-jobs-2027) |
 | **Jabil** | Cyber Risk Specialist II | St. Petersburg/Tampa, FL | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jabil-jabil-careers-J2468873?s=gh-new-grad-it-jobs-2027) |
